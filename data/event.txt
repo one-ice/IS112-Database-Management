@@ -1,0 +1,498 @@
+Event Name	Event date	Event Time	Location	
+A*Star Scholarship Award Ceremony	2015-08-30	08:45:22	Hall 4, Suntect City Convention Centre	
+A*Star Scholarship Award Ceremony	2016-07-26	06:01:12	Hall 4, Suntect City Convention Centre	
+A*Star Scholarship Award Ceremony	2017-04-30	12:22:15	Hall 4, Suntect City Convention Centre	
+Administrative Service Dinner	2015-10-04	08:19:53	SMNS Main Hall	
+Administrative Service Dinner	2016-01-27	14:44:40	SMNS Main Hall	
+Administrative Service Dinner	2017-12-19	09:51:05	SMNS Main Hall	
+Adult Learning Symposium	2015-10-09	14:51:41	SMU School Of Law, Main Hall	
+Adult Learning Symposium	2016-08-02	16:27:49	SMU School Of Law, Main Hall	
+Adult Learning Symposium	2017-12-10	09:10:44	SMU School Of Law, Main Hall	
+Anti-Corruption Summit	2016-02-21	07:35:05	Main Ballroom, Shangri La Hotel	
+Anti-Corruption Summit	2017-02-28	06:10:34	Main Ballroom, Shangri La Hotel	
+Anti-Corruption Summit	2018-06-17	09:24:52	Main Ballroom, Shangri La Hotel	
+APAIE Conference and Exhibition	2015-10-04	12:29:01	Hall 7, Singapore EXPO	
+APAIE Conference and Exhibition	2016-10-11	11:13:51	Hall 7, Singapore EXPO	
+APAIE Conference and Exhibition	2017-12-28	12:11:56	Hall 7, Singapore EXPO	
+Appointment and Appreciation Ceremony for Principals	2015-07-05	10:10:18	Main Hall, NIE	
+Appointment and Appreciation Ceremony for Principals	2016-09-14	10:33:59	Main Hall, NIE	
+Appointment and Appreciation Ceremony for Principals	2017-03-04	14:16:25	Main Hall, NIE	
+APSN Charity Dinner	2015-04-05	14:13:14	Main Ballroom, The St. Regis Singapore	
+APSN Charity Dinner	2016-01-22	14:44:37	Main Ballroom, The St. Regis Singapore	
+APSN Charity Dinner	2017-04-18	11:06:07	Main Ballroom, The St. Regis Singapore	
+Arts Education Conference	2015-11-13	16:59:18	Hall 2, Suntec City Convention Centre	
+Arts Education Conference	2016-11-10	16:10:46	Hall 2, Suntec City Convention Centre	
+Arts Education Conference	2017-02-24	10:55:06	Hall 2, Suntec City Convention Centre	
+ASEAN Engineering Deans Summit	2015-04-13	14:22:15	Hall 4, Marina Bay Sands Convention Centre	
+ASEAN Engineering Deans Summit	2016-03-13	10:46:09	Hall 4, Marina Bay Sands Convention Centre	
+ASEAN Engineering Deans Summit	2017-10-16	12:17:57	Hall 4, Marina Bay Sands Convention Centre	
+ASEAN Ministerial Meeting on Transnational Crime (AMMTC)	2015-05-21	12:23:03	Hall 6, Singapore EXPO	
+ASEAN Ministerial Meeting on Transnational Crime (AMMTC)	2016-01-19	08:33:03	Hall 6, Singapore EXPO	
+ASEAN Ministerial Meeting on Transnational Crime (AMMTC)	2017-05-09	13:56:17	Hall 6, Singapore EXPO	
+ASEAN Ministers on Energy Meeting (AMEM) Opening Ceremony	2016-08-24	12:32:26	Hall 4, Singapore EXPO	
+ASEAN Ministers on Energy Meeting (AMEM) Opening Ceremony	2017-08-06	08:22:35	Hall 4, Singapore EXPO	
+ASEAN Ministers on Energy Meeting (AMEM) Opening Ceremony	2018-01-31	12:05:25	Hall 4, Singapore EXPO	
+ASEAN Ministers on Energy Meeting (AMEM) Press Conference	2016-11-25	16:29:40	Hall 5, Singapore EXPO	
+ASEAN Ministers on Energy Meeting (AMEM) Press Conference	2017-09-18	14:51:11	Hall 5, Singapore EXPO	
+ASEAN Ministers on Energy Meeting (AMEM) Press Conference	2018-06-12	09:54:26	Hall 5, Singapore EXPO	
+ASEAN Schools Games Closing Ceremony	2015-05-17	11:38:09	Singapore Sports Stadium	
+ASEAN Schools Games Closing Ceremony	2016-10-23	08:49:05	Singapore Sports Stadium	
+ASEAN Schools Games Closing Ceremony	2017-12-02	06:28:48	Singapore Sports Stadium	
+ASEAN Schools Games Send-Off Ceremony	2015-12-15	12:49:30	Singapore Sports Stadium	
+ASEAN Schools Games Send-Off Ceremony	2016-07-23	13:26:40	Singapore Sports Stadium	
+ASEAN Schools Games Send-Off Ceremony	2017-02-17	13:12:32	Singapore Sports Stadium	
+ASEAN Strategic Policy Dialogue on Disaster Management	2015-07-27	06:16:26	Hall 5, Suntec City Convention Centre	
+ASEAN Strategic Policy Dialogue on Disaster Management	2016-10-30	07:11:25	Hall 5, Suntec City Convention Centre	
+ASEAN Strategic Policy Dialogue on Disaster Management	2017-12-09	09:14:54	Hall 5, Suntec City Convention Centre	
+ASEAN Terrorism Talks	2015-09-07	11:51:19	Main Ballroom, Shangri La Hotel	
+ASEAN Terrorism Talks	2016-01-30	08:37:28	Main Ballroom, Shangri La Hotel	
+ASEAN Terrorism Talks	2017-09-23	09:21:42	Main Ballroom, Shangri La Hotel	
+Asian Downstream Summit and Exhibition	2016-04-17	06:07:15	Hall 6, Singapore EXPO	
+Asian Downstream Summit and Exhibition	2017-10-05	11:37:08	Hall 6, Singapore EXPO	
+Asian Downstream Summit and Exhibition	2018-06-27	11:07:44	Hall 6, Singapore EXPO	
+Association of Muslim Lawyers Annual Lecture	2016-05-19	13:22:05	Hall 2, Suntec City Convention Centre	
+Association of Muslim Lawyers Annual Lecture	2017-10-11	06:33:58	Hall 2, Suntec City Convention Centre	
+Association of Muslim Lawyers Annual Lecture	2018-05-03	07:58:14	Hall 2, Suntec City Convention Centre	
+Athletes Achievement Awards (AAA) Ceremony 	2016-06-24	07:00:46	Singapore Sports Hub	
+Athletes Achievement Awards (AAA) Ceremony 	2017-02-07	16:33:54	Singapore Sports Hub	
+Athletes Achievement Awards (AAA) Ceremony 	2018-08-30	09:22:47	Singapore Sports Hub	
+AVPN Conference	2015-08-05	15:59:33	Hall 3, Suntec City Convention Centre	
+AVPN Conference	2016-02-05	08:11:46	Hall 3, Suntec City Convention Centre	
+AVPN Conference	2017-03-31	16:28:12	Hall 3, Suntec City Convention Centre	
+Basic Military Training Passing Out Parade	2015-11-09	11:33:43	Marina Bay Floating Platform	
+Basic Military Training Passing Out Parade	2016-05-03	13:27:26	Marina Bay Floating Platform	
+Basic Military Training Passing Out Parade	2017-04-04	08:33:43	Marina Bay Floating Platform	
+Bulan Bahasa Annual Appreciation Dinner	2015-12-06	10:39:33	Main Ballroom, Westin Hotel	
+Bulan Bahasa Annual Appreciation Dinner	2016-08-31	10:28:56	Main Ballroom, Westin Hotel	
+Bulan Bahasa Annual Appreciation Dinner	2017-02-16	11:28:25	Main Ballroom, Westin Hotel	
+Business Excellence Awards	2016-06-06	08:31:01	Hall 2, Marina Bay Sands Convention Centre	
+Business Excellence Awards	2017-02-10	08:25:28	Hall 2, Marina Bay Sands Convention Centre	
+Business Excellence Awards	2018-03-30	15:55:37	Hall 2, Marina Bay Sands Convention Centre	
+Career Practitioners Conference	2016-02-09	15:47:21	SMU Ngee Ann Kongsi Auditorium	
+Career Practitioners Conference	2017-07-21	11:24:37	SMU Ngee Ann Kongsi Auditorium	
+Career Practitioners Conference	2018-06-09	08:58:18	SMU Ngee Ann Kongsi Auditorium	
+Caring Teacher Awards Presentation Ceremony	2015-05-04	12:37:40	Hall 4, MOE	
+Caring Teacher Awards Presentation Ceremony	2016-08-09	11:41:03	Hall 4, MOE	
+Caring Teacher Awards Presentation Ceremony	2017-10-15	06:03:24	Hall 4, MOE	
+Casino Regulatory Authority (CRA)'s Workplan Seminar 	2016-08-27	07:54:34	Home Team Academy	
+Casino Regulatory Authority (CRA)'s Workplan Seminar 	2017-12-15	09:36:51	Home Team Academy	
+Casino Regulatory Authority (CRA)'s Workplan Seminar 	2018-08-17	12:25:30	Home Team Academy	
+Charity Governance Conference	2016-09-11	09:38:45	Main Ballroom, Shangri La Hotel	
+Charity Governance Conference	2017-08-17	06:27:12	Main Ballroom, Shangri La Hotel	
+Charity Governance Conference	2018-07-21	09:48:50	Main Ballroom, Shangri La Hotel	
+Charity Transparency and Governance Awards	2016-04-24	13:03:09	Hall 10, Suntec City Convention Centre	
+Charity Transparency and Governance Awards	2017-05-18	07:04:48	Hall 10, Suntec City Convention Centre	
+Charity Transparency and Governance Awards	2018-07-04	13:00:35	Hall 10, Suntec City Convention Centre	
+Citi-SMU Financial Literacy Symposium 	2016-02-20	13:28:31	SMU Ngee Ann Kongsi Auditorium	
+Citi-SMU Financial Literacy Symposium 	2017-06-19	10:17:51	SMU Ngee Ann Kongsi Auditorium	
+Citi-SMU Financial Literacy Symposium 	2018-06-13	14:09:28	SMU Ngee Ann Kongsi Auditorium	
+Closing Ceremony of National School Games	2015-07-19	08:58:12	Singapore Sports Stadium	
+Closing Ceremony of National School Games	2016-05-06	09:57:31	Singapore Sports Stadium	
+Closing Ceremony of National School Games	2017-10-07	15:04:14	Singapore Sports Stadium	
+Commissioning Parade	2015-05-14	09:58:14	SAFTI Military Institute	
+Commissioning Parade	2016-03-17	11:25:07	SAFTI Military Institute	
+Commissioning Parade	2017-06-15	07:30:16	SAFTI Military Institute	
+Credit Suisse Philanthropists Forum	2015-08-19	10:19:35	Hall 9, Suntec City Convention Centre	
+Credit Suisse Philanthropists Forum	2016-02-23	16:48:32	Hall 9, Suntec City Convention Centre	
+Credit Suisse Philanthropists Forum	2017-11-22	16:34:26	Hall 9, Suntec City Convention Centre	
+Criminal Law Conference 	2016-03-28	07:53:59	NUS Faculty of Law	
+Criminal Law Conference 	2017-12-07	15:45:55	NUS Faculty of Law	
+Criminal Law Conference 	2018-01-07	07:38:33	NUS Faculty of Law	
+Culture Academy's International Conference	2016-09-27	06:55:35	Hall 8, Singapore EXPO	
+Culture Academy's International Conference	2017-02-10	16:41:04	Hall 8, Singapore EXPO	
+Culture Academy's International Conference	2018-03-18	12:19:49	Hall 8, Singapore EXPO	
+Digital Government Exchange	2016-04-05	06:01:28	Hall 6 and 7, Suntec City Convention Centre	
+Digital Government Exchange	2017-11-15	07:23:01	Hall 6 and 7, Suntec City Convention Centre	
+Digital Government Exchange	2018-09-14	15:34:28	Hall 6 and 7, Suntec City Convention Centre	
+Early Childhood Conference	2016-12-20	07:24:13	Hall 2, Suntec City Convention Centre	
+Early Childhood Conference	2017-11-17	16:57:24	Hall 2, Suntec City Convention Centre	
+Early Childhood Conference	2018-03-19	14:20:13	Hall 2, Suntec City Convention Centre	
+Emerging Enterprise Awards	2016-10-14	10:34:25	Hall 6, Singapore EXPO	
+Emerging Enterprise Awards	2017-03-26	08:31:41	Hall 6, Singapore EXPO	
+Emerging Enterprise Awards	2018-10-14	11:53:39	Hall 6, Singapore EXPO	
+Energy Innovation Event	2016-01-26	13:17:49	Hall 7, Singapore EXPO	
+Energy Innovation Event	2017-05-25	16:07:01	Hall 7, Singapore EXPO	
+Energy Innovation Event	2018-03-20	07:09:07	Hall 7, Singapore EXPO	
+Equal-Ark Gala Dinner	2015-11-16	12:03:45	Main Ballroom, Shangri La Hotel	
+Equal-Ark Gala Dinner	2016-09-01	13:54:46	Main Ballroom, Shangri La Hotel	
+Equal-Ark Gala Dinner	2017-07-13	08:16:26	Main Ballroom, Shangri La Hotel	
+Ernst & Young Entrepreneur of the Year Awards Gala	2016-11-18	14:19:23	Hall 6, Marina Bay Sands Convention Centre	
+Ernst & Young Entrepreneur of the Year Awards Gala	2017-04-29	13:04:11	Hall 6, Marina Bay Sands Convention Centre	
+Ernst & Young Entrepreneur of the Year Awards Gala	2018-07-27	07:13:14	Hall 6, Marina Bay Sands Convention Centre	
+Family Justice Practice Forum	2016-09-13	12:46:05	Singapore Supreme Court	
+Family Justice Practice Forum	2017-09-23	07:13:23	Singapore Supreme Court	
+Family Justice Practice Forum	2018-08-10	14:03:47	Singapore Supreme Court	
+Future Lawyering Conference	2016-07-03	07:52:48	SMU School of Law	
+Future Lawyering Conference	2017-06-28	13:37:49	SMU School of Law	
+Future Lawyering Conference	2018-04-04	15:21:03	SMU School of Law	
+Future of Law Conference	2016-02-26	12:09:05	Hall 1, Singapore EXPO	
+Future of Law Conference	2017-12-11	15:15:47	Hall 1, Singapore EXPO	
+Future of Law Conference	2018-03-01	15:16:42	Hall 1, Singapore EXPO	
+Future of Manufacturing Summit	2016-01-10	07:37:05	Hall 2, Marina Bay Sands Convention Centre	
+Future of Manufacturing Summit	2017-01-16	07:48:37	Hall 2, Marina Bay Sands Convention Centre	
+Future of Manufacturing Summit	2018-07-07	09:16:04	Hall 2, Marina Bay Sands Convention Centre	
+Graduation Ceremony for NUS Graduate Certificate in Criminal Justice Course	2016-08-01	14:04:02	Main Auditorium, uTown NUS	
+Graduation Ceremony for NUS Graduate Certificate in Criminal Justice Course	2017-03-30	09:34:02	Main Auditorium, uTown NUS	
+Graduation Ceremony for NUS Graduate Certificate in Criminal Justice Course	2018-01-13	10:05:44	Main Auditorium, uTown NUS	
+Home Team Academy Workplan Seminar	2015-04-20	11:05:57	Home Team Academy	
+Home Team Academy Workplan Seminar	2016-02-02	15:10:33	Home Team Academy	
+Home Team Academy Workplan Seminar	2017-06-26	14:09:48	Home Team Academy	
+International Conference of Legal Regulators	2016-06-09	11:44:33	Hall 6, Suntec City Convention Centre	
+International Conference of Legal Regulators	2017-10-13	06:23:07	Hall 6, Suntec City Convention Centre	
+International Conference of Legal Regulators	2018-07-12	07:24:55	Hall 6, Suntec City Convention Centre	
+International Family Law Conference	2016-01-02	10:00:43	Singapore Supreme Court	
+International Family Law Conference	2017-01-04	16:20:58	Singapore Supreme Court	
+International Family Law Conference	2018-04-02	11:24:29	Singapore Supreme Court	
+International Trading Professional Conversion Programme Graduation Ceremony	2016-10-18	12:28:01	Main Auditorium, SUSS	
+International Trading Professional Conversion Programme Graduation Ceremony	2017-12-25	09:37:48	Main Auditorium, SUSS	
+International Trading Professional Conversion Programme Graduation Ceremony	2018-08-30	16:02:47	Main Auditorium, SUSS	
+ITE Graduation Ceremony 	2015-08-23	11:54:06	Main Auditorium, ITE	
+ITE Graduation Ceremony 	2016-06-18	10:58:50	Main Auditorium, ITE	
+ITE Graduation Ceremony 	2017-12-18	11:12:43	Main Auditorium, ITE	
+KPMG Procurement Ignite Summit 	2015-09-30	12:08:10	Main Ballroom, Orchard Hotel	
+KPMG Procurement Ignite Summit 	2016-04-13	14:05:41	Main Ballroom, Orchard Hotel	
+KPMG Procurement Ignite Summit 	2017-02-15	07:46:36	Main Ballroom, Orchard Hotel	
+Law Awareness Weeks	2016-02-10	08:42:27	NUS Faculty of Law	
+Law Awareness Weeks	2017-10-05	11:44:05	NUS Faculty of Law	
+Law Awareness Weeks	2018-07-06	12:29:17	NUS Faculty of Law	
+Law Society Neutral Evaluation & Determination Forum	2016-12-14	15:08:38	NUS Faculty of Law	
+Law Society Neutral Evaluation & Determination Forum	2017-12-01	07:03:26	NUS Faculty of Law	
+Law Society Neutral Evaluation & Determination Forum	2018-05-09	16:22:19	NUS Faculty of Law	
+Legal & Accounting Connect Conference	2016-08-12	15:46:17	Hall 3, Singapore EXPO	
+Legal & Accounting Connect Conference	2017-01-19	11:27:45	Hall 3, Singapore EXPO	
+Legal & Accounting Connect Conference	2018-08-17	13:30:28	Hall 3, Singapore EXPO	
+Legal Aid Bureau's Anniversary Dinner	2016-12-26	09:19:49	SMNS Hall 3	
+Legal Aid Bureau's Anniversary Dinner	2017-12-22	09:44:28	SMNS Hall 3	
+Legal Aid Bureau's Anniversary Dinner	2018-02-09	13:35:29	SMNS Hall 3	
+MCCY Stakeholder Appreciation Dinner	2016-02-06	12:32:02	MCCY Main Auditorium	
+MCCY Stakeholder Appreciation Dinner	2017-06-13	07:17:46	MCCY Main Auditorium	
+MCCY Stakeholder Appreciation Dinner	2018-06-05	10:26:08	MCCY Main Auditorium	
+MHA Scholarship and Sponsorship Presentation Ceremony	2015-07-23	15:17:19	Main Hall, MHA	
+MHA Scholarship and Sponsorship Presentation Ceremony	2016-08-09	14:34:58	Main Hall, MHA	
+MHA Scholarship and Sponsorship Presentation Ceremony	2017-05-08	10:37:24	Main Hall, MHA	
+Minister's Awards Presentation Ceremony	2015-11-22	06:06:53	Main Ballroom, Shangri La Hotel	
+Minister's Awards Presentation Ceremony	2016-11-06	12:28:51	Main Ballroom, Shangri La Hotel	
+Minister's Awards Presentation Ceremony	2017-04-13	12:21:45	Main Ballroom, Shangri La Hotel	
+Ministry of Home Affairs National Day Observance Ceremony 	2015-11-03	16:22:44	Main Hall, MHA	
+Ministry of Home Affairs National Day Observance Ceremony 	2016-01-05	07:02:12	Main Hall, MHA	
+Ministry of Home Affairs National Day Observance Ceremony 	2017-09-21	15:25:18	Main Hall, MHA	
+Model United Nations Conference	2015-08-04	15:18:37	Hall 2, Marina Bay Sands Convention Centre	
+Model United Nations Conference	2016-06-17	06:59:50	Hall 2, Marina Bay Sands Convention Centre	
+Model United Nations Conference	2017-02-17	11:52:19	Hall 2, Marina Bay Sands Convention Centre	
+Most Inspiring Tamil Teacher Award	2015-04-25	14:15:37	Main Ballroom, Marriot Hotel 	
+Most Inspiring Tamil Teacher Award	2016-05-14	07:41:33	Main Ballroom, Marriot Hotel 	
+Most Inspiring Tamil Teacher Award	2017-04-09	13:08:06	Main Ballroom, Marriot Hotel 	
+Nanyang Polytechnic, School of Interactive and Digital Media (SIDM) Graduation Ceremony	2015-05-24	14:56:02	Main Auditorium, NYP	
+Nanyang Polytechnic, School of Interactive and Digital Media (SIDM) Graduation Ceremony	2016-12-28	12:51:36	Main Auditorium, NYP	
+Nanyang Polytechnic, School of Interactive and Digital Media (SIDM) Graduation Ceremony	2017-03-02	06:59:52	Main Auditorium, NYP	
+National Camp Opening Ceremony	2015-10-19	07:21:42	Main Field, Singapore Sports School	
+National Camp Opening Ceremony	2016-05-18	06:59:39	Main Field, Singapore Sports School	
+National Camp Opening Ceremony	2017-11-20	13:02:08	Main Field, Singapore Sports School	
+National Citizenship Ceremony	2016-01-15	16:39:43	Main Auditorium, ITE Central	
+National Citizenship Ceremony	2017-09-22	09:28:42	Main Auditorium, ITE Central	
+National Citizenship Ceremony	2018-04-23	08:24:29	Main Auditorium, ITE Central	
+National Day Observance Ceremony	2016-03-06	16:11:14	Main Auditorium, ITE Central	
+National Day Observance Ceremony	2017-09-02	08:26:46	Main Auditorium, ITE Central	
+National Day Observance Ceremony	2018-07-30	08:18:12	Main Auditorium, ITE Central	
+National Day Observance Ceremony in Schools	2015-05-06	06:29:05	All Schools	
+National Day Observance Ceremony in Schools	2016-10-20	08:03:26	All Schools	
+National Day Observance Ceremony in Schools	2017-09-16	12:40:29	All Schools	
+National Day Parade	2015-06-20	09:08:00	Marina Bay Floating Platform	
+National Day Parade	2016-03-17	16:37:11	Marina Bay Floating Platform	
+National Day Parade	2017-03-01	08:10:33	Marina Bay Floating Platform	
+National Day Rally	2015-06-03	06:09:17	Main Auditorium, ITE Central	
+National Day Rally	2016-06-27	12:02:39	Main Auditorium, ITE Central	
+National Day Rally	2017-02-26	14:52:19	Main Auditorium, ITE Central	
+National Family Violence Networking System Conference (NFVNS)	2016-07-17	10:21:13	Hall 2, Suntec City Convention Centre	
+National Family Violence Networking System Conference (NFVNS)	2017-03-11	06:13:19	Hall 2, Suntec City Convention Centre	
+National Family Violence Networking System Conference (NFVNS)	2018-07-13	06:39:28	Hall 2, Suntec City Convention Centre	
+National Health IT Summit	2016-01-21	06:19:50	Hall 4, Singapore EXPO	
+National Health IT Summit	2017-10-25	12:28:32	Hall 4, Singapore EXPO	
+National Health IT Summit	2018-05-05	09:08:28	Hall 4, Singapore EXPO	
+National Institute of Education Teachers' Investiture Ceremony	2015-07-02	08:08:01	NIE Main Auditorium	
+National Institute of Education Teachers' Investiture Ceremony	2016-04-21	15:27:24	NIE Main Auditorium	
+National Institute of Education Teachers' Investiture Ceremony	2017-09-21	09:30:09	NIE Main Auditorium	
+National Kindness Awards	2016-08-31	13:31:06	Main Auditorium, ITE Central	
+National Kindness Awards	2017-05-23	15:26:37	Main Auditorium, ITE Central	
+National Kindness Awards	2018-01-01	07:16:30	Main Auditorium, ITE Central	
+National Life Saving Day	2015-05-26	16:56:23	Main Ballroom, Orchard Hotel	
+National Life Saving Day	2016-02-15	06:48:24	Main Ballroom, Orchard Hotel	
+National Life Saving Day	2017-09-21	07:46:29	Main Ballroom, Orchard Hotel	
+National Schools Xinyao Singing and Songwriting Competition 	2015-06-19	12:26:52	Main Hall, Degao Primary School	
+National Schools Xinyao Singing and Songwriting Competition 	2016-07-04	09:33:28	Main Hall, Degao Primary School	
+National Schools Xinyao Singing and Songwriting Competition 	2017-08-30	15:51:38	Main Hall, Degao Primary School	
+National University of Singapore Commencement Dinner	2015-06-12	08:43:11	Main Auditorium, uTown NUS	
+National University of Singapore Commencement Dinner	2016-09-24	16:08:42	Main Auditorium, uTown NUS	
+National University of Singapore Commencement Dinner	2017-07-02	12:31:39	Main Auditorium, uTown NUS	
+National Youth Achievement Award Ceremony	2016-01-07	11:17:55	MCCY Main Auditorium	
+National Youth Achievement Award Ceremony	2017-06-01	11:10:31	MCCY Main Auditorium	
+National Youth Achievement Award Ceremony	2018-06-10	06:06:15	MCCY Main Auditorium	
+NIE Teachers' Investiture Ceremony	2015-04-04	07:44:02	NIE Main Auditorium	
+NIE Teachers' Investiture Ceremony	2016-11-14	09:29:01	NIE Main Auditorium	
+NIE Teachers' Investiture Ceremony	2017-07-02	12:38:52	NIE Main Auditorium	
+NTU Alumni Night	2015-06-05	14:12:12	NTU Almuni Club	
+NTU Alumni Night	2016-03-19	11:05:34	NTU Almuni Club	
+NTU Alumni Night	2017-06-14	11:55:03	NTU Almuni Club	
+NTU Leadership Summit	2016-07-18	09:48:28	Main Auditorium, NTU	
+NTU Leadership Summit	2017-04-30	09:49:04	Main Auditorium, NTU	
+NTU Leadership Summit	2018-10-04	14:48:28	Main Auditorium, NTU	
+NUS Leadership Forum	2016-10-29	14:32:00	Main Auditorium, uTown NUS	
+NUS Leadership Forum	2017-12-26	14:24:57	Main Auditorium, uTown NUS	
+NUS Leadership Forum	2018-01-30	06:42:41	Main Auditorium, uTown NUS	
+NUS-SMU Criminal Justice Conference	2016-07-30	14:11:35	NUS Faculty of Law	
+NUS-SMU Criminal Justice Conference	2017-10-23	13:42:06	NUS Faculty of Law	
+NUS-SMU Criminal Justice Conference	2018-08-30	06:16:54	NUS Faculty of Law	
+Opening Ceremony of Inter-School Games	2015-06-08	06:24:38	Marina Bay Floating Platform	
+Opening Ceremony of Inter-School Games	2016-06-19	11:52:23	Marina Bay Floating Platform	
+Opening Ceremony of Inter-School Games	2017-07-27	13:40:57	Marina Bay Floating Platform	
+Opening Ceremony of the National School Games	2015-04-09	11:02:03	Singapore Sports Stadium	
+Opening Ceremony of the National School Games	2016-08-19	14:33:02	Singapore Sports Stadium	
+Opening Ceremony of the National School Games	2017-08-19	09:53:21	Singapore Sports Stadium	
+Oracle Impact Innovation Summit	2015-11-20	12:57:48	Hall 5, Marina Bay Sands Convention Centre	
+Oracle Impact Innovation Summit	2016-06-29	12:37:39	Hall 5, Marina Bay Sands Convention Centre	
+Oracle Impact Innovation Summit	2017-11-11	06:11:11	Hall 5, Marina Bay Sands Convention Centre	
+Patron of the Arts Awards	2016-02-22	08:10:47	PACS Main Hall	
+Patron of the Arts Awards	2017-04-16	12:11:33	PACS Main Hall	
+Patron of the Arts Awards	2018-02-01	11:33:58	PACS Main Hall	
+Peter Lim Scholarship Award Ceremony	2016-07-17	15:00:25	NIE	
+Peter Lim Scholarship Award Ceremony	2017-07-10	15:21:13	NIE	
+Peter Lim Scholarship Award Ceremony	2018-02-16	15:49:27	NIE	
+Police Workplan Seminar	2015-12-19	07:29:41	Home Team Academy	
+Police Workplan Seminar	2016-06-26	14:03:14	Home Team Academy	
+Police Workplan Seminar	2017-07-08	16:58:40	Home Team Academy	
+President's Young Talents Official Opening	2016-01-22	12:49:40	Main Ballroom, Copthrone King's Hotel Singapore	
+President's Young Talents Official Opening	2017-09-11	10:17:04	Main Ballroom, Copthrone King's Hotel Singapore	
+President's Young Talents Official Opening	2018-06-17	06:15:08	Main Ballroom, Copthrone King's Hotel Singapore	
+Project Management Institute Singapore Chapter Project of the Year Award Dinner	2016-05-02	07:37:56	Hall 5, Singapore EXPO	
+Project Management Institute Singapore Chapter Project of the Year Award Dinner	2017-11-30	08:17:02	Hall 5, Singapore EXPO	
+Project Management Institute Singapore Chapter Project of the Year Award Dinner	2018-02-20	15:39:45	Hall 5, Singapore EXPO	
+PSC Scholarships Award Ceremony	2016-11-19	07:58:18	Home Team Academy	
+PSC Scholarships Award Ceremony	2017-01-11	16:03:57	Home Team Academy	
+PSC Scholarships Award Ceremony	2018-03-23	11:34:03	Home Team Academy	
+Public Service Conference	2016-11-12	10:32:25	Home Team Academy	
+Public Service Conference	2017-11-03	16:25:51	Home Team Academy	
+Public Service Conference	2018-06-17	12:30:11	Home Team Academy	
+Public Service Engineering Conference	2016-10-24	08:06:40	Home Team Academy	
+Public Service Engineering Conference	2017-05-26	07:38:06	Home Team Academy	
+Public Service Engineering Conference	2018-10-16	16:59:00	Home Team Academy	
+Public Service Leadership Dinner	2016-02-15	06:44:10	Home Team Academy	
+Public Service Leadership Dinner	2017-06-28	15:53:46	Home Team Academy	
+Public Service Leadership Dinner	2018-02-26	11:58:29	Home Team Academy	
+Quality and Standards Conference 	2016-04-21	12:02:47	Hall 7, Singapore EXPO	
+Quality and Standards Conference 	2017-10-31	09:30:32	Hall 7, Singapore EXPO	
+Quality and Standards Conference 	2018-01-05	06:35:02	Hall 7, Singapore EXPO	
+Regional Insolvency Conference 	2016-02-21	11:56:08	NUS Faculty of Law	
+Regional Insolvency Conference 	2017-09-24	08:46:34	NUS Faculty of Law	
+Regional Insolvency Conference 	2018-03-10	13:18:16	NUS Faculty of Law	
+Republic of Singapore Air Force (RSAF) Day	2015-06-01	14:31:07	Paya Lebar Air Base	
+Republic of Singapore Air Force (RSAF) Day	2016-11-16	15:09:32	Paya Lebar Air Base	
+Republic of Singapore Air Force (RSAF) Day	2017-10-01	08:55:58	Paya Lebar Air Base	
+River Hangbao Hackathon	2016-09-05	06:07:48	Hall 8, MASS	
+River Hangbao Hackathon	2017-02-04	14:09:37	Hall 8, MASS	
+River Hangbao Hackathon	2018-10-12	14:55:47	Hall 8, MASS	
+School of Law Commencement Ceremony	2015-12-26	08:45:37	SMU School of Law	
+School of Law Commencement Ceremony	2016-10-19	07:24:42	SMU School of Law	
+School of Law Commencement Ceremony	2017-10-19	10:22:45	SMU School of Law	
+Schools Work Plan Seminar	2015-08-20	13:17:20	Hall 3, MOE	
+Schools Work Plan Seminar	2016-08-05	14:29:33	Hall 3, MOE	
+Schools Work Plan Seminar	2017-09-01	09:12:12	Hall 3, MOE	
+Score Appreciation Awards Ceremony	2015-12-08	13:06:07	Hall 3, MOE	
+Score Appreciation Awards Ceremony	2016-02-28	13:55:56	Hall 3, MOE	
+Score Appreciation Awards Ceremony	2017-12-16	08:25:58	Hall 3, MOE	
+Security Association Singapore's Annual Gala	2016-12-25	10:53:35	Hall 2, Suntec City Convention Centre	
+Security Association Singapore's Annual Gala	2017-10-17	06:49:09	Hall 2, Suntec City Convention Centre	
+Security Association Singapore's Annual Gala	2018-04-08	10:04:57	Hall 2, Suntec City Convention Centre	
+Sharity Day	2015-04-15	06:33:13	Singapore Sports Stadium	
+Sharity Day	2016-04-06	10:05:24	Singapore Sports Stadium	
+Sharity Day	2017-01-27	08:31:35	Singapore Sports Stadium	
+Shell's the Bright Ideas Challenge 	2015-09-05	06:12:43	Shangri La Hotel, Dining Room	
+Shell's the Bright Ideas Challenge 	2016-11-17	08:56:35	Shangri La Hotel, Dining Room	
+Shell's the Bright Ideas Challenge 	2017-01-17	14:16:00	Shangri La Hotel, Dining Room	
+SIM University Convocation Ceremony	2015-08-15	08:07:36	Main Hall, SIM	
+SIM University Convocation Ceremony	2016-07-19	14:00:28	Main Hall, SIM	
+SIM University Convocation Ceremony	2017-09-08	07:42:02	Main Hall, SIM	
+Sinda Excellence Awards	2015-11-10	07:08:40	Hall 2, Marina Bay Sands Convention Centre	
+Sinda Excellence Awards	2016-04-05	06:28:19	Hall 2, Marina Bay Sands Convention Centre	
+Sinda Excellence Awards	2017-10-20	12:59:52	Hall 2, Marina Bay Sands Convention Centre	
+Singapore Armed Forces (SAF) Day	2015-11-20	11:02:17	SAFTI Military Institute	
+Singapore Armed Forces (SAF) Day	2016-03-08	16:20:16	SAFTI Military Institute	
+Singapore Armed Forces (SAF) Day	2017-05-11	13:22:57	SAFTI Military Institute	
+Singapore Chinese Chamber of Commerce & Industry's (SCCCI) Mid-Autumn Festival	2015-09-09	09:52:21	SCCCI	
+Singapore Chinese Chamber of Commerce & Industry's (SCCCI) Mid-Autumn Festival	2016-04-02	10:08:21	SCCCI	
+Singapore Chinese Chamber of Commerce & Industry's (SCCCI) Mid-Autumn Festival	2017-11-21	09:22:43	SCCCI	
+Singapore Economic Policy Forum	2016-02-12	10:23:32	Hall 10, Suntec City Convention Centre	
+Singapore Economic Policy Forum	2017-02-22	09:59:01	Hall 10, Suntec City Convention Centre	
+Singapore Economic Policy Forum	2018-07-06	08:31:57	Hall 10, Suntec City Convention Centre	
+Singapore Insolvency Conference	2016-01-31	08:41:00	SIAC Main Hall	
+Singapore Insolvency Conference	2017-07-28	13:44:59	SIAC Main Hall	
+Singapore Insolvency Conference	2018-07-10	16:08:45	SIAC Main Hall	
+Singapore Internation TVET Conference	2015-07-05	13:58:34	Hall 4, Singapore EXPO	
+Singapore Internation TVET Conference	2016-10-04	09:07:39	Hall 4, Singapore EXPO	
+Singapore Internation TVET Conference	2017-09-04	13:36:55	Hall 4, Singapore EXPO	
+Singapore International Arbitration Centre Hard Talk	2016-12-15	13:00:44	SIAC Main Hall	
+Singapore International Arbitration Centre Hard Talk	2017-04-28	12:35:22	SIAC Main Hall	
+Singapore International Arbitration Centre Hard Talk	2018-07-29	16:06:00	SIAC Main Hall	
+Singapore International Arbitration Centre India Conference	2016-04-01	13:28:17	SIAC Main Hall	
+Singapore International Arbitration Centre India Conference	2017-09-03	13:33:26	SIAC Main Hall	
+Singapore International Arbitration Centre India Conference	2018-09-14	14:23:39	SIAC Main Hall	
+Singapore International Chamber of Commerce Awards	2015-06-13	09:48:05	Hall 2, SICC	
+Singapore International Chamber of Commerce Awards	2016-03-11	09:40:14	Hall 2, SICC	
+Singapore International Chamber of Commerce Awards	2017-05-10	13:07:03	Hall 2, SICC	
+Singapore International Reinsurance Conference	2015-08-29	08:55:25	Hall 2, Marina Bay Sands Convention Centre	
+Singapore International Reinsurance Conference	2016-03-05	16:02:38	Hall 2, Marina Bay Sands Convention Centre	
+Singapore International Reinsurance Conference	2017-10-18	14:44:10	Hall 2, Marina Bay Sands Convention Centre	
+Singapore International Robo Expo	2016-06-23	12:30:00	Hall 4, Singapore EXPO	
+Singapore International Robo Expo	2017-10-23	14:44:20	Hall 4, Singapore EXPO	
+Singapore International Robo Expo	2018-02-23	15:14:11	Hall 4, Singapore EXPO	
+Singapore Legal Futures Conference	2016-05-22	10:30:13	SMU School of Law	
+Singapore Legal Futures Conference	2017-06-09	14:43:50	SMU School of Law	
+Singapore Legal Futures Conference	2018-01-04	13:15:53	SMU School of Law	
+Singapore Management University Retail Centre of Excellence's Asia Retail Leaders Conference	2016-09-13	13:23:04	SMU Ngee Ann Kongsi Auditorium	
+Singapore Management University Retail Centre of Excellence's Asia Retail Leaders Conference	2017-05-26	15:07:08	SMU Ngee Ann Kongsi Auditorium	
+Singapore Management University Retail Centre of Excellence's Asia Retail Leaders Conference	2018-08-27	09:34:39	SMU Ngee Ann Kongsi Auditorium	
+Singapore Police Force Graduation Parade	2015-08-12	10:16:19	Home Team Academy	
+Singapore Police Force Graduation Parade	2016-10-20	15:01:35	Home Team Academy	
+Singapore Police Force Graduation Parade	2017-07-08	08:09:23	Home Team Academy	
+Singapore Police Force Scholarship & Home Team Scholarship Ceremony	2015-12-11	12:04:55	Home Team Academy	
+Singapore Police Force Scholarship & Home Team Scholarship Ceremony	2016-10-23	15:33:10	Home Team Academy	
+Singapore Police Force Scholarship & Home Team Scholarship Ceremony	2017-04-12	11:20:43	Home Team Academy	
+Singapore Positive Education Network Annual Dinner	2015-05-23	10:51:49	Shangri La Hotel, Dining Room	
+Singapore Positive Education Network Annual Dinner	2016-02-12	13:10:24	Shangri La Hotel, Dining Room	
+Singapore Positive Education Network Annual Dinner	2017-02-19	10:29:31	Shangri La Hotel, Dining Room	
+Singapore Road Safety Council Gala Dinner	2015-05-03	15:25:37	Main Ballroom, Shangri La Hotel	
+Singapore Road Safety Council Gala Dinner	2016-11-24	06:05:15	Main Ballroom, Shangri La Hotel	
+Singapore Road Safety Council Gala Dinner	2017-02-08	15:47:45	Main Ballroom, Shangri La Hotel	
+Singapore Summit Welcome Dinner	2015-06-16	12:20:00	Main Ballroom, Shangri La Hotel	
+Singapore Summit Welcome Dinner	2016-05-04	12:37:19	Main Ballroom, Shangri La Hotel	
+Singapore Summit Welcome Dinner	2017-07-10	08:50:43	Main Ballroom, Shangri La Hotel	
+Singapore University of Technology and Design (SUTD) Commencement Ceremony	2015-04-12	07:10:35	SUTD Main Auditorium	
+Singapore University of Technology and Design (SUTD) Commencement Ceremony	2016-01-03	08:33:46	SUTD Main Auditorium	
+Singapore University of Technology and Design (SUTD) Commencement Ceremony	2017-10-13	16:42:02	SUTD Main Auditorium	
+Singapore-Industry Scholarship Award Ceremony	2015-11-01	16:14:57	Hall 3, MOE	
+Singapore-Industry Scholarship Award Ceremony	2016-04-08	16:15:41	Hall 3, MOE	
+Singapore-Industry Scholarship Award Ceremony	2017-06-05	15:42:44	Hall 3, MOE	
+Singapore-International Energy Agency Forum	2016-05-10	06:27:59	Hall 5, Singapore EXPO	
+Singapore-International Energy Agency Forum	2017-06-11	07:34:28	Hall 5, Singapore EXPO	
+Singapore-International Energy Agency Forum	2018-04-27	16:25:08	Hall 5, Singapore EXPO	
+Singapore's Best Workplaces Awards	2016-11-02	15:57:47	Hall 2, Marina Bay Sands Convention Centre	
+Singapore's Best Workplaces Awards	2017-08-03	12:11:56	Hall 2, Marina Bay Sands Convention Centre	
+Singapore's Best Workplaces Awards	2018-10-03	06:05:38	Hall 2, Marina Bay Sands Convention Centre	
+SIT Graduation Ceremony	2016-10-20	10:31:33	SIT Main Auditorium	
+SIT Graduation Ceremony	2017-01-13	13:00:15	SIT Main Auditorium	
+SIT Graduation Ceremony	2018-01-12	06:02:05	SIT Main Auditorium	
+SkillsFuture Earn and Learn Carnival	2015-06-25	09:29:40	Marina Bay Sands Open Field	
+SkillsFuture Earn and Learn Carnival	2016-04-14	08:07:41	Marina Bay Sands Open Field	
+SkillsFuture Earn and Learn Carnival	2017-03-11	07:46:45	Marina Bay Sands Open Field	
+SkillsFuture Festival @ SMU	2015-11-11	15:29:53	SMU Campus Green	
+SkillsFuture Festival @ SMU	2016-06-25	07:52:31	SMU Campus Green	
+SkillsFuture Festival @ SMU	2017-08-10	11:55:05	SMU Campus Green	
+Smart Nation Initiative at IoT Asia	2016-09-15	08:28:35	Hall 4 and 5, Suntec City Convention Centre	
+Smart Nation Initiative at IoT Asia	2017-02-21	12:58:38	Hall 4 and 5, Suntec City Convention Centre	
+Smart Nation Initiative at IoT Asia	2018-06-24	15:53:45	Hall 4 and 5, Suntec City Convention Centre	
+Smart Nation Innovations Week Opening Symposium	2016-07-12	15:27:32	Hall 2 and 3, Suntec City Convention Centre	
+Smart Nation Innovations Week Opening Symposium	2017-11-26	10:41:20	Hall 2 and 3, Suntec City Convention Centre	
+Smart Nation Innovations Week Opening Symposium	2018-08-29	13:32:47	Hall 2 and 3, Suntec City Convention Centre	
+SMCCI Food and Fashion Festival	2016-10-07	09:11:18	Chinatown Centre	
+SMCCI Food and Fashion Festival	2017-06-05	11:59:17	Chinatown Centre	
+SMCCI Food and Fashion Festival	2018-09-23	12:20:05	Chinatown Centre	
+SMU Academy Anniversary	2015-11-30	11:51:06	SMU Hall	
+SMU Academy Anniversary	2016-10-12	09:29:36	SMU Hall	
+SMU Academy Anniversary	2017-02-28	15:57:47	SMU Hall	
+SMU Award Ceremony	2016-04-17	14:29:30	SMU School of Law	
+SMU Award Ceremony	2017-11-03	15:33:07	SMU School of Law	
+SMU Award Ceremony	2018-06-27	11:16:45	SMU School of Law	
+SMU Commencement Opening Ceremony	2016-05-21	16:40:23	SMU School of Law	
+SMU Commencement Opening Ceremony	2017-07-20	15:06:06	SMU School of Law	
+SMU Commencement Opening Ceremony	2018-02-10	11:47:59	SMU School of Law	
+SMU Leadership Symposium	2015-07-23	16:22:48	SMU Administration Building	
+SMU Leadership Symposium	2016-11-16	08:18:59	SMU Administration Building	
+SMU Leadership Symposium	2017-01-05	15:28:50	SMU Administration Building	
+SMU Leadeship Symposium Dinner Gala	2016-10-15	16:58:29	SMU School of Law	
+SMU Patron's Day	2015-06-18	09:30:37	SMU Campus Green	
+SMU Patron's Day	2016-05-05	09:57:44	SMU Campus Green	
+SMU Patron's Day	2017-04-20	12:24:59	SMU Campus Green	
+SMU SIS Annual Awards	2016-07-20	08:42:43	SMU Ngee Ann Kongsi Auditorium	
+Social Service Summit	2016-10-15	06:41:22	Hall 6, Suntec City Convention Centre	
+Social Service Summit	2017-08-28	15:25:59	Hall 6, Suntec City Convention Centre	
+Social Service Summit	2018-10-02	06:03:54	Hall 6, Suntec City Convention Centre	
+South Asian Diaspora Convention	2016-12-28	07:05:29	Hall 4, Suntec City Convention Centre	
+South Asian Diaspora Convention	2017-06-17	12:10:59	Hall 4, Suntec City Convention Centre	
+South Asian Diaspora Convention	2018-03-11	09:50:50	Hall 4, Suntec City Convention Centre	
+Special Awards Presentation Ceremony	2015-12-17	07:12:23	Main Auditorium ITE Central	
+Special Awards Presentation Ceremony	2016-12-14	14:47:51	Main Auditorium ITE Central	
+Special Awards Presentation Ceremony	2017-10-25	13:53:24	Main Auditorium ITE Central	
+SPED Conference	2015-07-07	10:35:12	Grand Copthorne WaterFront Hotel	
+SPED Conference	2016-10-30	12:06:48	Grand Copthorne WaterFront Hotel	
+SPED Conference	2017-06-19	08:50:14	Grand Copthorne WaterFront Hotel	
+STACK Developer Conference	2016-08-18	11:37:17	Hall 2 and 3, Suntec City Convention Centre	
+STACK Developer Conference	2017-08-31	10:47:12	Hall 2 and 3, Suntec City Convention Centre	
+STACK Developer Conference	2018-07-05	13:25:42	Hall 2 and 3, Suntec City Convention Centre	
+STEP Asia Conference	2016-03-08	15:53:57	Hall 1, Singapore EXPO	
+STEP Asia Conference	2017-04-22	13:00:37	Hall 1, Singapore EXPO	
+STEP Asia Conference	2018-07-22	08:34:59	Hall 1, Singapore EXPO	
+SUSS Life Annual Dinner	2015-12-10	13:41:54	Main Auditorium, SUSS	
+SUSS Life Annual Dinner	2016-10-05	14:31:29	Main Auditorium, SUSS	
+SUSS Life Annual Dinner	2017-08-26	06:13:44	Main Auditorium, SUSS	
+Tan Kah Kee Foundation Celebrations	2015-05-29	10:25:52	JW Marriot Hotel, South Beach	
+Tan Kah Kee Foundation Celebrations	2016-03-27	09:29:22	JW Marriot Hotel, South Beach	
+Tan Kah Kee Foundation Celebrations	2017-12-29	08:33:54	JW Marriot Hotel, South Beach	
+Teaching Scholarship Presentation Ceremony	2015-12-27	16:46:03	Hall 2, MOE	
+Teaching Scholarship Presentation Ceremony	2016-08-13	15:50:10	Hall 2, MOE	
+Teaching Scholarship Presentation Ceremony	2017-08-22	15:51:35	Hall 2, MOE	
+The Girls' Brigade Singapore Anniversary	2015-08-31	15:26:39	Main Hall, Girls' Brigade	
+The Girls' Brigade Singapore Anniversary	2016-07-17	06:14:01	Main Hall, Girls' Brigade	
+The Girls' Brigade Singapore Anniversary	2017-02-25	16:27:58	Main Hall, Girls' Brigade	
+The Hotel Security Conference and Security Awards Presentation	2016-03-22	08:21:35	Hall 2, Marina Bay Sands Convention Centre	
+The Hotel Security Conference and Security Awards Presentation	2017-12-19	13:33:10	Hall 2, Marina Bay Sands Convention Centre	
+The Hotel Security Conference and Security Awards Presentation	2018-03-25	09:30:43	Hall 2, Marina Bay Sands Convention Centre	
+The ISCA PAIB Conference	2015-09-21	15:47:13	Hall 3, Singapore EXPO	
+The ISCA PAIB Conference	2016-12-13	06:24:01	Hall 3, Singapore EXPO	
+The ISCA PAIB Conference	2017-05-07	08:00:06	Hall 3, Singapore EXPO	
+The MSF Volunteer Awards	2016-05-05	07:23:21	MSF Main Hall	
+The MSF Volunteer Awards	2017-06-15	15:13:52	MSF Main Hall	
+The MSF Volunteer Awards	2018-05-27	08:07:38	MSF Main Hall	
+The Rehabilitation And Care Conference	2016-06-01	16:54:19	Hall 5, Suntec City Convention Centre	
+The Rehabilitation And Care Conference	2017-07-20	08:17:11	Hall 5, Suntec City Convention Centre	
+The Rehabilitation And Care Conference	2018-03-30	11:08:55	Hall 5, Suntec City Convention Centre	
+The Singapore Civil Defence Force Workplan Seminar	2016-06-05	16:28:20	Hall 4, Suntec City Convention Centre	
+The Singapore Civil Defence Force Workplan Seminar	2017-08-13	13:27:28	Hall 4, Suntec City Convention Centre	
+The Singapore Civil Defence Force Workplan Seminar	2018-06-06	14:06:41	Hall 4, Suntec City Convention Centre	
+The Singapore Workplace Safety and Health Conference	2016-04-13	08:55:42	Hall 6, EXPO	
+The Singapore Workplace Safety and Health Conference	2017-10-15	16:30:17	Hall 6, EXPO	
+The Singapore Workplace Safety and Health Conference	2018-07-09	09:00:26	Hall 6, EXPO	
+The Singapore-Industry Scholarship (SgIS) Award Ceremony	2015-05-05	08:24:55	Hall 4, IMDA	
+The Singapore-Industry Scholarship (SgIS) Award Ceremony	2016-06-09	16:00:04	Hall 4, IMDA	
+The Singapore-Industry Scholarship (SgIS) Award Ceremony	2017-05-28	07:47:15	Hall 4, IMDA	
+The Straits Times Global Outlook	2016-12-02	06:56:17	Main Ballroom, Copthrone King's Hotel Singapore	
+The Straits Times Global Outlook	2017-07-07	14:07:29	Main Ballroom, Copthrone King's Hotel Singapore	
+The Straits Times Global Outlook	2018-02-16	07:29:30	Main Ballroom, Copthrone King's Hotel Singapore	
+Times Higher Education World Academic Summit 	2015-05-24	08:29:20	Hall 2 and 3, Marina Bay Sands Convention Centre	
+Times Higher Education World Academic Summit 	2016-01-08	13:51:08	Hall 2 and 3, Marina Bay Sands Convention Centre	
+Times Higher Education World Academic Summit 	2017-10-07	15:53:20	Hall 2 and 3, Marina Bay Sands Convention Centre	
+Tourism Transformation 	2015-04-27	10:14:21	SMU School Of Law, Main Hall	
+Tourism Transformation 	2016-12-21	09:53:21	SMU School Of Law, Main Hall	
+Tourism Transformation 	2017-04-19	14:53:26	SMU School Of Law, Main Hall	
+UNCITRAL ABLI Emergence Conference	2016-02-23	06:05:19	Hall 8, Singapore EXPO	
+UNCITRAL ABLI Emergence Conference	2017-11-02	11:32:56	Hall 8, Singapore EXPO	
+UNCITRAL ABLI Emergence Conference	2018-04-24	09:00:28	Hall 8, Singapore EXPO	
+United Nations Discussions	2015-06-02	10:16:44	Main Ballroom, Shangri La Hotel	
+United Nations Discussions	2016-04-25	06:30:55	Main Ballroom, Shangri La Hotel	
+United Nations Discussions	2017-01-04	12:08:34	Main Ballroom, Shangri La Hotel	
+World Blood Donor Day	2015-04-16	11:31:02	Hall 5, Suntec City Convention Centre	
+World Blood Donor Day	2016-02-06	07:38:12	Hall 5, Suntec City Convention Centre	
+World Blood Donor Day	2017-03-14	10:11:27	Hall 5, Suntec City Convention Centre	
+World Environment Day 	2016-06-08	12:23:40	Hall 1, Marina Bay Sands Convention Centre	
+World Environment Day 	2017-11-20	09:04:45	Hall 1, Marina Bay Sands Convention Centre	
+World Environment Day 	2018-04-01	12:44:44	Hall 1, Marina Bay Sands Convention Centre	
+Yellow Ribbon Celebrating Second Chances Awards Ceremony	2016-07-30	07:12:24	Hall 3, Suntec City Convention Centre	
+Yellow Ribbon Celebrating Second Chances Awards Ceremony	2017-10-09	10:37:09	Hall 3, Suntec City Convention Centre	
+Yellow Ribbon Celebrating Second Chances Awards Ceremony	2018-07-11	06:15:41	Hall 3, Suntec City Convention Centre	
+Yellow Ribbon Conference	2015-07-31	06:26:50	Hall 5, Suntec City Convention Centre	
+Yellow Ribbon Conference	2016-06-12	07:04:40	Hall 5, Suntec City Convention Centre	
+Yellow Ribbon Conference	2017-03-23	09:41:28	Hall 5, Suntec City Convention Centre	
+Young Singapore International Arbitration Centre Conference	2016-10-10	10:50:14	SIAC Main Hall	
+Young Singapore International Arbitration Centre Conference	2017-04-05	16:00:28	SIAC Main Hall	
+Young Singapore International Arbitration Centre Conference	2018-05-02	10:06:11	SIAC Main Hall	
+Youth Corps Leaders Commencement Ceremony	2016-12-15	16:45:30	MCCY Main Auditorium	
+Youth Corps Leaders Commencement Ceremony	2017-05-22	16:24:29	MCCY Main Auditorium	
+Youth Corps Leaders Commencement Ceremony	2018-01-28	13:01:17	MCCY Main Auditorium	

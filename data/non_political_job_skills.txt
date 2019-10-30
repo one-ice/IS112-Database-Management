@@ -1,0 +1,7976 @@
+JobID	RequiredSkill
+92112	Evaluative
+92112	Management
+92113	Conceptual
+92113	Critical Thinking
+92116	Analytical
+92116	Conceptual
+92119	Interpersonal
+92210	Interpersonal
+92210	Communication
+92210	Development
+92178	Conceptual
+92178	Evaluative
+92180	Management
+92180	Critical Thinking
+92180	Development
+92123	Interpersonal
+92123	Administrative
+92171	Development
+92174	Conceptual
+92174	Critical Thinking
+92100	Evaluative
+92100	Development
+92183	Conceptual
+92272	Conceptual
+92272	Management
+92184	Analytical
+92282	Analytical
+92282	Management
+89247	Administrative
+92185	Interpersonal
+92185	Management
+89248	Management
+92186	Management
+92186	Administrative
+92141	Development
+92187	Evaluative
+92187	Development
+92142	Development
+92142	Management
+92188	Analytical
+92188	Conceptual
+92143	Analytical
+92143	Development
+92189	Conceptual
+92189	Management
+92144	Interpersonal
+92144	Administrative
+92190	Administrative
+92149	Communication
+92149	Administrative
+92191	Interpersonal
+92191	Communication
+92150	Evaluative
+92150	Administrative
+92192	Interpersonal
+92192	Administrative
+92206	Interpersonal
+92206	Administrative
+92152	Analytical
+92152	Administrative
+92193	Evaluative
+92193	Development
+92153	Communication
+92153	Critical Thinking
+92194	Conceptual
+92195	Critical Thinking
+92195	Administrative
+92196	Critical Thinking
+92196	Administrative
+92207	Development
+92207	Management
+92208	Analytical
+92208	Critical Thinking
+92208	Management
+92158	Evaluative
+92158	Communication
+92158	Administrative
+92197	Critical Thinking
+92159	Communication
+92159	Administrative
+92198	Interpersonal
+92160	Interpersonal
+92160	Communication
+92199	Analytical
+92199	Evaluative
+92200	Evaluative
+92200	Communication
+92200	Administrative
+92204	Evaluative
+92204	Development
+92166	Analytical
+92166	Administrative
+92201	Analytical
+92201	Interpersonal
+92202	Analytical
+92202	Critical Thinking
+92202	Management
+92203	Communication
+92203	Development
+92165	Analytical
+92165	Administrative
+92205	Interpersonal
+92205	Development
+88860	Interpersonal
+88860	Communication
+88860	Development
+88870	Development
+88870	Critical Thinking
+88778	Communication
+88778	Development
+88861	Management
+88861	Critical Thinking
+88862	Management
+88864	Evaluative
+88864	Administrative
+88733	Evaluative
+88733	Critical Thinking
+88865	Analytical
+88865	Communication
+88866	Critical Thinking
+88866	Administrative
+88875	Development
+88875	Critical Thinking
+88760	Conceptual
+88760	Communication
+88872	Communication
+88872	Administrative
+88867	Analytical
+88867	Communication
+88878	Development
+88878	Critical Thinking
+88882	Analytical
+88904	Conceptual
+88904	Administrative
+88879	Communication
+88883	Interpersonal
+88884	Evaluative
+88884	Communication
+88880	Analytical
+88880	Communication
+88895	Management
+88895	Administrative
+88906	Interpersonal
+88885	Conceptual
+88885	Interpersonal
+88889	Communication
+88889	Development
+88908	Management
+88908	Critical Thinking
+88908	Development
+88886	Conceptual
+88886	Critical Thinking
+88900	Analytical
+88900	Interpersonal
+88909	Communication
+88909	Administrative
+88911	Analytical
+88911	Interpersonal
+88887	Communication
+88887	Critical Thinking
+88891	Conceptual
+88891	Development
+88913	Critical Thinking
+88913	Administrative
+88896	Conceptual
+88896	Management
+88894	Communication
+88914	Development
+88902	Analytical
+88902	Conceptual
+88905	Development
+88907	Evaluative
+88907	Critical Thinking
+88892	Analytical
+88892	Critical Thinking
+88892	Management
+88898	Critical Thinking
+88898	Administrative
+88888	Critical Thinking
+88888	Administrative
+88918	Evaluative
+88918	Critical Thinking
+88919	Management
+88919	Critical Thinking
+88919	Development
+88920	Management
+88920	Critical Thinking
+88920	Development
+88922	Conceptual
+88922	Evaluative
+88923	Evaluative
+88923	Communication
+88925	Evaluative
+88925	Critical Thinking
+88926	Interpersonal
+88926	Communication
+88926	Development
+93255	Development
+93255	Management
+93470	Evaluative
+93470	Communication
+93256	Conceptual
+93256	Management
+93471	Interpersonal
+92348	Conceptual
+92348	Management
+93257	Interpersonal
+93215	Development
+93215	Critical Thinking
+93263	Conceptual
+93263	Evaluative
+92346	Analytical
+92346	Interpersonal
+92350	Management
+92350	Critical Thinking
+92350	Development
+93229	Analytical
+93229	Management
+93258	Conceptual
+93258	Communication
+92354	Communication
+92354	Management
+92355	Communication
+92355	Critical Thinking
+92374	Analytical
+92374	Conceptual
+92708	Analytical
+92708	Interpersonal
+92724	Evaluative
+92724	Communication
+93235	Conceptual
+93235	Management
+93261	Analytical
+93261	Communication
+93265	Analytical
+93265	Development
+92352	Evaluative
+92352	Interpersonal
+92356	Development
+92356	Critical Thinking
+92692	Conceptual
+92693	Analytical
+92693	Management
+92726	Interpersonal
+92727	Evaluative
+92727	Administrative
+93262	Interpersonal
+93262	Administrative
+93266	Critical Thinking
+92349	Conceptual
+92349	Management
+93260	Analytical
+93260	Development
+93474	Analytical
+93474	Interpersonal
+93292	Conceptual
+93292	Management
+93473	Interpersonal
+93473	Administrative
+93475	Analytical
+93475	Development
+89129	Evaluative
+89129	Critical Thinking
+89259	Interpersonal
+89259	Administrative
+91397	Evaluative
+91397	Management
+89130	Interpersonal
+89130	Administrative
+89264	Critical Thinking
+89264	Administrative
+89271	Development
+89272	Analytical
+89272	Management
+89465	Interpersonal
+89465	Development
+89131	Evaluative
+89131	Development
+89133	Interpersonal
+89133	Critical Thinking
+89134	Conceptual
+89134	Development
+89132	Analytical
+89132	Administrative
+89066	Management
+89066	Critical Thinking
+89135	Analytical
+89135	Communication
+89180	Communication
+89180	Administrative
+89249	Analytical
+89249	Evaluative
+89252	Interpersonal
+89252	Management
+89256	Evaluative
+89256	Interpersonal
+89251	Evaluative
+89257	Critical Thinking
+89268	Interpersonal
+89268	Development
+89951	Evaluative
+89260	Analytical
+89260	Communication
+89263	Analytical
+89263	Development
+90825	Conceptual
+90825	Administrative
+91398	Administrative
+91401	Conceptual
+91401	Development
+89265	Communication
+89265	Management
+89269	Evaluative
+89269	Development
+89270	Interpersonal
+89270	Critical Thinking
+89494	Communication
+89494	Management
+89496	Communication
+89498	Evaluative
+89577	Evaluative
+89577	Communication
+89578	Interpersonal
+89578	Communication
+89578	Development
+89583	Evaluative
+89583	Communication
+89952	Conceptual
+89952	Critical Thinking
+90129	Development
+90132	Evaluative
+90132	Development
+90516	Development
+90516	Critical Thinking
+90551	Evaluative
+90551	Critical Thinking
+89261	Analytical
+89261	Critical Thinking
+89261	Management
+89262	Evaluative
+89262	Interpersonal
+89273	Communication
+89273	Critical Thinking
+89791	Interpersonal
+89791	Management
+89801	Interpersonal
+89801	Communication
+89801	Development
+90204	Interpersonal
+90204	Critical Thinking
+90224	Evaluative
+90224	Administrative
+90229	Evaluative
+90235	Evaluative
+90235	Critical Thinking
+90280	Conceptual
+90280	Evaluative
+90284	Conceptual
+90284	Administrative
+90286	Development
+90286	Critical Thinking
+90291	Evaluative
+90316	Analytical
+90316	Critical Thinking
+90317	Management
+90317	Critical Thinking
+90317	Development
+92675	Development
+92675	Management
+93193	Analytical
+93193	Critical Thinking
+93193	Management
+93194	Conceptual
+93194	Interpersonal
+93202	Analytical
+93202	Management
+93195	Conceptual
+93195	Administrative
+93197	Critical Thinking
+93197	Administrative
+93198	Evaluative
+93203	Evaluative
+93203	Development
+93196	Development
+93196	Administrative
+90674	Interpersonal
+90674	Communication
+90826	Development
+90826	Administrative
+91016	Development
+91016	Critical Thinking
+91402	Interpersonal
+90827	Analytical
+90827	Critical Thinking
+90827	Management
+90837	Management
+90837	Critical Thinking
+91403	Interpersonal
+91403	Administrative
+91405	Analytical
+91405	Communication
+90715	Communication
+90715	Critical Thinking
+90830	Interpersonal
+90830	Communication
+90833	Evaluative
+90833	Management
+90838	Critical Thinking
+91245	Analytical
+91313	Evaluative
+91313	Interpersonal
+91314	Interpersonal
+91314	Administrative
+91404	Interpersonal
+91404	Management
+92099	Communication
+92099	Critical Thinking
+91540	Analytical
+91540	Critical Thinking
+91540	Management
+92101	Communication
+92101	Management
+92110	Conceptual
+91543	Analytical
+91543	Critical Thinking
+91543	Management
+92102	Interpersonal
+92102	Communication
+92102	Development
+91989	Communication
+91989	Management
+92103	Analytical
+92103	Administrative
+91990	Analytical
+91990	Critical Thinking
+92104	Analytical
+92104	Critical Thinking
+91696	Evaluative
+91696	Communication
+92105	Analytical
+92105	Administrative
+91697	Communication
+91697	Development
+92106	Interpersonal
+92106	Management
+92096	Analytical
+92096	Interpersonal
+92107	Conceptual
+92107	Management
+92097	Analytical
+92097	Critical Thinking
+92108	Communication
+92108	Administrative
+91533	Analytical
+91533	Management
+92109	Evaluative
+92109	Communication
+88706	Interpersonal
+88706	Administrative
+88728	Evaluative
+88728	Critical Thinking
+88730	Evaluative
+88730	Management
+88708	Evaluative
+88709	Analytical
+88712	Development
+88712	Administrative
+88707	Interpersonal
+88707	Communication
+88710	Critical Thinking
+88714	Development
+88714	Management
+88715	Evaluative
+88715	Administrative
+88725	Communication
+88725	Administrative
+88722	Analytical
+88722	Conceptual
+88722	Evaluative
+88723	Management
+88723	Administrative
+88716	Analytical
+88717	Communication
+88720	Analytical
+88720	Evaluative
+88721	Management
+88734	Analytical
+88734	Conceptual
+88764	Analytical
+88764	Communication
+88771	Analytical
+88771	Development
+88735	Evaluative
+88735	Critical Thinking
+88737	Management
+88737	Critical Thinking
+88737	Development
+88742	Analytical
+88742	Communication
+88757	Conceptual
+88757	Interpersonal
+88769	Conceptual
+88769	Critical Thinking
+88774	Management
+88774	Administrative
+88758	Analytical
+88758	Critical Thinking
+88779	Communication
+88779	Development
+88780	Conceptual
+88780	Management
+88785	Evaluative
+88785	Development
+88802	Evaluative
+88802	Interpersonal
+88736	Communication
+88736	Development
+88744	Analytical
+88744	Administrative
+88759	Analytical
+88759	Management
+88869	Analytical
+88869	Critical Thinking
+88772	Analytical
+88772	Critical Thinking
+88743	Evaluative
+88743	Communication
+88766	Interpersonal
+88773	Analytical
+88773	Development
+88770	Analytical
+88770	Management
+88781	Interpersonal
+88781	Administrative
+88782	Evaluative
+88782	Communication
+88782	Administrative
+88755	Analytical
+88755	Critical Thinking
+88755	Management
+88761	Interpersonal
+88761	Development
+88738	Evaluative
+88738	Communication
+88738	Administrative
+88751	Development
+88751	Management
+88756	Development
+88756	Critical Thinking
+88762	Conceptual
+88749	Conceptual
+88749	Interpersonal
+88763	Conceptual
+88763	Critical Thinking
+88765	Evaluative
+88765	Communication
+88784	Analytical
+88784	Critical Thinking
+88798	Communication
+88797	Management
+88797	Critical Thinking
+88797	Development
+88783	Management
+88783	Critical Thinking
+88786	Communication
+88786	Development
+88799	Critical Thinking
+88794	Analytical
+88794	Conceptual
+88794	Evaluative
+88800	Conceptual
+88800	Evaluative
+88817	Analytical
+88817	Evaluative
+88824	Conceptual
+88824	Communication
+88807	Conceptual
+88807	Management
+88753	Development
+88795	Evaluative
+88795	Critical Thinking
+88803	Communication
+88808	Management
+88808	Critical Thinking
+88808	Development
+88791	Evaluative
+88791	Development
+88801	Evaluative
+88801	Administrative
+88839	Management
+88839	Critical Thinking
+88839	Development
+88840	Analytical
+88840	Communication
+88811	Development
+88841	Evaluative
+88841	Communication
+88841	Administrative
+88813	Management
+88813	Administrative
+88842	Analytical
+88842	Management
+92831	Analytical
+92831	Interpersonal
+88815	Analytical
+88815	Critical Thinking
+88815	Management
+88822	Critical Thinking
+88822	Administrative
+88849	Analytical
+88849	Interpersonal
+88857	Development
+88857	Critical Thinking
+88850	Development
+88850	Administrative
+88858	Management
+88858	Critical Thinking
+88858	Development
+88816	Communication
+88816	Development
+88823	Management
+88823	Administrative
+88843	Evaluative
+88843	Critical Thinking
+88844	Management
+88739	Evaluative
+88739	Critical Thinking
+88845	Communication
+88845	Development
+88838	Interpersonal
+88838	Communication
+88846	Evaluative
+88834	Communication
+88834	Critical Thinking
+88847	Evaluative
+88847	Critical Thinking
+88833	Evaluative
+88833	Development
+88853	Evaluative
+88853	Communication
+88853	Administrative
+88859	Interpersonal
+88859	Management
+88826	Conceptual
+88826	Development
+88854	Analytical
+88854	Conceptual
+88854	Evaluative
+88856	Analytical
+88747	Evaluative
+88747	Development
+88748	Development
+88748	Critical Thinking
+88775	Analytical
+88775	Critical Thinking
+88775	Management
+88829	Evaluative
+88829	Development
+88855	Analytical
+88855	Conceptual
+88830	Interpersonal
+88830	Communication
+88830	Development
+88848	Interpersonal
+88848	Communication
+88881	Analytical
+88881	Management
+93217	Interpersonal
+93217	Development
+93231	Conceptual
+93231	Management
+93264	Conceptual
+93264	Communication
+92327	Interpersonal
+92327	Administrative
+93214	Conceptual
+93214	Evaluative
+93216	Critical Thinking
+93230	Interpersonal
+93230	Communication
+92359	Management
+92359	Critical Thinking
+92359	Development
+92366	Interpersonal
+92586	Interpersonal
+92586	Development
+93236	Evaluative
+93241	Evaluative
+93241	Interpersonal
+93246	Interpersonal
+93246	Communication
+92360	Evaluative
+92367	Analytical
+92367	Evaluative
+92600	Critical Thinking
+92600	Administrative
+93237	Analytical
+93237	Management
+93242	Analytical
+93242	Interpersonal
+93248	Conceptual
+93248	Administrative
+92362	Analytical
+92362	Evaluative
+93238	Management
+93238	Critical Thinking
+93238	Development
+93239	Interpersonal
+93239	Communication
+93239	Development
+93243	Critical Thinking
+93243	Administrative
+93249	Analytical
+93249	Critical Thinking
+92361	Management
+92361	Administrative
+92363	Analytical
+92363	Evaluative
+92368	Conceptual
+92368	Critical Thinking
+92601	Evaluative
+92603	Interpersonal
+92603	Administrative
+93240	Analytical
+93240	Conceptual
+93240	Evaluative
+93244	Evaluative
+93244	Development
+93247	Analytical
+93247	Evaluative
+92370	Administrative
+92684	Analytical
+92684	Critical Thinking
+93251	Conceptual
+93251	Critical Thinking
+93268	Conceptual
+93268	Development
+92371	Management
+92713	Interpersonal
+92713	Development
+93252	Evaluative
+93269	Development
+93269	Management
+92372	Evaluative
+92609	Evaluative
+92609	Interpersonal
+92615	Evaluative
+92615	Management
+93253	Analytical
+93253	Management
+93270	Analytical
+93270	Administrative
+92373	Critical Thinking
+92373	Administrative
+92612	Interpersonal
+92612	Administrative
+92618	Communication
+92618	Critical Thinking
+93254	Interpersonal
+93254	Critical Thinking
+93271	Analytical
+93271	Critical Thinking
+92543	Analytical
+92543	Critical Thinking
+92543	Management
+93291	Conceptual
+93291	Development
+93465	Interpersonal
+93467	Development
+93467	Administrative
+93472	Analytical
+93472	Evaluative
+92397	Administrative
+92569	Development
+92569	Management
+93406	Communication
+92399	Management
+92491	Critical Thinking
+92491	Administrative
+93294	Evaluative
+93294	Development
+93317	Development
+93317	Critical Thinking
+92405	Conceptual
+92405	Administrative
+92475	Management
+92475	Administrative
+92492	Management
+93295	Evaluative
+93318	Evaluative
+93318	Management
+93330	Evaluative
+93301	Analytical
+93301	Evaluative
+93302	Interpersonal
+93302	Communication
+93302	Development
+92401	Interpersonal
+92401	Administrative
+93300	Analytical
+93300	Communication
+93303	Analytical
+93303	Conceptual
+93303	Evaluative
+93307	Critical Thinking
+92402	Analytical
+92402	Conceptual
+93296	Analytical
+93296	Development
+93297	Critical Thinking
+92403	Conceptual
+92403	Communication
+93298	Evaluative
+93298	Management
+92408	Conceptual
+92408	Critical Thinking
+92493	Analytical
+92493	Development
+92495	Conceptual
+92495	Management
+93299	Management
+93319	Communication
+93319	Development
+92474	Development
+92474	Critical Thinking
+93329	Evaluative
+93329	Management
+93371	Analytical
+93371	Critical Thinking
+93371	Management
+92418	Communication
+92418	Development
+92512	Conceptual
+92512	Development
+92544	Communication
+92544	Administrative
+92574	Interpersonal
+92574	Development
+93372	Evaluative
+93422	Evaluative
+93425	Management
+93425	Critical Thinking
+93466	Evaluative
+93466	Management
+93468	Communication
+93469	Evaluative
+93469	Communication
+93469	Administrative
+92417	Conceptual
+92417	Development
+93375	Analytical
+93375	Administrative
+92427	Communication
+92427	Management
+92428	Evaluative
+92428	Critical Thinking
+93364	Interpersonal
+93364	Development
+93374	Interpersonal
+93374	Management
+93373	Conceptual
+93373	Communication
+92568	Communication
+92568	Critical Thinking
+93405	Evaluative
+93405	Development
+92570	Critical Thinking
+93408	Interpersonal
+93408	Communication
+92571	Evaluative
+92571	Administrative
+93407	Critical Thinking
+93421	Interpersonal
+93421	Critical Thinking
+92513	Development
+92592	Analytical
+93423	Communication
+93423	Development
+93426	Interpersonal
+93426	Communication
+93424	Development
+93427	Analytical
+89171	Interpersonal
+89171	Administrative
+89036	Analytical
+89172	Development
+89172	Critical Thinking
+88966	Conceptual
+88966	Management
+88969	Communication
+88970	Communication
+88977	Interpersonal
+88977	Communication
+89064	Analytical
+89064	Evaluative
+89173	Analytical
+89173	Conceptual
+89173	Evaluative
+88936	Interpersonal
+88936	Development
+88937	Interpersonal
+88937	Communication
+88940	Evaluative
+88940	Management
+88941	Analytical
+88941	Critical Thinking
+88941	Management
+88943	Development
+88961	Analytical
+88961	Critical Thinking
+88961	Management
+88951	Interpersonal
+88951	Critical Thinking
+88953	Analytical
+88953	Critical Thinking
+88954	Evaluative
+88954	Management
+88960	Analytical
+88960	Administrative
+88947	Evaluative
+88963	Interpersonal
+88963	Communication
+88957	Evaluative
+88957	Development
+88958	Analytical
+88958	Communication
+88944	Interpersonal
+88955	Interpersonal
+88955	Development
+88962	Evaluative
+88962	Communication
+88965	Communication
+88965	Management
+88978	Interpersonal
+88978	Administrative
+88979	Management
+88979	Critical Thinking
+88971	Analytical
+88971	Development
+88973	Interpersonal
+89024	Administrative
+89026	Conceptual
+89026	Communication
+89030	Interpersonal
+89030	Development
+89091	Analytical
+89091	Management
+89160	Communication
+89160	Development
+89167	Communication
+89167	Critical Thinking
+88976	Communication
+88976	Development
+89144	Analytical
+89144	Conceptual
+89144	Evaluative
+89145	Conceptual
+89145	Management
+89146	Development
+89146	Administrative
+89102	Analytical
+89102	Interpersonal
+89147	Interpersonal
+89147	Management
+89148	Evaluative
+89105	Interpersonal
+89105	Management
+89150	Analytical
+89150	Evaluative
+89113	Interpersonal
+89113	Critical Thinking
+89151	Analytical
+89151	Interpersonal
+89106	Conceptual
+89106	Administrative
+89152	Interpersonal
+89152	Development
+89153	Evaluative
+89153	Communication
+89154	Analytical
+89154	Conceptual
+89155	Critical Thinking
+88982	Analytical
+88982	Administrative
+88990	Evaluative
+88990	Management
+88989	Interpersonal
+88989	Development
+88991	Evaluative
+88991	Interpersonal
+88984	Analytical
+88984	Management
+88985	Management
+88986	Development
+88986	Critical Thinking
+88983	Conceptual
+88983	Critical Thinking
+88987	Conceptual
+88987	Interpersonal
+88998	Interpersonal
+88998	Communication
+88997	Conceptual
+88997	Communication
+88999	Conceptual
+88999	Administrative
+88996	Development
+88996	Management
+89000	Analytical
+89001	Analytical
+89001	Conceptual
+88995	Communication
+88995	Development
+89002	Conceptual
+89002	Interpersonal
+89004	Management
+89011	Analytical
+89011	Evaluative
+89017	Conceptual
+89017	Communication
+89023	Communication
+89028	Development
+89028	Management
+89034	Analytical
+89034	Development
+89069	Analytical
+89069	Critical Thinking
+89018	Administrative
+89019	Communication
+89021	Interpersonal
+89021	Critical Thinking
+89015	Evaluative
+89015	Management
+89008	Evaluative
+89008	Administrative
+89012	Development
+89012	Critical Thinking
+89020	Conceptual
+89020	Communication
+89063	Critical Thinking
+89175	Evaluative
+89175	Interpersonal
+89067	Management
+89067	Administrative
+89176	Analytical
+89176	Conceptual
+89055	Conceptual
+89055	Development
+89057	Interpersonal
+89057	Development
+89177	Development
+89177	Administrative
+89051	Interpersonal
+89051	Management
+89059	Evaluative
+89059	Administrative
+89060	Interpersonal
+89060	Critical Thinking
+89178	Communication
+89178	Development
+89179	Conceptual
+89179	Interpersonal
+89052	Conceptual
+89052	Management
+89016	Management
+89016	Critical Thinking
+89027	Management
+89027	Critical Thinking
+89027	Development
+89037	Conceptual
+89037	Interpersonal
+89115	Analytical
+89115	Communication
+89163	Conceptual
+89163	Communication
+89158	Interpersonal
+89158	Critical Thinking
+89164	Development
+89164	Management
+89076	Analytical
+89076	Management
+89159	Interpersonal
+89159	Management
+89166	Development
+89166	Administrative
+89168	Conceptual
+89168	Development
+89161	Analytical
+89161	Conceptual
+89161	Evaluative
+89165	Analytical
+89165	Evaluative
+89169	Interpersonal
+89169	Communication
+89040	Analytical
+89040	Interpersonal
+89047	Management
+89047	Administrative
+89041	Communication
+89041	Management
+89184	Conceptual
+89184	Management
+89185	Evaluative
+89185	Interpersonal
+89201	Conceptual
+89211	Conceptual
+89211	Evaluative
+89186	Development
+89186	Administrative
+89191	Interpersonal
+89191	Management
+89192	Management
+89192	Administrative
+89193	Interpersonal
+89193	Management
+89209	Critical Thinking
+89217	Interpersonal
+89217	Administrative
+89235	Analytical
+89235	Management
+89236	Analytical
+89236	Conceptual
+89242	Management
+89253	Evaluative
+89253	Administrative
+89187	Development
+89187	Administrative
+89204	Interpersonal
+89204	Development
+89210	Critical Thinking
+89216	Conceptual
+89216	Critical Thinking
+89218	Conceptual
+89218	Interpersonal
+89228	Communication
+89190	Communication
+89190	Critical Thinking
+89200	Evaluative
+89200	Management
+89219	Conceptual
+89219	Interpersonal
+89207	Evaluative
+89207	Management
+89188	Communication
+89188	Critical Thinking
+89194	Conceptual
+89194	Communication
+89202	Critical Thinking
+89214	Communication
+89214	Management
+89215	Conceptual
+89215	Communication
+89227	Interpersonal
+89227	Development
+89195	Conceptual
+89195	Interpersonal
+89199	Administrative
+89196	Conceptual
+89196	Communication
+89206	Analytical
+89206	Critical Thinking
+89206	Management
+89212	Evaluative
+89212	Communication
+89212	Administrative
+89220	Development
+89224	Interpersonal
+89224	Management
+89203	Management
+89203	Critical Thinking
+89203	Development
+89213	Conceptual
+89213	Interpersonal
+89225	Communication
+89221	Interpersonal
+89221	Management
+89222	Development
+89222	Management
+89226	Critical Thinking
+89244	Interpersonal
+89244	Critical Thinking
+89230	Management
+89230	Critical Thinking
+89241	Evaluative
+89241	Management
+89243	Interpersonal
+89243	Administrative
+89234	Conceptual
+89234	Evaluative
+89189	Communication
+89189	Administrative
+89245	Interpersonal
+89245	Communication
+89245	Development
+89246	Interpersonal
+89246	Critical Thinking
+89639	Conceptual
+89639	Communication
+89692	Interpersonal
+89692	Administrative
+89708	Interpersonal
+89708	Development
+89728	Analytical
+89728	Evaluative
+89961	Conceptual
+89961	Development
+90007	Development
+90007	Management
+89640	Analytical
+89640	Interpersonal
+89695	Administrative
+89962	Evaluative
+89962	Critical Thinking
+89622	Interpersonal
+89622	Communication
+89622	Development
+89645	Analytical
+89645	Conceptual
+89645	Evaluative
+89696	Development
+89696	Administrative
+89709	Development
+89732	Interpersonal
+89732	Development
+89733	Evaluative
+89733	Administrative
+89976	Critical Thinking
+89976	Administrative
+89980	Analytical
+89980	Communication
+90008	Analytical
+89579	Critical Thinking
+89579	Administrative
+89638	Analytical
+89638	Critical Thinking
+89638	Management
+89647	Interpersonal
+89647	Communication
+89647	Development
+89963	Administrative
+89978	Conceptual
+89978	Development
+90518	Interpersonal
+90518	Administrative
+90554	Analytical
+90556	Management
+90559	Analytical
+90559	Conceptual
+89625	Evaluative
+89625	Management
+89643	Evaluative
+89643	Interpersonal
+89699	Analytical
+89699	Critical Thinking
+89964	Conceptual
+89964	Management
+89626	Evaluative
+89626	Critical Thinking
+89648	Communication
+89648	Critical Thinking
+89966	Analytical
+89966	Communication
+89668	Management
+89668	Administrative
+89712	Communication
+89712	Development
+89729	Management
+89729	Administrative
+89965	Management
+90011	Conceptual
+90011	Administrative
+90012	Evaluative
+90012	Communication
+89463	Development
+89985	Management
+89985	Administrative
+90135	Analytical
+90135	Conceptual
+90135	Evaluative
+90395	Development
+90395	Critical Thinking
+89471	Analytical
+89471	Evaluative
+89984	Development
+89984	Administrative
+90142	Analytical
+90142	Communication
+90401	Communication
+90401	Management
+89975	Conceptual
+89975	Administrative
+89981	Critical Thinking
+89981	Administrative
+90438	Interpersonal
+90438	Development
+90439	Communication
+90447	Interpersonal
+89986	Analytical
+89986	Conceptual
+89986	Evaluative
+89979	Communication
+89979	Administrative
+89967	Analytical
+89967	Evaluative
+90617	Conceptual
+90617	Evaluative
+89755	Conceptual
+89755	Administrative
+89757	Management
+89968	Administrative
+90077	Analytical
+90077	Critical Thinking
+89627	Analytical
+89627	Conceptual
+89627	Evaluative
+89628	Analytical
+89628	Administrative
+89650	Evaluative
+89650	Interpersonal
+89725	Evaluative
+89725	Development
+89958	Analytical
+89958	Evaluative
+89959	Evaluative
+89959	Administrative
+89651	Conceptual
+89651	Development
+89669	Management
+89669	Critical Thinking
+89672	Analytical
+89672	Interpersonal
+89676	Communication
+89676	Administrative
+89653	Communication
+89653	Critical Thinking
+89675	Interpersonal
+89675	Management
+89449	Conceptual
+89449	Communication
+89969	Analytical
+89969	Management
+90097	Evaluative
+90097	Administrative
+90098	Evaluative
+90098	Critical Thinking
+90378	Development
+89395	Interpersonal
+89395	Communication
+89395	Development
+89825	Management
+89825	Critical Thinking
+89825	Development
+89829	Evaluative
+89829	Communication
+89549	Evaluative
+89549	Interpersonal
+89587	Development
+89587	Critical Thinking
+90509	Analytical
+90509	Administrative
+90511	Evaluative
+90511	Interpersonal
+90586	Evaluative
+90586	Critical Thinking
+89766	Interpersonal
+89766	Communication
+89786	Analytical
+89786	Conceptual
+89788	Interpersonal
+89788	Critical Thinking
+89800	Analytical
+89800	Development
+90228	Critical Thinking
+90297	Administrative
+90301	Development
+89629	Interpersonal
+89629	Communication
+89629	Development
+89630	Development
+89630	Critical Thinking
+89658	Analytical
+89658	Critical Thinking
+89972	Development
+89632	Conceptual
+89632	Interpersonal
+89633	Interpersonal
+89633	Management
+89637	Communication
+89637	Critical Thinking
+89664	Evaluative
+89664	Communication
+89664	Administrative
+89973	Evaluative
+89973	Development
+89982	Conceptual
+89982	Administrative
+89401	Analytical
+89401	Management
+89635	Interpersonal
+89635	Communication
+89662	Conceptual
+89662	Management
+89636	Analytical
+89636	Development
+89663	Conceptual
+89663	Administrative
+89706	Analytical
+89706	Conceptual
+89974	Management
+89983	Analytical
+89983	Communication
+89634	Management
+89665	Development
+89665	Critical Thinking
+92286	Conceptual
+92286	Administrative
+89737	Conceptual
+89737	Critical Thinking
+89988	Critical Thinking
+89748	Conceptual
+89989	Conceptual
+89989	Management
+89550	Conceptual
+89550	Evaluative
+89998	Interpersonal
+89998	Communication
+89998	Development
+90005	Analytical
+90486	Interpersonal
+90486	Communication
+90487	Interpersonal
+90487	Critical Thinking
+90569	Analytical
+90569	Interpersonal
+90575	Conceptual
+90575	Communication
+93739	Interpersonal
+93739	Management
+89990	Analytical
+89990	Evaluative
+90079	Communication
+89740	Communication
+89740	Critical Thinking
+89992	Interpersonal
+89992	Administrative
+90001	Critical Thinking
+89993	Management
+89741	Development
+89680	Interpersonal
+89680	Critical Thinking
+89684	Conceptual
+90002	Communication
+90002	Development
+89671	Analytical
+89671	Development
+89674	Conceptual
+89674	Administrative
+89678	Conceptual
+89678	Interpersonal
+89682	Communication
+89685	Conceptual
+89685	Administrative
+89994	Conceptual
+89994	Evaluative
+90000	Conceptual
+90000	Communication
+90003	Conceptual
+90003	Critical Thinking
+89752	Management
+89996	Analytical
+89996	Critical Thinking
+89999	Evaluative
+89999	Administrative
+90004	Communication
+90004	Management
+90076	Analytical
+90076	Interpersonal
+89548	Critical Thinking
+89560	Administrative
+90009	Conceptual
+90009	Development
+90493	Management
+90493	Critical Thinking
+90494	Analytical
+90494	Conceptual
+90494	Evaluative
+90577	Evaluative
+90577	Interpersonal
+90579	Management
+90579	Administrative
+90610	Evaluative
+90610	Critical Thinking
+89778	Communication
+90010	Development
+90010	Administrative
+90157	Analytical
+90161	Evaluative
+90161	Critical Thinking
+89305	Evaluative
+89305	Development
+89323	Evaluative
+89323	Management
+89597	Conceptual
+89597	Communication
+90054	Evaluative
+90054	Critical Thinking
+90081	Conceptual
+90081	Communication
+92626	Analytical
+92626	Communication
+89318	Conceptual
+89318	Management
+89321	Management
+89321	Administrative
+89324	Analytical
+89324	Conceptual
+89324	Evaluative
+89325	Interpersonal
+89325	Development
+89598	Conceptual
+89598	Communication
+90055	Management
+90055	Critical Thinking
+90082	Conceptual
+90082	Development
+92627	Analytical
+92627	Development
+89347	Evaluative
+89347	Interpersonal
+89435	Evaluative
+89435	Interpersonal
+90072	Interpersonal
+90072	Critical Thinking
+90073	Analytical
+90073	Conceptual
+89751	Communication
+89751	Administrative
+90075	Management
+90075	Critical Thinking
+90075	Development
+89490	Evaluative
+89490	Communication
+89571	Conceptual
+89571	Development
+90126	Analytical
+90126	Development
+90415	Evaluative
+90415	Communication
+90514	Conceptual
+90514	Interpersonal
+90549	Evaluative
+90549	Interpersonal
+89380	Analytical
+89380	Administrative
+89383	Development
+89383	Administrative
+89389	Interpersonal
+89389	Management
+89572	Analytical
+90515	Analytical
+90515	Critical Thinking
+90550	Interpersonal
+90550	Development
+89594	Management
+89594	Critical Thinking
+89594	Development
+89691	Analytical
+89702	Interpersonal
+89702	Development
+89705	Management
+89705	Administrative
+90506	Management
+90506	Critical Thinking
+90536	Communication
+90536	Critical Thinking
+90539	Management
+90539	Administrative
+90548	Interpersonal
+90552	Analytical
+90552	Management
+89573	Analytical
+89573	Conceptual
+89573	Evaluative
+89935	Analytical
+89935	Conceptual
+90519	Development
+90519	Critical Thinking
+90555	Management
+90555	Critical Thinking
+90555	Development
+90557	Interpersonal
+90557	Communication
+90557	Development
+89574	Interpersonal
+89624	Interpersonal
+89624	Communication
+89641	Analytical
+89641	Critical Thinking
+89641	Management
+89698	Communication
+89698	Critical Thinking
+90520	Critical Thinking
+90520	Administrative
+90553	Conceptual
+90553	Development
+89407	Analytical
+89407	Critical Thinking
+89407	Management
+89840	Evaluative
+89840	Development
+92605	Management
+92605	Critical Thinking
+89398	Conceptual
+89398	Administrative
+89408	Communication
+89408	Critical Thinking
+89834	Conceptual
+89834	Critical Thinking
+89842	Evaluative
+89842	Critical Thinking
+89843	Conceptual
+89843	Administrative
+92606	Analytical
+92606	Management
+89409	Analytical
+89409	Conceptual
+89841	Management
+89841	Critical Thinking
+89841	Development
+89600	Analytical
+89600	Development
+90085	Evaluative
+90085	Critical Thinking
+90089	Conceptual
+90089	Management
+89601	Interpersonal
+89601	Communication
+90083	Development
+90083	Administrative
+90087	Analytical
+90087	Development
+89602	Development
+89602	Administrative
+89603	Conceptual
+89603	Critical Thinking
+90084	Development
+90084	Administrative
+89605	Analytical
+89605	Communication
+89604	Management
+89604	Critical Thinking
+89604	Development
+90088	Analytical
+90091	Evaluative
+89606	Analytical
+89606	Evaluative
+90086	Conceptual
+90086	Administrative
+89871	Interpersonal
+89871	Administrative
+89433	Communication
+89433	Administrative
+89863	Evaluative
+89863	Administrative
+89872	Critical Thinking
+89432	Communication
+89432	Management
+89721	Interpersonal
+89721	Communication
+89721	Development
+89867	Conceptual
+89867	Development
+89869	Communication
+89873	Interpersonal
+89873	Communication
+89426	Analytical
+89426	Critical Thinking
+89864	Development
+89874	Evaluative
+89874	Communication
+89875	Administrative
+89427	Evaluative
+89865	Interpersonal
+89865	Development
+90133	Evaluative
+90133	Development
+89536	Interpersonal
+89536	Development
+89947	Evaluative
+89947	Administrative
+89953	Evaluative
+89953	Communication
+89953	Administrative
+90196	Critical Thinking
+90196	Administrative
+89759	Analytical
+89759	Interpersonal
+89821	Management
+89821	Critical Thinking
+90208	Management
+90208	Administrative
+90210	Conceptual
+90210	Development
+90305	Management
+90305	Critical Thinking
+90305	Development
+90217	Conceptual
+90217	Management
+92154	Evaluative
+92154	Management
+89820	Evaluative
+90203	Development
+90215	Evaluative
+90215	Development
+90315	Evaluative
+90315	Administrative
+90318	Analytical
+90318	Evaluative
+89781	Conceptual
+89781	Critical Thinking
+89783	Critical Thinking
+89789	Communication
+89789	Administrative
+89792	Development
+89792	Critical Thinking
+89803	Interpersonal
+89803	Communication
+89814	Development
+89814	Management
+89817	Conceptual
+89817	Development
+90197	Evaluative
+90197	Communication
+90197	Administrative
+90309	Evaluative
+90309	Interpersonal
+90218	Conceptual
+90218	Management
+92155	Conceptual
+92155	Administrative
+90209	Evaluative
+90209	Development
+90213	Interpersonal
+90213	Critical Thinking
+90311	Management
+89776	Communication
+89776	Critical Thinking
+90205	Conceptual
+90214	Evaluative
+90214	Administrative
+90312	Conceptual
+90312	Development
+90206	Development
+90206	Administrative
+90211	Interpersonal
+90211	Communication
+90211	Development
+90313	Conceptual
+89949	Communication
+89949	Critical Thinking
+89948	Development
+89948	Management
+89950	Analytical
+89950	Evaluative
+89954	Analytical
+89954	Conceptual
+90128	Communication
+90128	Critical Thinking
+90416	Conceptual
+90416	Administrative
+90199	Evaluative
+90199	Interpersonal
+90307	Analytical
+90307	Conceptual
+90307	Evaluative
+90621	Evaluative
+90621	Communication
+89761	Management
+89761	Critical Thinking
+89761	Development
+89780	Interpersonal
+89780	Communication
+89780	Development
+89787	Conceptual
+89787	Management
+89802	Interpersonal
+89802	Development
+90237	Evaluative
+90237	Communication
+90237	Administrative
+90288	Conceptual
+90288	Management
+90294	Interpersonal
+90294	Management
+90298	Analytical
+90298	Administrative
+90300	Critical Thinking
+90300	Administrative
+90622	Analytical
+90623	Administrative
+90624	Development
+90624	Management
+89384	Development
+89384	Administrative
+89387	Communication
+89765	Communication
+89785	Development
+89785	Management
+89796	Analytical
+89796	Conceptual
+89796	Evaluative
+89810	Conceptual
+89810	Administrative
+90207	Analytical
+90207	Management
+90466	Critical Thinking
+90630	Analytical
+90630	Conceptual
+90630	Evaluative
+90625	Evaluative
+90625	Critical Thinking
+90626	Interpersonal
+90626	Critical Thinking
+90627	Conceptual
+90627	Development
+90628	Management
+90628	Administrative
+90631	Management
+90631	Critical Thinking
+90631	Development
+90629	Analytical
+90629	Communication
+89385	Conceptual
+89385	Management
+89599	Evaluative
+89599	Critical Thinking
+89763	Interpersonal
+90090	Conceptual
+90090	Development
+90463	Management
+90463	Critical Thinking
+90465	Management
+90465	Administrative
+89381	Interpersonal
+89381	Communication
+89386	Conceptual
+89386	Administrative
+89388	Interpersonal
+89388	Management
+89576	Analytical
+89576	Development
+89609	Conceptual
+89764	Communication
+89764	Management
+90464	Evaluative
+90464	Administrative
+91513	Interpersonal
+91513	Management
+90857	Development
+90894	Communication
+90894	Development
+91312	Interpersonal
+91514	Development
+91514	Management
+90673	Evaluative
+90673	Communication
+90714	Development
+90697	Communication
+90702	Analytical
+90702	Evaluative
+90717	Analytical
+90717	Management
+90760	Evaluative
+90760	Development
+90773	Conceptual
+90773	Management
+90787	Analytical
+90787	Critical Thinking
+90795	Evaluative
+90795	Communication
+91444	Interpersonal
+91444	Critical Thinking
+90834	Analytical
+90834	Critical Thinking
+90834	Management
+90839	Conceptual
+90839	Critical Thinking
+90835	Evaluative
+90835	Interpersonal
+90840	Conceptual
+90840	Critical Thinking
+91152	Conceptual
+91152	Critical Thinking
+91154	Evaluative
+91154	Administrative
+90831	Conceptual
+90831	Management
+90832	Interpersonal
+90832	Communication
+90841	Interpersonal
+90856	Critical Thinking
+90856	Administrative
+90845	Evaluative
+90845	Development
+90858	Evaluative
+90858	Administrative
+90893	Analytical
+90893	Interpersonal
+90867	Analytical
+90867	Management
+90895	Analytical
+90895	Interpersonal
+90905	Analytical
+90905	Administrative
+90912	Conceptual
+90918	Conceptual
+90918	Communication
+90872	Development
+90872	Administrative
+90889	Interpersonal
+90889	Critical Thinking
+90900	Conceptual
+90900	Interpersonal
+90923	Analytical
+90933	Management
+90933	Critical Thinking
+90933	Development
+90942	Management
+90942	Critical Thinking
+90716	Interpersonal
+90716	Administrative
+90720	Development
+90720	Management
+90786	Management
+90786	Critical Thinking
+90861	Analytical
+90861	Communication
+90896	Management
+90896	Administrative
+90971	Evaluative
+90971	Communication
+91005	Interpersonal
+91005	Communication
+91005	Development
+90960	Management
+90975	Interpersonal
+90975	Critical Thinking
+90991	Analytical
+90991	Communication
+91007	Interpersonal
+91007	Communication
+91012	Management
+91012	Administrative
+91019	Interpersonal
+91019	Management
+91057	Analytical
+91057	Critical Thinking
+90992	Critical Thinking
+91009	Analytical
+91009	Development
+91010	Development
+91011	Evaluative
+91011	Development
+91013	Conceptual
+91013	Management
+91020	Development
+91058	Management
+91058	Critical Thinking
+91058	Development
+91340	Communication
+91006	Evaluative
+91006	Interpersonal
+91014	Evaluative
+91022	Communication
+91022	Administrative
+91059	Evaluative
+91059	Interpersonal
+91015	Interpersonal
+91015	Communication
+91021	Interpersonal
+91021	Communication
+91021	Development
+91068	Conceptual
+91068	Development
+90949	Interpersonal
+90949	Communication
+91017	Interpersonal
+91017	Critical Thinking
+91047	Conceptual
+91047	Management
+90961	Conceptual
+90961	Communication
+90976	Analytical
+90976	Critical Thinking
+91008	Development
+91008	Management
+91018	Critical Thinking
+91023	Critical Thinking
+91023	Administrative
+91041	Evaluative
+91041	Development
+91086	Conceptual
+91086	Critical Thinking
+91098	Conceptual
+91098	Management
+91129	Management
+91129	Administrative
+91153	Conceptual
+91153	Evaluative
+91158	Analytical
+91158	Conceptual
+91158	Evaluative
+91114	Conceptual
+91114	Evaluative
+91140	Communication
+91155	Communication
+91155	Development
+91156	Critical Thinking
+91156	Administrative
+91242	Evaluative
+91288	Conceptual
+91288	Communication
+91303	Communication
+91303	Development
+91308	Conceptual
+91308	Critical Thinking
+91178	Analytical
+91178	Communication
+91243	Critical Thinking
+91310	Management
+91310	Critical Thinking
+91316	Conceptual
+91193	Critical Thinking
+91193	Administrative
+91205	Management
+91205	Critical Thinking
+91246	Interpersonal
+91246	Administrative
+91250	Management
+91250	Critical Thinking
+91250	Development
+91309	Evaluative
+91309	Critical Thinking
+91192	Analytical
+91192	Interpersonal
+91315	Evaluative
+91315	Communication
+91317	Interpersonal
+91317	Administrative
+91339	Interpersonal
+91339	Communication
+91339	Development
+91342	Evaluative
+91342	Critical Thinking
+91344	Conceptual
+91344	Communication
+91351	Communication
+91351	Management
+91359	Conceptual
+91359	Interpersonal
+91332	Communication
+91332	Critical Thinking
+91343	Management
+91343	Critical Thinking
+91345	Critical Thinking
+91345	Administrative
+91379	Evaluative
+91379	Administrative
+91328	Conceptual
+91328	Administrative
+91341	Conceptual
+91360	Evaluative
+91360	Interpersonal
+91365	Development
+91365	Management
+91391	Evaluative
+91391	Critical Thinking
+91541	Interpersonal
+91541	Management
+91595	Development
+91595	Administrative
+91542	Analytical
+91542	Critical Thinking
+91542	Management
+91566	Evaluative
+91566	Administrative
+91596	Development
+91596	Critical Thinking
+91545	Evaluative
+91545	Development
+91546	Analytical
+91546	Evaluative
+91556	Interpersonal
+91556	Development
+91557	Conceptual
+91557	Critical Thinking
+91559	Analytical
+91559	Conceptual
+93207	Communication
+93207	Administrative
+92310	Communication
+92310	Administrative
+92311	Analytical
+92311	Communication
+92319	Analytical
+92319	Management
+93208	Interpersonal
+93208	Administrative
+93210	Management
+93210	Administrative
+92312	Conceptual
+92312	Management
+92317	Critical Thinking
+92317	Administrative
+93209	Interpersonal
+93209	Management
+92316	Critical Thinking
+92322	Evaluative
+92322	Communication
+92325	Evaluative
+92325	Communication
+93212	Critical Thinking
+93213	Evaluative
+93213	Administrative
+92324	Development
+92324	Management
+92326	Interpersonal
+92326	Management
+92330	Critical Thinking
+93220	Analytical
+93220	Critical Thinking
+93220	Management
+92334	Evaluative
+92334	Administrative
+93221	Interpersonal
+93221	Administrative
+93222	Communication
+93223	Analytical
+93223	Conceptual
+92338	Evaluative
+92338	Development
+93225	Administrative
+92342	Management
+92342	Administrative
+93226	Evaluative
+93226	Development
+93227	Interpersonal
+93227	Critical Thinking
+93228	Conceptual
+93228	Administrative
+92394	Communication
+92394	Administrative
+93275	Analytical
+93275	Administrative
+92378	Conceptual
+93279	Communication
+93279	Development
+93280	Evaluative
+93280	Communication
+93276	Interpersonal
+93276	Communication
+93276	Development
+93281	Interpersonal
+93281	Management
+92382	Interpersonal
+92382	Communication
+92383	Administrative
+93277	Interpersonal
+93277	Communication
+93277	Development
+93278	Management
+93278	Critical Thinking
+93278	Development
+92385	Interpersonal
+92385	Management
+93283	Interpersonal
+93283	Development
+92386	Evaluative
+92386	Communication
+92391	Analytical
+92391	Evaluative
+93284	Analytical
+93284	Interpersonal
+93290	Communication
+93290	Management
+92387	Interpersonal
+92387	Critical Thinking
+92390	Communication
+92390	Critical Thinking
+93287	Conceptual
+93287	Management
+93288	Conceptual
+92388	Critical Thinking
+92392	Interpersonal
+92392	Critical Thinking
+93285	Management
+93285	Critical Thinking
+93289	Critical Thinking
+93289	Administrative
+92482	Communication
+92482	Administrative
+93306	Development
+93306	Critical Thinking
+92483	Development
+92483	Critical Thinking
+93308	Conceptual
+93308	Interpersonal
+92484	Communication
+92484	Development
+93309	Communication
+93309	Critical Thinking
+92485	Management
+92485	Administrative
+93311	Administrative
+93316	Evaluative
+93316	Administrative
+92400	Communication
+92400	Management
+93338	Interpersonal
+93338	Management
+93350	Evaluative
+93350	Administrative
+92436	Development
+92436	Administrative
+92439	Management
+92439	Critical Thinking
+92439	Development
+93333	Administrative
+93335	Analytical
+93335	Development
+93339	Critical Thinking
+93339	Administrative
+93351	Interpersonal
+93351	Communication
+92441	Analytical
+93334	Analytical
+93334	Communication
+93336	Analytical
+93336	Management
+93340	Interpersonal
+93340	Management
+93352	Analytical
+93352	Interpersonal
+92437	Communication
+92437	Development
+92440	Communication
+92440	Critical Thinking
+93341	Analytical
+93341	Management
+93353	Management
+93353	Critical Thinking
+92459	Interpersonal
+92459	Communication
+92459	Development
+93322	Analytical
+93322	Communication
+92460	Interpersonal
+92460	Communication
+92460	Development
+93323	Conceptual
+93328	Interpersonal
+93324	Conceptual
+92461	Analytical
+92461	Interpersonal
+93326	Development
+93326	Critical Thinking
+92463	Evaluative
+92465	Evaluative
+92465	Administrative
+92466	Administrative
+93325	Communication
+93325	Administrative
+93327	Interpersonal
+93327	Development
+92468	Interpersonal
+92468	Communication
+93343	Conceptual
+93343	Interpersonal
+93355	Conceptual
+93355	Critical Thinking
+92469	Analytical
+92469	Interpersonal
+93344	Evaluative
+93344	Communication
+93356	Interpersonal
+93356	Critical Thinking
+93347	Administrative
+93357	Interpersonal
+93357	Development
+92472	Conceptual
+92472	Interpersonal
+92473	Conceptual
+92473	Development
+93346	Communication
+93346	Development
+93348	Evaluative
+93348	Management
+93358	Communication
+93358	Critical Thinking
+93361	Interpersonal
+93361	Administrative
+92425	Interpersonal
+92425	Development
+93366	Conceptual
+93366	Communication
+93363	Evaluative
+93363	Interpersonal
+93365	Interpersonal
+93365	Communication
+92430	Communication
+93368	Conceptual
+93368	Communication
+92431	Analytical
+92431	Critical Thinking
+92431	Management
+93369	Administrative
+93370	Development
+93370	Administrative
+92547	Analytical
+92547	Communication
+93378	Conceptual
+93378	Evaluative
+92550	Analytical
+92550	Critical Thinking
+93380	Administrative
+93383	Evaluative
+93383	Communication
+93385	Communication
+93385	Management
+92549	Analytical
+92549	Conceptual
+93379	Analytical
+93379	Interpersonal
+93384	Evaluative
+93384	Communication
+93384	Administrative
+92548	Communication
+92548	Management
+92358	Communication
+92358	Development
+92511	Management
+92511	Critical Thinking
+92511	Development
+92573	Management
+92573	Critical Thinking
+92553	Management
+92556	Analytical
+92556	Conceptual
+92558	Critical Thinking
+92558	Administrative
+93387	Critical Thinking
+93387	Administrative
+93401	Development
+93401	Critical Thinking
+92559	Conceptual
+92559	Communication
+93388	Critical Thinking
+93388	Administrative
+93400	Critical Thinking
+93400	Administrative
+92566	Communication
+93393	Administrative
+93394	Conceptual
+93394	Management
+92560	Analytical
+92560	Conceptual
+92560	Evaluative
+93389	Analytical
+93389	Critical Thinking
+93390	Evaluative
+93390	Management
+92561	Evaluative
+92561	Administrative
+93403	Conceptual
+93403	Evaluative
+92562	Analytical
+92562	Administrative
+93395	Administrative
+93397	Evaluative
+93397	Development
+93404	Interpersonal
+93404	Management
+92565	Communication
+92565	Management
+93392	Management
+93392	Critical Thinking
+93392	Development
+93398	Conceptual
+93398	Management
+93402	Communication
+93402	Critical Thinking
+93399	Evaluative
+93399	Critical Thinking
+92501	Administrative
+93411	Evaluative
+93411	Interpersonal
+93412	Analytical
+93412	Evaluative
+92505	Analytical
+92505	Management
+92602	Conceptual
+92602	Administrative
+93416	Analytical
+93416	Management
+93418	Evaluative
+93418	Communication
+93418	Administrative
+93419	Interpersonal
+93419	Critical Thinking
+92507	Conceptual
+92507	Development
+92594	Analytical
+92594	Management
+92517	Analytical
+92517	Communication
+92683	Management
+93430	Analytical
+93430	Evaluative
+93434	Analytical
+93434	Management
+93441	Evaluative
+93441	Communication
+93441	Administrative
+92519	Communication
+92519	Critical Thinking
+92685	Communication
+92685	Administrative
+93435	Analytical
+93435	Interpersonal
+93442	Interpersonal
+92518	Analytical
+92690	Interpersonal
+92690	Communication
+92690	Development
+93432	Conceptual
+93432	Interpersonal
+93448	Analytical
+93448	Conceptual
+93448	Evaluative
+92521	Communication
+92521	Development
+92689	Analytical
+92689	Administrative
+92714	Analytical
+92714	Critical Thinking
+92714	Management
+93437	Management
+93437	Administrative
+93446	Analytical
+93446	Critical Thinking
+93446	Management
+93449	Conceptual
+92523	Conceptual
+92523	Communication
+93438	Conceptual
+93438	Management
+93443	Evaluative
+93443	Communication
+93443	Administrative
+92524	Conceptual
+92688	Interpersonal
+92694	Development
+93431	Conceptual
+93431	Development
+92525	Communication
+92525	Administrative
+92715	Evaluative
+92715	Administrative
+92722	Analytical
+92722	Evaluative
+93439	Conceptual
+93439	Administrative
+93444	Conceptual
+93444	Interpersonal
+92526	Analytical
+92716	Development
+92716	Administrative
+92718	Critical Thinking
+93440	Analytical
+93440	Conceptual
+93445	Interpersonal
+93445	Communication
+93445	Development
+92516	Interpersonal
+92516	Management
+92528	Development
+92528	Management
+92607	Analytical
+92607	Conceptual
+93451	Communication
+93451	Critical Thinking
+92530	Development
+92608	Conceptual
+92608	Administrative
+93452	Interpersonal
+93452	Administrative
+92531	Management
+93453	Development
+92532	Development
+92532	Administrative
+93454	Interpersonal
+92533	Management
+92533	Critical Thinking
+92610	Analytical
+92610	Interpersonal
+92617	Analytical
+92617	Development
+93455	Communication
+93455	Development
+92534	Communication
+92534	Administrative
+92611	Analytical
+92611	Communication
+93456	Development
+93456	Critical Thinking
+92536	Interpersonal
+92536	Critical Thinking
+92698	Analytical
+92698	Evaluative
+92837	Evaluative
+92837	Communication
+93459	Interpersonal
+93459	Administrative
+93460	Evaluative
+93460	Communication
+93460	Administrative
+92538	Conceptual
+92538	Management
+92838	Administrative
+93461	Analytical
+93461	Evaluative
+92539	Communication
+92539	Management
+92700	Evaluative
+92700	Administrative
+93462	Development
+93462	Management
+92540	Evaluative
+92540	Communication
+92540	Administrative
+92701	Communication
+93463	Critical Thinking
+93463	Administrative
+92537	Analytical
+92537	Evaluative
+92702	Evaluative
+92702	Interpersonal
+92541	Interpersonal
+92541	Communication
+92541	Development
+92703	Critical Thinking
+92703	Administrative
+93464	Development
+92704	Analytical
+92704	Evaluative
+89282	Development
+89282	Administrative
+89319	Conceptual
+89319	Communication
+90015	Analytical
+90015	Management
+90023	Critical Thinking
+90049	Evaluative
+90051	Conceptual
+90051	Critical Thinking
+90052	Administrative
+90021	Analytical
+90021	Conceptual
+90024	Analytical
+90024	Development
+90025	Development
+90025	Management
+89280	Critical Thinking
+89284	Development
+89284	Administrative
+89291	Analytical
+89291	Conceptual
+90019	Development
+90022	Interpersonal
+90022	Communication
+90022	Development
+90026	Analytical
+90026	Evaluative
+89278	Management
+89278	Administrative
+89279	Analytical
+89279	Evaluative
+89283	Management
+89283	Administrative
+89290	Analytical
+89290	Critical Thinking
+90018	Communication
+89281	Communication
+89281	Development
+89285	Evaluative
+89285	Communication
+89292	Evaluative
+89292	Administrative
+90016	Communication
+90016	Administrative
+90027	Critical Thinking
+90027	Administrative
+90020	Communication
+90028	Development
+90028	Administrative
+90030	Conceptual
+90037	Analytical
+90037	Critical Thinking
+90037	Management
+89296	Communication
+89296	Management
+90031	Communication
+90031	Management
+90032	Interpersonal
+90032	Communication
+90032	Development
+90034	Communication
+90034	Administrative
+89298	Conceptual
+89298	Critical Thinking
+89301	Conceptual
+89301	Evaluative
+90035	Communication
+90035	Development
+90038	Analytical
+89303	Development
+89303	Administrative
+90036	Administrative
+90039	Analytical
+90039	Evaluative
+90053	Conceptual
+89311	Conceptual
+89311	Evaluative
+90041	Evaluative
+90046	Conceptual
+90046	Critical Thinking
+90047	Development
+90047	Administrative
+90042	Evaluative
+90042	Communication
+89316	Communication
+89320	Analytical
+89320	Communication
+90050	Management
+90050	Critical Thinking
+90050	Development
+89322	Interpersonal
+89322	Communication
+89322	Development
+89332	Communication
+89332	Management
+90058	Evaluative
+90058	Administrative
+89330	Management
+89330	Administrative
+90060	Analytical
+90060	Conceptual
+89329	Management
+89329	Critical Thinking
+89329	Development
+90059	Analytical
+90059	Conceptual
+90059	Evaluative
+90062	Conceptual
+90063	Interpersonal
+90063	Administrative
+89337	Interpersonal
+89346	Analytical
+89346	Development
+90061	Development
+90061	Management
+90064	Development
+90064	Critical Thinking
+90066	Evaluative
+90066	Development
+90070	Evaluative
+90070	Management
+90069	Evaluative
+90069	Interpersonal
+90067	Evaluative
+90067	Management
+89340	Management
+89341	Management
+89341	Critical Thinking
+89341	Development
+89565	Evaluative
+89565	Management
+89644	Management
+89644	Critical Thinking
+89644	Development
+90496	Analytical
+90496	Critical Thinking
+90496	Management
+90523	Evaluative
+90523	Critical Thinking
+90527	Analytical
+90527	Critical Thinking
+90527	Management
+89566	Interpersonal
+89566	Administrative
+90499	Conceptual
+90499	Evaluative
+90500	Conceptual
+90500	Development
+90524	Communication
+90524	Administrative
+89567	Management
+89567	Critical Thinking
+90498	Management
+90525	Communication
+90525	Development
+89542	Evaluative
+89542	Interpersonal
+90476	Analytical
+90476	Critical Thinking
+90529	Interpersonal
+90529	Development
+90531	Evaluative
+90531	Administrative
+90591	Critical Thinking
+89551	Analytical
+89551	Conceptual
+89588	Evaluative
+89588	Communication
+90477	Critical Thinking
+90530	Analytical
+90530	Critical Thinking
+90530	Management
+93740	Conceptual
+89404	Analytical
+89404	Evaluative
+89836	Conceptual
+89836	Administrative
+89839	Analytical
+89839	Critical Thinking
+89839	Management
+90542	Critical Thinking
+92663	Analytical
+92663	Conceptual
+92663	Evaluative
+92665	Analytical
+92665	Conceptual
+90540	Interpersonal
+90543	Communication
+90543	Development
+90534	Conceptual
+90534	Critical Thinking
+90541	Evaluative
+90541	Administrative
+90544	Interpersonal
+90544	Critical Thinking
+89458	Evaluative
+89458	Management
+90112	Analytical
+90112	Evaluative
+90388	Interpersonal
+90388	Administrative
+90538	Administrative
+90545	Evaluative
+90545	Interpersonal
+89552	Analytical
+89552	Critical Thinking
+89552	Management
+89558	Conceptual
+89558	Evaluative
+89592	Interpersonal
+89592	Management
+90503	Conceptual
+90503	Communication
+90504	Development
+90535	Analytical
+90535	Critical Thinking
+90546	Communication
+90546	Management
+89595	Development
+89595	Critical Thinking
+90547	Communication
+89824	Interpersonal
+89824	Administrative
+89393	Critical Thinking
+89828	Conceptual
+89828	Interpersonal
+89832	Conceptual
+89832	Interpersonal
+89830	Analytical
+89830	Administrative
+89826	Analytical
+89826	Conceptual
+89826	Evaluative
+89397	Communication
+89827	Conceptual
+89827	Administrative
+89831	Conceptual
+89831	Communication
+89405	Conceptual
+89405	Communication
+89837	Interpersonal
+89838	Analytical
+89838	Critical Thinking
+89838	Management
+89331	Evaluative
+89331	Management
+89406	Interpersonal
+89406	Management
+89400	Evaluative
+89400	Communication
+90149	Communication
+90149	Development
+89505	Conceptual
+89505	Development
+89881	Analytical
+89881	Conceptual
+90150	Development
+90150	Critical Thinking
+89464	Interpersonal
+89464	Administrative
+90136	Interpersonal
+90138	Analytical
+90138	Evaluative
+90396	Analytical
+90396	Administrative
+90398	Evaluative
+90398	Communication
+90398	Administrative
+90139	Evaluative
+90151	Conceptual
+90151	Evaluative
+89267	Management
+89745	Evaluative
+89745	Communication
+89745	Administrative
+89747	Analytical
+89747	Conceptual
+89747	Evaluative
+89749	Critical Thinking
+89997	Analytical
+89997	Conceptual
+89997	Evaluative
+90146	Critical Thinking
+90146	Administrative
+90152	Communication
+90405	Analytical
+90405	Administrative
+89467	Evaluative
+89467	Interpersonal
+90137	Evaluative
+90137	Critical Thinking
+90397	Critical Thinking
+89448	Conceptual
+89448	Administrative
+90096	Analytical
+90096	Critical Thinking
+90096	Management
+90377	Evaluative
+90377	Critical Thinking
+89511	Interpersonal
+89511	Administrative
+89399	Communication
+89399	Critical Thinking
+89654	Critical Thinking
+90379	Analytical
+90379	Conceptual
+90379	Evaluative
+90100	Interpersonal
+90100	Communication
+90381	Communication
+90381	Critical Thinking
+89451	Management
+89451	Critical Thinking
+89451	Development
+90101	Interpersonal
+90101	Critical Thinking
+90382	Critical Thinking
+89485	Development
+89485	Management
+90105	Conceptual
+90105	Administrative
+89486	Analytical
+89486	Critical Thinking
+89486	Management
+89489	Development
+89489	Critical Thinking
+90106	Communication
+90106	Management
+89487	Analytical
+89487	Critical Thinking
+90107	Development
+90108	Evaluative
+90108	Communication
+90108	Administrative
+89488	Communication
+89683	Conceptual
+89683	Management
+89991	Interpersonal
+89991	Development
+90110	Evaluative
+90110	Development
+90386	Development
+90386	Administrative
+90113	Evaluative
+90113	Critical Thinking
+90114	Interpersonal
+90114	Administrative
+90389	Analytical
+90389	Critical Thinking
+90389	Management
+90390	Development
+89561	Evaluative
+90484	Evaluative
+90484	Administrative
+90565	Interpersonal
+90565	Communication
+90598	Analytical
+90598	Communication
+90604	Interpersonal
+90604	Administrative
+89459	Evaluative
+89459	Communication
+89459	Administrative
+90111	Interpersonal
+90111	Management
+90116	Communication
+90387	Management
+90387	Critical Thinking
+90387	Development
+90392	Conceptual
+89476	Conceptual
+89476	Development
+90119	Communication
+90119	Critical Thinking
+90408	Communication
+90408	Management
+90120	Conceptual
+90120	Management
+90409	Analytical
+90409	Development
+89477	Conceptual
+89477	Evaluative
+89452	Communication
+90102	Analytical
+90102	Administrative
+90125	Evaluative
+90125	Critical Thinking
+90383	Evaluative
+90383	Interpersonal
+90414	Analytical
+90414	Administrative
+90302	Critical Thinking
+89777	Conceptual
+89777	Management
+90226	Communication
+90226	Critical Thinking
+90303	Evaluative
+90303	Communication
+90270	Evaluative
+90270	Administrative
+89805	Management
+89805	Critical Thinking
+89805	Development
+90232	Critical Thinking
+90273	Management
+90273	Critical Thinking
+90272	Communication
+90272	Critical Thinking
+89806	Analytical
+89806	Conceptual
+89806	Evaluative
+90234	Conceptual
+90234	Communication
+90271	Analytical
+90271	Conceptual
+90274	Management
+90274	Critical Thinking
+90274	Development
+89390	Analytical
+89390	Administrative
+89580	Management
+89580	Critical Thinking
+89580	Development
+89584	Evaluative
+89584	Development
+89700	Evaluative
+89700	Administrative
+90354	Administrative
+90517	Conceptual
+90517	Development
+89501	Communication
+89880	Development
+89880	Administrative
+89883	Communication
+89901	Conceptual
+89901	Management
+89502	Communication
+89502	Critical Thinking
+89902	Conceptual
+89902	Administrative
+89896	Communication
+89896	Development
+89903	Interpersonal
+89882	Conceptual
+89882	Interpersonal
+89904	Communication
+89904	Management
+89891	Communication
+89891	Development
+89905	Conceptual
+89905	Evaluative
+89884	Conceptual
+89884	Communication
+89906	Analytical
+89906	Communication
+89518	Analytical
+89518	Conceptual
+89892	Communication
+89892	Management
+89517	Interpersonal
+89517	Critical Thinking
+89889	Analytical
+89889	Communication
+89897	Conceptual
+89897	Administrative
+89907	Management
+89907	Critical Thinking
+89907	Development
+89503	Analytical
+89503	Administrative
+89895	Communication
+89895	Management
+89504	Management
+89908	Communication
+89908	Development
+89890	Interpersonal
+89507	Evaluative
+89507	Interpersonal
+89886	Conceptual
+89886	Interpersonal
+89899	Conceptual
+89899	Administrative
+89909	Evaluative
+89909	Development
+89512	Communication
+89512	Administrative
+89910	Conceptual
+89910	Evaluative
+89508	Conceptual
+89508	Development
+89888	Communication
+89888	Administrative
+89894	Development
+89894	Management
+89911	Communication
+89911	Administrative
+89900	Interpersonal
+89900	Development
+89912	Analytical
+89912	Conceptual
+89912	Evaluative
+89509	Conceptual
+89509	Evaluative
+89514	Conceptual
+89514	Administrative
+89887	Conceptual
+89623	Management
+89623	Administrative
+89646	Analytical
+89697	Development
+89971	Conceptual
+89521	Analytical
+89521	Communication
+89914	Interpersonal
+89936	Development
+89936	Critical Thinking
+89522	Management
+89917	Evaluative
+89926	Conceptual
+89926	Management
+89937	Conceptual
+89937	Interpersonal
+89938	Evaluative
+89938	Communication
+89546	Development
+89546	Management
+89934	Analytical
+89934	Conceptual
+89934	Evaluative
+89939	Development
+89939	Management
+89525	Development
+89525	Administrative
+89528	Development
+89528	Management
+89532	Analytical
+89532	Conceptual
+89532	Evaluative
+89919	Analytical
+89919	Development
+89923	Communication
+89923	Management
+89925	Management
+89925	Critical Thinking
+89929	Analytical
+89929	Communication
+89940	Analytical
+89940	Development
+89930	Critical Thinking
+89941	Analytical
+89941	Administrative
+89526	Communication
+89526	Critical Thinking
+89931	Evaluative
+89931	Interpersonal
+89942	Interpersonal
+89942	Critical Thinking
+89527	Interpersonal
+89527	Communication
+89533	Communication
+89533	Development
+89921	Conceptual
+89921	Management
+89924	Analytical
+89924	Administrative
+89932	Conceptual
+89932	Development
+89943	Interpersonal
+89943	Management
+89524	Conceptual
+89524	Communication
+89915	Evaluative
+89915	Development
+89933	Development
+89933	Management
+89944	Administrative
+90363	Evaluative
+90363	Communication
+90363	Administrative
+90364	Interpersonal
+90364	Development
+89439	Interpersonal
+89439	Communication
+89439	Development
+90357	Interpersonal
+90357	Management
+90367	Interpersonal
+90367	Communication
+90367	Development
+89440	Development
+89440	Administrative
+90358	Analytical
+90358	Communication
+90361	Critical Thinking
+90365	Interpersonal
+90365	Management
+90371	Interpersonal
+90371	Communication
+89568	Evaluative
+89568	Critical Thinking
+90370	Evaluative
+89478	Evaluative
+89478	Critical Thinking
+90122	Interpersonal
+90362	Interpersonal
+90366	Conceptual
+90366	Critical Thinking
+90411	Evaluative
+90411	Critical Thinking
+89441	Evaluative
+89446	Interpersonal
+89446	Administrative
+90360	Analytical
+90360	Critical Thinking
+90374	Evaluative
+90374	Communication
+90374	Administrative
+89656	Development
+89656	Administrative
+90147	Conceptual
+90147	Critical Thinking
+90406	Evaluative
+90406	Development
+90421	Critical Thinking
+90429	Development
+90422	Analytical
+90428	Evaluative
+90428	Management
+89657	Management
+89657	Critical Thinking
+89657	Development
+90423	Communication
+90423	Management
+90430	Communication
+90430	Development
+90424	Conceptual
+90424	Evaluative
+90431	Interpersonal
+90431	Critical Thinking
+90425	Conceptual
+90432	Management
+90432	Critical Thinking
+90399	Analytical
+90399	Communication
+90426	Interpersonal
+90426	Management
+90433	Evaluative
+90433	Administrative
+89480	Conceptual
+89480	Critical Thinking
+90123	Communication
+90123	Management
+90124	Communication
+90412	Interpersonal
+90412	Critical Thinking
+90413	Communication
+90427	Conceptual
+90427	Communication
+90434	Evaluative
+90437	Interpersonal
+90437	Development
+89354	Management
+89354	Critical Thinking
+89354	Development
+89362	Interpersonal
+89362	Development
+90446	Evaluative
+90446	Development
+89790	Analytical
+89790	Management
+89797	Communication
+90221	Conceptual
+90221	Administrative
+90277	Conceptual
+90277	Administrative
+90440	Communication
+90440	Management
+90445	Analytical
+90445	Interpersonal
+90448	Evaluative
+90448	Interpersonal
+89356	Analytical
+89356	Critical Thinking
+89364	Management
+90451	Conceptual
+90451	Management
+90444	Analytical
+90444	Conceptual
+90444	Evaluative
+89768	Analytical
+89768	Conceptual
+89768	Evaluative
+90441	Analytical
+90441	Evaluative
+90449	Communication
+90449	Critical Thinking
+90442	Analytical
+90442	Evaluative
+90450	Conceptual
+90450	Administrative
+89372	Analytical
+89372	Conceptual
+89382	Management
+89382	Critical Thinking
+90453	Management
+89374	Critical Thinking
+89374	Administrative
+89610	Critical Thinking
+89610	Administrative
+90454	Evaluative
+90454	Communication
+89368	Critical Thinking
+89373	Evaluative
+89373	Communication
+89373	Administrative
+89617	Interpersonal
+90457	Analytical
+90462	Interpersonal
+90462	Communication
+90462	Development
+89375	Administrative
+89611	Development
+89611	Critical Thinking
+90456	Conceptual
+90456	Interpersonal
+89371	Communication
+90460	Management
+90460	Administrative
+90455	Conceptual
+90455	Interpersonal
+89378	Analytical
+89378	Evaluative
+89379	Evaluative
+89379	Management
+89614	Interpersonal
+89614	Development
+89618	Analytical
+89618	Communication
+90458	Critical Thinking
+90461	Analytical
+90461	Critical Thinking
+89361	Interpersonal
+89361	Administrative
+90468	Interpersonal
+90469	Interpersonal
+90469	Critical Thinking
+90470	Management
+90472	Management
+90472	Critical Thinking
+90471	Interpersonal
+91420	Conceptual
+91420	Critical Thinking
+91432	Communication
+91448	Evaluative
+91452	Analytical
+91452	Conceptual
+91452	Evaluative
+91477	Analytical
+91477	Conceptual
+91477	Evaluative
+91486	Interpersonal
+91486	Communication
+91486	Development
+91429	Communication
+91439	Development
+91440	Management
+91440	Critical Thinking
+91451	Evaluative
+91451	Management
+91453	Interpersonal
+91453	Development
+91478	Development
+91478	Management
+91487	Evaluative
+90774	Evaluative
+90774	Interpersonal
+91480	Analytical
+91480	Critical Thinking
+91488	Management
+91435	Interpersonal
+91435	Communication
+91435	Development
+91484	Evaluative
+91484	Critical Thinking
+91422	Evaluative
+91422	Development
+91434	Administrative
+91421	Analytical
+91421	Development
+91433	Analytical
+91433	Management
+91449	Analytical
+91449	Communication
+91454	Communication
+91454	Critical Thinking
+91479	Evaluative
+91479	Management
+91489	Analytical
+91489	Management
+91423	Critical Thinking
+91436	Conceptual
+91436	Interpersonal
+91481	Conceptual
+91481	Evaluative
+91490	Interpersonal
+91490	Development
+91430	Communication
+91430	Administrative
+91437	Interpersonal
+91437	Development
+91482	Conceptual
+91491	Communication
+91491	Management
+91409	Administrative
+91415	Interpersonal
+91415	Development
+91494	Development
+91494	Administrative
+91496	Analytical
+91496	Conceptual
+91498	Communication
+91498	Administrative
+91396	Evaluative
+91396	Communication
+91410	Management
+91410	Critical Thinking
+91414	Management
+91414	Critical Thinking
+91414	Development
+91493	Conceptual
+91493	Interpersonal
+91495	Interpersonal
+91495	Communication
+91495	Development
+91499	Evaluative
+91499	Development
+91272	Interpersonal
+91276	Evaluative
+91276	Communication
+91276	Administrative
+91280	Management
+91280	Critical Thinking
+91280	Development
+91285	Development
+91285	Administrative
+91417	Management
+91497	Interpersonal
+91497	Management
+91500	Analytical
+91500	Critical Thinking
+91461	Evaluative
+91461	Interpersonal
+91468	Administrative
+91502	Communication
+91502	Critical Thinking
+91469	Conceptual
+91469	Interpersonal
+91505	Evaluative
+91505	Management
+91510	Interpersonal
+91510	Communication
+91510	Development
+91512	Development
+91512	Management
+91464	Analytical
+91464	Management
+91471	Evaluative
+91471	Critical Thinking
+91506	Management
+91509	Interpersonal
+91509	Communication
+91509	Development
+91511	Conceptual
+91511	Management
+91466	Interpersonal
+91466	Communication
+91466	Development
+91472	Analytical
+91503	Analytical
+91503	Conceptual
+91458	Analytical
+91458	Development
+91465	Analytical
+91465	Development
+91473	Conceptual
+91504	Analytical
+91504	Interpersonal
+91508	Evaluative
+91508	Management
+91467	Analytical
+91467	Communication
+91474	Critical Thinking
+90635	Evaluative
+90635	Critical Thinking
+91186	Communication
+90637	Management
+90637	Administrative
+90639	Development
+90639	Administrative
+90640	Analytical
+90640	Critical Thinking
+90636	Administrative
+90641	Communication
+90641	Development
+90642	Development
+90642	Management
+90644	Management
+90644	Critical Thinking
+90644	Development
+90648	Communication
+90648	Critical Thinking
+90645	Evaluative
+90645	Critical Thinking
+90647	Interpersonal
+90647	Critical Thinking
+90649	Analytical
+90649	Management
+90650	Analytical
+90650	Conceptual
+90646	Administrative
+90652	Evaluative
+90652	Critical Thinking
+90654	Conceptual
+90654	Interpersonal
+90656	Communication
+90656	Development
+90657	Administrative
+90660	Interpersonal
+90660	Development
+90693	Evaluative
+90693	Communication
+90693	Administrative
+90694	Communication
+90694	Critical Thinking
+91321	Administrative
+91327	Interpersonal
+91327	Administrative
+90677	Critical Thinking
+90684	Interpersonal
+90684	Development
+90653	Analytical
+90653	Interpersonal
+90658	Communication
+90658	Critical Thinking
+90678	Analytical
+90678	Critical Thinking
+90678	Management
+90686	Evaluative
+90686	Critical Thinking
+90655	Management
+90655	Critical Thinking
+90655	Development
+90659	Communication
+90659	Management
+90679	Development
+90679	Management
+90685	Interpersonal
+90685	Critical Thinking
+90662	Interpersonal
+90662	Development
+90668	Development
+90668	Management
+90663	Analytical
+90663	Management
+90669	Interpersonal
+90669	Critical Thinking
+90670	Analytical
+90670	Interpersonal
+90665	Communication
+90665	Management
+90666	Communication
+90666	Management
+90671	Analytical
+90671	Critical Thinking
+90671	Management
+90710	Management
+90710	Critical Thinking
+90710	Development
+90766	Interpersonal
+90766	Administrative
+90779	Communication
+90779	Critical Thinking
+90767	Conceptual
+90767	Critical Thinking
+90771	Evaluative
+90771	Management
+90782	Evaluative
+90782	Administrative
+90783	Evaluative
+90783	Interpersonal
+90780	Conceptual
+90780	Communication
+90769	Evaluative
+90769	Interpersonal
+90781	Critical Thinking
+90781	Administrative
+90784	Management
+90784	Critical Thinking
+90729	Management
+90743	Conceptual
+90743	Management
+90754	Administrative
+90770	Management
+90768	Analytical
+90768	Management
+90703	Analytical
+90703	Conceptual
+90698	Conceptual
+90698	Critical Thinking
+90699	Management
+90699	Critical Thinking
+90706	Conceptual
+90704	Analytical
+90704	Interpersonal
+90707	Interpersonal
+90707	Administrative
+90736	Conceptual
+90736	Communication
+90752	Communication
+90752	Critical Thinking
+90700	Analytical
+90700	Evaluative
+90788	Analytical
+90788	Communication
+90796	Interpersonal
+90796	Management
+90725	Communication
+90725	Critical Thinking
+90789	Development
+90789	Management
+90797	Analytical
+90797	Development
+90727	Development
+90727	Administrative
+90753	Analytical
+90753	Communication
+90791	Interpersonal
+90791	Management
+90798	Management
+90798	Critical Thinking
+90799	Analytical
+90735	Interpersonal
+90735	Communication
+90735	Development
+90800	Interpersonal
+90800	Communication
+90800	Development
+90801	Management
+90801	Critical Thinking
+90721	Critical Thinking
+90790	Development
+90790	Management
+90794	Analytical
+90802	Evaluative
+90803	Conceptual
+90803	Interpersonal
+90804	Analytical
+90804	Development
+90730	Evaluative
+90730	Development
+90805	Analytical
+90805	Development
+90806	Conceptual
+90806	Development
+90807	Interpersonal
+90807	Administrative
+90808	Development
+90682	Analytical
+90682	Development
+90687	Evaluative
+90687	Critical Thinking
+90809	Development
+90809	Critical Thinking
+90810	Evaluative
+90810	Critical Thinking
+90737	Interpersonal
+90737	Critical Thinking
+90739	Conceptual
+90739	Development
+90811	Interpersonal
+90811	Critical Thinking
+90759	Conceptual
+90759	Communication
+90812	Conceptual
+90812	Critical Thinking
+90746	Development
+90746	Administrative
+90813	Evaluative
+90813	Administrative
+90734	Evaluative
+90734	Communication
+90814	Administrative
+90815	Evaluative
+90815	Administrative
+90816	Analytical
+90816	Interpersonal
+90732	Interpersonal
+90732	Administrative
+90756	Interpersonal
+90756	Administrative
+90758	Analytical
+90758	Administrative
+90763	Interpersonal
+90817	Development
+90818	Development
+90818	Critical Thinking
+90819	Conceptual
+90819	Administrative
+90723	Analytical
+90723	Management
+90820	Analytical
+90820	Critical Thinking
+90820	Management
+90821	Development
+90775	Critical Thinking
+90775	Administrative
+90792	Communication
+90792	Management
+90822	Analytical
+90822	Communication
+90823	Evaluative
+90823	Communication
+90712	Conceptual
+90712	Administrative
+90713	Analytical
+90711	Analytical
+90846	Development
+90846	Management
+90848	Analytical
+90848	Critical Thinking
+90850	Evaluative
+90850	Critical Thinking
+90853	Evaluative
+90853	Administrative
+90854	Conceptual
+90847	Analytical
+90847	Management
+90852	Evaluative
+90852	Development
+90855	Communication
+90868	Evaluative
+90868	Communication
+90868	Administrative
+90913	Evaluative
+90913	Communication
+90870	Conceptual
+90870	Management
+90869	Communication
+90866	Development
+90866	Administrative
+90906	Management
+90906	Critical Thinking
+90906	Development
+90909	Analytical
+90909	Administrative
+90919	Analytical
+90919	Conceptual
+90919	Evaluative
+90863	Communication
+90863	Administrative
+90864	Development
+90864	Critical Thinking
+90907	Interpersonal
+90907	Development
+90908	Analytical
+90908	Interpersonal
+90910	Administrative
+90920	Communication
+90920	Development
+90921	Evaluative
+90921	Administrative
+90862	Analytical
+90862	Development
+90914	Interpersonal
+90877	Analytical
+90877	Management
+90878	Interpersonal
+90878	Administrative
+90924	Critical Thinking
+90873	Communication
+90873	Management
+90880	Communication
+90880	Administrative
+90875	Analytical
+90875	Communication
+90879	Conceptual
+90879	Evaluative
+90757	Analytical
+90757	Development
+90937	Critical Thinking
+90943	Conceptual
+90943	Evaluative
+90726	Interpersonal
+90726	Management
+90938	Management
+90938	Critical Thinking
+90938	Development
+90944	Administrative
+90749	Conceptual
+90749	Critical Thinking
+90940	Analytical
+90940	Evaluative
+90941	Interpersonal
+90941	Communication
+90945	Evaluative
+90945	Administrative
+90939	Analytical
+90939	Conceptual
+90939	Evaluative
+90741	Evaluative
+90741	Management
+90728	Analytical
+90728	Management
+90740	Administrative
+90946	Analytical
+90946	Management
+90887	Communication
+90887	Development
+90890	Communication
+90890	Management
+90929	Analytical
+90934	Interpersonal
+90934	Management
+90936	Critical Thinking
+90936	Administrative
+90883	Communication
+90884	Administrative
+90891	Interpersonal
+90891	Administrative
+90902	Interpersonal
+90902	Development
+90930	Communication
+90930	Development
+90932	Conceptual
+90932	Administrative
+90681	Management
+90681	Administrative
+90690	Management
+90690	Critical Thinking
+91027	Analytical
+91030	Analytical
+91030	Development
+91032	Interpersonal
+91032	Communication
+91032	Development
+90676	Conceptual
+90676	Evaluative
+90689	Conceptual
+90689	Administrative
+91026	Evaluative
+91026	Interpersonal
+91028	Conceptual
+91028	Critical Thinking
+91033	Analytical
+91033	Conceptual
+91033	Evaluative
+90680	Communication
+90680	Critical Thinking
+91034	Conceptual
+91034	Administrative
+91035	Evaluative
+91035	Administrative
+90691	Analytical
+90691	Development
+91036	Communication
+91036	Critical Thinking
+90950	Analytical
+90950	Management
+90952	Analytical
+90952	Evaluative
+91025	Interpersonal
+91025	Communication
+91037	Interpersonal
+90994	Analytical
+90994	Communication
+91029	Analytical
+91029	Development
+91031	Communication
+91031	Administrative
+91038	Interpersonal
+91038	Critical Thinking
+90953	Analytical
+90953	Evaluative
+90955	Management
+90955	Critical Thinking
+90955	Development
+90979	Analytical
+90979	Management
+90980	Management
+90951	Communication
+90951	Critical Thinking
+90954	Analytical
+90954	Conceptual
+90954	Evaluative
+90957	Development
+90998	Evaluative
+90998	Development
+91002	Development
+91002	Critical Thinking
+90982	Evaluative
+91040	Interpersonal
+91040	Management
+91042	Management
+91043	Analytical
+91043	Management
+91044	Analytical
+91044	Communication
+90965	Conceptual
+90965	Communication
+90969	Evaluative
+90969	Administrative
+90974	Interpersonal
+90974	Development
+90999	Conceptual
+90999	Administrative
+91045	Management
+91045	Administrative
+90984	Interpersonal
+90984	Management
+91048	Communication
+91048	Critical Thinking
+90985	Interpersonal
+90985	Development
+90987	Conceptual
+90987	Evaluative
+91049	Conceptual
+91049	Interpersonal
+90986	Conceptual
+90986	Management
+91050	Critical Thinking
+91051	Conceptual
+91051	Communication
+91052	Conceptual
+91052	Communication
+90997	Analytical
+90997	Conceptual
+90997	Evaluative
+91003	Interpersonal
+91003	Communication
+91053	Evaluative
+91053	Communication
+91053	Administrative
+91054	Analytical
+91054	Evaluative
+91001	Analytical
+91001	Administrative
+91055	Conceptual
+91055	Evaluative
+90993	Critical Thinking
+91060	Communication
+90956	Communication
+90956	Critical Thinking
+91061	Administrative
+90996	Development
+90996	Management
+91004	Interpersonal
+91004	Management
+91062	Conceptual
+91062	Management
+91063	Analytical
+91063	Evaluative
+91064	Communication
+91064	Development
+91065	Development
+91065	Critical Thinking
+91066	Conceptual
+91066	Critical Thinking
+91069	Evaluative
+91070	Communication
+91071	Critical Thinking
+91072	Analytical
+91072	Administrative
+91073	Conceptual
+91073	Communication
+91074	Evaluative
+91074	Management
+91075	Management
+91075	Critical Thinking
+91075	Development
+91076	Conceptual
+90964	Evaluative
+90964	Administrative
+90966	Conceptual
+90966	Critical Thinking
+90968	Interpersonal
+90968	Communication
+91077	Interpersonal
+91077	Communication
+90995	Interpersonal
+90995	Critical Thinking
+91078	Conceptual
+91081	Conceptual
+91081	Administrative
+91087	Administrative
+91093	Conceptual
+91082	Conceptual
+91082	Communication
+91083	Analytical
+91083	Evaluative
+91088	Analytical
+91085	Evaluative
+91085	Management
+91094	Analytical
+91095	Conceptual
+91095	Critical Thinking
+91090	Analytical
+91090	Communication
+91096	Development
+91096	Critical Thinking
+91084	Interpersonal
+91084	Communication
+91089	Analytical
+91089	Administrative
+91091	Communication
+91091	Management
+91120	Communication
+91120	Management
+91123	Development
+91166	Critical Thinking
+91166	Administrative
+91117	Interpersonal
+91117	Communication
+91167	Communication
+91167	Critical Thinking
+91115	Evaluative
+91115	Critical Thinking
+91116	Conceptual
+91116	Development
+91168	Administrative
+91142	Conceptual
+91143	Management
+91143	Critical Thinking
+91143	Development
+91148	Evaluative
+91148	Communication
+91148	Administrative
+91149	Conceptual
+91149	Administrative
+91170	Interpersonal
+91170	Communication
+91099	Interpersonal
+91099	Communication
+91110	Interpersonal
+91110	Management
+91133	Communication
+91133	Critical Thinking
+91092	Development
+91092	Management
+91100	Conceptual
+91100	Interpersonal
+91107	Communication
+91107	Critical Thinking
+91111	Analytical
+91111	Critical Thinking
+91108	Development
+91108	Critical Thinking
+91101	Management
+91106	Evaluative
+91112	Analytical
+91112	Management
+91109	Management
+91109	Administrative
+91128	Conceptual
+91128	Critical Thinking
+91132	Development
+91134	Evaluative
+91134	Critical Thinking
+91105	Analytical
+91122	Communication
+91122	Critical Thinking
+90882	Analytical
+90882	Administrative
+90892	Communication
+90892	Critical Thinking
+90897	Interpersonal
+90897	Communication
+90897	Development
+90898	Analytical
+90898	Conceptual
+90928	Interpersonal
+90928	Communication
+90928	Development
+91124	Interpersonal
+91124	Critical Thinking
+91138	Analytical
+91138	Interpersonal
+91119	Analytical
+91119	Administrative
+91141	Conceptual
+91141	Development
+91146	Management
+91146	Critical Thinking
+91146	Development
+91147	Analytical
+91147	Critical Thinking
+91174	Analytical
+91174	Interpersonal
+91144	Conceptual
+91144	Interpersonal
+91172	Analytical
+91145	Interpersonal
+91145	Critical Thinking
+91150	Interpersonal
+91150	Communication
+91150	Development
+91173	Communication
+91173	Critical Thinking
+91175	Development
+91175	Critical Thinking
+91126	Interpersonal
+91126	Communication
+91130	Analytical
+91130	Critical Thinking
+91135	Conceptual
+91135	Administrative
+91137	Interpersonal
+91137	Communication
+91137	Development
+91127	Communication
+91127	Management
+91131	Communication
+91131	Critical Thinking
+91136	Analytical
+91136	Evaluative
+91102	Evaluative
+91102	Communication
+91102	Administrative
+91159	Conceptual
+91161	Evaluative
+91161	Interpersonal
+91163	Conceptual
+91163	Administrative
+90849	Development
+91160	Evaluative
+91160	Communication
+91162	Communication
+91162	Administrative
+91164	Communication
+91103	Analytical
+91103	Administrative
+91252	Communication
+91252	Critical Thinking
+91300	Conceptual
+91300	Management
+91301	Analytical
+91301	Administrative
+91257	Interpersonal
+91257	Critical Thinking
+91261	Conceptual
+91292	Development
+91293	Evaluative
+91293	Communication
+91297	Evaluative
+91289	Development
+91289	Management
+91299	Communication
+91299	Development
+91290	Interpersonal
+91290	Management
+91291	Analytical
+91291	Administrative
+91294	Conceptual
+91294	Evaluative
+91296	Analytical
+91296	Communication
+91298	Evaluative
+91298	Development
+91185	Development
+91185	Management
+91188	Communication
+91188	Management
+91304	Evaluative
+91304	Communication
+91304	Administrative
+91179	Development
+91179	Critical Thinking
+91181	Development
+91181	Management
+91184	Analytical
+91184	Administrative
+91187	Conceptual
+91187	Administrative
+91190	Communication
+91190	Development
+91182	Interpersonal
+91182	Development
+91183	Evaluative
+91183	Development
+91189	Development
+91305	Conceptual
+91305	Administrative
+91197	Critical Thinking
+91200	Development
+91200	Administrative
+91206	Analytical
+91206	Evaluative
+91215	Interpersonal
+91215	Critical Thinking
+91203	Analytical
+91203	Critical Thinking
+91203	Management
+91208	Conceptual
+91211	Management
+91211	Critical Thinking
+91216	Management
+91212	Evaluative
+91212	Communication
+91212	Administrative
+91213	Analytical
+91213	Communication
+91210	Interpersonal
+91210	Communication
+91210	Development
+91214	Analytical
+91214	Conceptual
+91229	Interpersonal
+91229	Communication
+91231	Management
+91232	Conceptual
+91232	Management
+91236	Interpersonal
+91236	Communication
+91233	Analytical
+91233	Critical Thinking
+91239	Analytical
+91239	Critical Thinking
+91240	Conceptual
+91241	Development
+91241	Management
+91219	Evaluative
+91219	Communication
+91219	Administrative
+91238	Interpersonal
+91238	Communication
+91234	Analytical
+91234	Conceptual
+91237	Conceptual
+91237	Development
+91347	Management
+91347	Administrative
+91353	Development
+91353	Administrative
+91354	Evaluative
+91354	Communication
+91354	Administrative
+91357	Evaluative
+91357	Administrative
+91322	Conceptual
+91322	Management
+91325	Evaluative
+91325	Administrative
+91356	Analytical
+91356	Administrative
+90744	Critical Thinking
+90750	Conceptual
+90750	Critical Thinking
+90755	Evaluative
+90755	Management
+90761	Analytical
+90761	Interpersonal
+91374	Development
+91380	Interpersonal
+91380	Development
+91375	Critical Thinking
+91375	Administrative
+91382	Evaluative
+91382	Development
+91334	Analytical
+91334	Evaluative
+91384	Development
+91384	Critical Thinking
+91376	Interpersonal
+91376	Development
+91381	Evaluative
+90738	Development
+90738	Critical Thinking
+90724	Communication
+90724	Administrative
+91377	Communication
+91377	Management
+91385	Interpersonal
+91385	Management
+90748	Administrative
+90751	Analytical
+90751	Evaluative
+91331	Conceptual
+91331	Interpersonal
+91378	Evaluative
+91378	Communication
+91378	Administrative
+91383	Interpersonal
+91383	Critical Thinking
+90722	Management
+90722	Critical Thinking
+91320	Analytical
+91320	Critical Thinking
+91320	Management
+91333	Conceptual
+91333	Evaluative
+91323	Evaluative
+91323	Critical Thinking
+91336	Communication
+91336	Development
+91337	Administrative
+91338	Evaluative
+91338	Communication
+91350	Interpersonal
+91350	Communication
+91350	Development
+91352	Conceptual
+91352	Evaluative
+91361	Analytical
+91361	Interpersonal
+91367	Analytical
+91367	Management
+91368	Interpersonal
+91368	Communication
+91370	Communication
+91370	Administrative
+91371	Evaluative
+91371	Interpersonal
+91388	Management
+91388	Administrative
+91394	Development
+91395	Analytical
+91395	Interpersonal
+91324	Interpersonal
+91324	Communication
+91390	Interpersonal
+91390	Communication
+91390	Development
+91326	Evaluative
+91326	Development
+91335	Evaluative
+91335	Interpersonal
+91387	Analytical
+91387	Critical Thinking
+91387	Management
+91392	Analytical
+91392	Management
+90747	Interpersonal
+90747	Development
+90764	Communication
+90764	Management
+91372	Interpersonal
+91372	Administrative
+91389	Analytical
+91389	Communication
+91393	Analytical
+91518	Analytical
+91518	Management
+91519	Evaluative
+91519	Communication
+91523	Conceptual
+91523	Critical Thinking
+91524	Communication
+91524	Critical Thinking
+91943	Analytical
+91943	Critical Thinking
+91943	Management
+91944	Administrative
+91525	Development
+91538	Conceptual
+91538	Development
+91812	Interpersonal
+91812	Administrative
+91825	Interpersonal
+91825	Communication
+91825	Development
+91539	Conceptual
+91539	Management
+91813	Analytical
+91813	Critical Thinking
+91813	Management
+91826	Evaluative
+91826	Management
+91864	Conceptual
+91864	Evaluative
+91866	Communication
+91866	Administrative
+91549	Analytical
+91549	Communication
+91550	Critical Thinking
+91550	Administrative
+91551	Interpersonal
+91551	Management
+91553	Interpersonal
+91554	Administrative
+91555	Development
+91555	Administrative
+91637	Evaluative
+91637	Management
+91639	Evaluative
+91639	Management
+92091	Development
+92091	Critical Thinking
+92094	Conceptual
+92094	Interpersonal
+91636	Development
+91636	Critical Thinking
+91638	Analytical
+91638	Critical Thinking
+91640	Management
+91640	Administrative
+91655	Conceptual
+91655	Communication
+91687	Analytical
+91687	Development
+91652	Development
+91652	Administrative
+91654	Analytical
+91654	Development
+91656	Evaluative
+91656	Management
+91688	Analytical
+91688	Development
+91692	Management
+91695	Conceptual
+91802	Analytical
+91802	Critical Thinking
+91808	Interpersonal
+91808	Communication
+91808	Development
+91719	Communication
+91719	Management
+91803	Analytical
+91803	Development
+91809	Management
+91809	Critical Thinking
+91912	Evaluative
+91912	Management
+91914	Development
+91914	Management
+91906	Analytical
+91911	Management
+91911	Critical Thinking
+91913	Interpersonal
+91913	Administrative
+91915	Analytical
+91915	Critical Thinking
+91915	Management
+91980	Conceptual
+91980	Communication
+91984	Interpersonal
+91957	Critical Thinking
+91957	Administrative
+91963	Management
+91963	Administrative
+91981	Conceptual
+91981	Communication
+91985	Communication
+91985	Management
+92033	Communication
+92033	Critical Thinking
+92015	Analytical
+92015	Critical Thinking
+92015	Management
+92020	Management
+92020	Critical Thinking
+92020	Development
+92034	Analytical
+92034	Conceptual
+92034	Evaluative
+92068	Analytical
+92068	Critical Thinking
+92092	Management
+92095	Analytical
+92095	Interpersonal
+89541	Management
+89541	Critical Thinking
+90475	Evaluative
+90475	Critical Thinking
+90589	Evaluative
+90589	Communication
+90589	Administrative
+90592	Analytical
+90592	Communication
+89544	Analytical
+89544	Development
+90590	Management
+90593	Management
+90601	Evaluative
+90601	Interpersonal
+89631	Management
+89649	Analytical
+89649	Conceptual
+89649	Evaluative
+89970	Analytical
+89970	Administrative
+90596	Interpersonal
+90602	Management
+90602	Critical Thinking
+89591	Interpersonal
+89591	Management
+89687	Conceptual
+89687	Interpersonal
+90502	Development
+90502	Management
+90533	Communication
+90533	Critical Thinking
+90564	Analytical
+90564	Conceptual
+90564	Evaluative
+90597	Communication
+90597	Administrative
+89555	Analytical
+89555	Development
+89562	Analytical
+89562	Communication
+89563	Interpersonal
+89563	Communication
+89563	Development
+90490	Evaluative
+90570	Evaluative
+90576	Interpersonal
+90576	Critical Thinking
+90600	Interpersonal
+90603	Conceptual
+90603	Management
+90609	Communication
+90615	Conceptual
+90615	Critical Thinking
+90480	Analytical
+90480	Critical Thinking
+90480	Management
+90489	Evaluative
+90558	Evaluative
+90558	Development
+90563	Conceptual
+90573	Conceptual
+90573	Interpersonal
+90611	Development
+90611	Critical Thinking
+89394	Conceptual
+89394	Development
+90606	Conceptual
+90612	Interpersonal
+90612	Development
+89688	Critical Thinking
+90580	Communication
+90580	Management
+90607	Conceptual
+90607	Administrative
+90613	Evaluative
+90613	Interpersonal
+89553	Conceptual
+89553	Development
+89557	Interpersonal
+89557	Communication
+90492	Evaluative
+90492	Development
+90574	Evaluative
+90574	Communication
+90574	Administrative
+90608	Conceptual
+90608	Interpersonal
+90614	Interpersonal
+90584	Analytical
+90584	Critical Thinking
+90584	Management
+90619	Evaluative
+89543	Management
+89543	Administrative
+90512	Interpersonal
+90512	Administrative
+90513	Administrative
+90583	Critical Thinking
+90583	Administrative
+90618	Evaluative
+90618	Development
+89850	Analytical
+89850	Administrative
+89415	Analytical
+89415	Administrative
+89848	Communication
+89848	Administrative
+89851	Administrative
+89431	Interpersonal
+89431	Critical Thinking
+89847	Evaluative
+89847	Interpersonal
+89852	Analytical
+89870	Critical Thinking
+89870	Administrative
+89413	Evaluative
+89413	Communication
+89849	Conceptual
+89849	Development
+89414	Communication
+89414	Administrative
+89854	Interpersonal
+89854	Communication
+89418	Analytical
+89418	Administrative
+89855	Development
+89855	Management
+89419	Evaluative
+89419	Communication
+89422	Interpersonal
+89422	Critical Thinking
+89430	Communication
+89430	Management
+89859	Analytical
+89859	Administrative
+89424	Evaluative
+89424	Interpersonal
+89861	Communication
+89861	Management
+89423	Conceptual
+89423	Development
+89860	Interpersonal
+89860	Critical Thinking
+89710	Evaluative
+89711	Interpersonal
+89711	Administrative
+89731	Analytical
+89731	Administrative
+90241	Evaluative
+90249	Conceptual
+90249	Interpersonal
+90259	Analytical
+90259	Development
+90263	Analytical
+90263	Critical Thinking
+90265	Conceptual
+90240	Conceptual
+90240	Development
+90247	Analytical
+90247	Interpersonal
+90258	Evaluative
+90258	Development
+90262	Analytical
+90262	Conceptual
+90262	Evaluative
+90266	Communication
+90266	Critical Thinking
+90242	Interpersonal
+90242	Development
+90250	Evaluative
+90250	Administrative
+90254	Communication
+90254	Management
+90260	Management
+90264	Communication
+90267	Management
+89760	Conceptual
+89760	Administrative
+90222	Analytical
+90222	Administrative
+90278	Administrative
+90281	Development
+90281	Administrative
+90227	Evaluative
+90227	Communication
+90227	Administrative
+90282	Analytical
+90282	Critical Thinking
+90282	Management
+90296	Management
+90296	Administrative
+90299	Analytical
+90299	Management
+89779	Conceptual
+89779	Development
+90223	Communication
+90279	Evaluative
+90279	Critical Thinking
+89794	Analytical
+89799	Interpersonal
+89807	Analytical
+89807	Management
+90283	Analytical
+90283	Communication
+90285	Communication
+90285	Development
+89793	Communication
+89793	Administrative
+89798	Management
+89798	Critical Thinking
+90159	Critical Thinking
+90159	Administrative
+90191	Communication
+90191	Management
+90289	Communication
+90289	Development
+90345	Evaluative
+90345	Management
+90292	Analytical
+90292	Critical Thinking
+90292	Management
+90290	Analytical
+90290	Critical Thinking
+90293	Conceptual
+90180	Communication
+90180	Management
+90321	Analytical
+90321	Conceptual
+90181	Conceptual
+90181	Communication
+90323	Management
+90156	Analytical
+90156	Management
+90177	Conceptual
+90177	Interpersonal
+90178	Evaluative
+90182	Analytical
+90182	Interpersonal
+90324	Analytical
+90324	Conceptual
+90324	Evaluative
+90253	Management
+90253	Critical Thinking
+90253	Development
+90325	Development
+90325	Critical Thinking
+89335	Evaluative
+89335	Interpersonal
+89345	Analytical
+89345	Evaluative
+89348	Development
+89348	Administrative
+89351	Management
+89351	Critical Thinking
+90158	Management
+90158	Administrative
+90162	Conceptual
+90162	Interpersonal
+90166	Analytical
+90166	Development
+90175	Interpersonal
+90175	Management
+90179	Management
+90179	Administrative
+90183	Analytical
+90183	Administrative
+90188	Evaluative
+90188	Administrative
+90322	Conceptual
+90326	Management
+90326	Critical Thinking
+90326	Development
+90330	Evaluative
+90341	Evaluative
+90341	Communication
+89328	Conceptual
+90164	Interpersonal
+90164	Administrative
+90185	Interpersonal
+90185	Administrative
+90328	Conceptual
+90328	Critical Thinking
+90335	Communication
+90344	Communication
+90344	Critical Thinking
+90332	Interpersonal
+90332	Development
+90342	Conceptual
+90342	Administrative
+90168	Management
+90168	Critical Thinking
+90170	Analytical
+90170	Conceptual
+90336	Interpersonal
+90336	Development
+90348	Interpersonal
+90348	Critical Thinking
+90169	Analytical
+90169	Evaluative
+90186	Analytical
+90186	Conceptual
+90329	Analytical
+90329	Interpersonal
+90337	Conceptual
+90337	Critical Thinking
+90334	Analytical
+90334	Critical Thinking
+90331	Evaluative
+90331	Communication
+90338	Communication
+90338	Development
+90333	Analytical
+90333	Critical Thinking
+90333	Management
+90339	Interpersonal
+90339	Administrative
+90173	Analytical
+90173	Critical Thinking
+90192	Evaluative
+90192	Critical Thinking
+90340	Analytical
+90340	Communication
+90346	Analytical
+90346	Conceptual
+90347	Conceptual
+90347	Management
+90350	Management
+91537	Management
+91537	Critical Thinking
+91537	Development
+91565	Analytical
+91565	Critical Thinking
+91570	Analytical
+91570	Communication
+91587	Management
+91602	Interpersonal
+91588	Evaluative
+91588	Development
+91590	Conceptual
+91590	Communication
+91603	Analytical
+91603	Conceptual
+91603	Evaluative
+91617	Evaluative
+91622	Communication
+91622	Administrative
+91618	Analytical
+91618	Evaluative
+91623	Conceptual
+91623	Communication
+91701	Development
+91701	Critical Thinking
+91664	Communication
+91664	Critical Thinking
+91700	Analytical
+91700	Evaluative
+91939	Communication
+91939	Management
+91665	Evaluative
+91665	Critical Thinking
+91684	Evaluative
+91684	Administrative
+91670	Development
+91670	Administrative
+91683	Evaluative
+91718	Evaluative
+91718	Communication
+91718	Administrative
+91720	Interpersonal
+91720	Administrative
+92071	Evaluative
+91725	Evaluative
+91731	Communication
+91731	Management
+91723	Conceptual
+91723	Evaluative
+91726	Conceptual
+91726	Development
+91733	Interpersonal
+91733	Administrative
+91721	Evaluative
+91721	Critical Thinking
+91789	Evaluative
+91789	Critical Thinking
+91805	Interpersonal
+91805	Development
+91722	Conceptual
+91722	Communication
+91748	Interpersonal
+91748	Communication
+91750	Critical Thinking
+91758	Management
+91758	Critical Thinking
+91758	Development
+91790	Conceptual
+91790	Communication
+91747	Management
+91747	Critical Thinking
+91749	Conceptual
+91749	Interpersonal
+91558	Interpersonal
+91558	Communication
+91751	Critical Thinking
+91751	Administrative
+91738	Development
+91738	Administrative
+91752	Evaluative
+91752	Communication
+91752	Administrative
+91753	Evaluative
+91753	Administrative
+91743	Communication
+91743	Development
+91754	Analytical
+91754	Interpersonal
+91904	Evaluative
+91904	Management
+91755	Analytical
+91755	Conceptual
+91755	Evaluative
+91757	Management
+91757	Administrative
+91759	Administrative
+91764	Conceptual
+91760	Evaluative
+91760	Critical Thinking
+91761	Conceptual
+91761	Communication
+91762	Interpersonal
+91762	Management
+91768	Development
+91768	Administrative
+91781	Analytical
+91781	Critical Thinking
+91807	Administrative
+91780	Communication
+91780	Critical Thinking
+91782	Conceptual
+91782	Administrative
+91783	Interpersonal
+91783	Development
+91784	Analytical
+91772	Conceptual
+91772	Interpersonal
+91786	Analytical
+91786	Critical Thinking
+91786	Management
+91778	Critical Thinking
+91785	Conceptual
+91785	Evaluative
+91827	Communication
+91827	Administrative
+91766	Development
+91766	Management
+91828	Evaluative
+91828	Communication
+91828	Administrative
+91831	Analytical
+91831	Interpersonal
+91829	Conceptual
+91829	Interpersonal
+91844	Development
+91846	Development
+91846	Management
+91845	Management
+91845	Critical Thinking
+91847	Management
+91847	Critical Thinking
+92047	Analytical
+92047	Conceptual
+91848	Analytical
+91848	Critical Thinking
+91837	Analytical
+91837	Evaluative
+91838	Analytical
+91838	Conceptual
+91838	Evaluative
+91849	Analytical
+91849	Critical Thinking
+91850	Evaluative
+91850	Administrative
+91840	Development
+91840	Management
+91841	Management
+91841	Critical Thinking
+91851	Conceptual
+91851	Interpersonal
+91863	Analytical
+91863	Conceptual
+91865	Analytical
+91865	Interpersonal
+91867	Analytical
+91867	Conceptual
+91868	Evaluative
+91868	Administrative
+91869	Development
+91869	Critical Thinking
+91885	Analytical
+91885	Critical Thinking
+91886	Interpersonal
+91905	Interpersonal
+91905	Development
+91910	Evaluative
+91910	Management
+91941	Critical Thinking
+91941	Administrative
+91977	Interpersonal
+91977	Administrative
+91979	Evaluative
+91979	Communication
+91779	Analytical
+91779	Evaluative
+91962	Analytical
+91976	Conceptual
+91976	Interpersonal
+92004	Conceptual
+92005	Administrative
+92014	Administrative
+92019	Management
+92031	Communication
+92031	Administrative
+92032	Administrative
+92046	Conceptual
+92046	Administrative
+92067	Conceptual
+92067	Management
+91669	Analytical
+91669	Conceptual
+92088	Analytical
+92073	Conceptual
+92073	Evaluative
+92081	Evaluative
+92081	Interpersonal
+92087	Interpersonal
+92087	Critical Thinking
+92089	Analytical
+92089	Communication
+91544	Conceptual
+91544	Administrative
+91564	Conceptual
+91573	Interpersonal
+91573	Communication
+91573	Development
+91589	Interpersonal
+91589	Management
+91575	Evaluative
+91575	Development
+91586	Communication
+91586	Critical Thinking
+91592	Analytical
+91592	Critical Thinking
+91580	Interpersonal
+91580	Communication
+91580	Development
+91594	Conceptual
+91594	Administrative
+91607	Development
+91607	Critical Thinking
+91608	Evaluative
+91613	Development
+91613	Administrative
+91625	Critical Thinking
+91625	Administrative
+91615	Interpersonal
+91615	Communication
+91615	Development
+91616	Interpersonal
+91616	Critical Thinking
+91620	Critical Thinking
+91620	Administrative
+91621	Analytical
+91621	Administrative
+91631	Conceptual
+91631	Interpersonal
+91635	Conceptual
+91635	Critical Thinking
+91634	Interpersonal
+91646	Analytical
+91646	Critical Thinking
+91649	Development
+91649	Critical Thinking
+91650	Conceptual
+91650	Interpersonal
+91662	Development
+91662	Management
+91659	Interpersonal
+91659	Communication
+91660	Analytical
+91660	Administrative
+91690	Evaluative
+91690	Management
+91663	Interpersonal
+91663	Critical Thinking
+91667	Management
+91667	Critical Thinking
+91667	Development
+91686	Evaluative
+91686	Critical Thinking
+91953	Development
+91953	Administrative
+91674	Evaluative
+91674	Communication
+91675	Analytical
+91675	Conceptual
+91675	Evaluative
+91676	Development
+91676	Critical Thinking
+91681	Interpersonal
+91681	Critical Thinking
+91682	Evaluative
+91682	Interpersonal
+91874	Evaluative
+91874	Interpersonal
+91875	Analytical
+91875	Critical Thinking
+91875	Management
+91890	Interpersonal
+91890	Communication
+91890	Development
+91892	Evaluative
+91892	Critical Thinking
+91878	Management
+91896	Communication
+91897	Critical Thinking
+91897	Administrative
+91978	Management
+91899	Management
+91900	Development
+91902	Conceptual
+91902	Development
+91724	Analytical
+91724	Development
+91727	Analytical
+91727	Critical Thinking
+91727	Management
+91729	Interpersonal
+91729	Communication
+91929	Evaluative
+91929	Management
+91930	Interpersonal
+91930	Communication
+91930	Development
+91928	Evaluative
+91935	Conceptual
+91935	Administrative
+91937	Management
+91938	Analytical
+91938	Critical Thinking
+91653	Communication
+91653	Critical Thinking
+91691	Evaluative
+91691	Management
+91961	Development
+91961	Critical Thinking
+91965	Interpersonal
+91965	Communication
+91703	Interpersonal
+91703	Critical Thinking
+91950	Evaluative
+91950	Interpersonal
+91951	Critical Thinking
+91951	Administrative
+91956	Analytical
+91956	Conceptual
+91956	Evaluative
+91955	Analytical
+91955	Critical Thinking
+91955	Management
+91969	Management
+91969	Critical Thinking
+91971	Administrative
+91972	Communication
+91972	Development
+91983	Analytical
+91983	Evaluative
+91999	Evaluative
+91999	Development
+92000	Conceptual
+92000	Communication
+92003	Analytical
+92003	Conceptual
+92003	Evaluative
+92017	Analytical
+92017	Critical Thinking
+92018	Conceptual
+92018	Interpersonal
+92010	Communication
+92010	Development
+92012	Interpersonal
+92012	Communication
+92013	Analytical
+92013	Critical Thinking
+92024	Management
+92024	Critical Thinking
+92024	Development
+92025	Development
+92025	Management
+92029	Management
+92029	Critical Thinking
+92029	Development
+92030	Critical Thinking
+92038	Analytical
+92038	Evaluative
+92039	Communication
+92039	Critical Thinking
+92041	Evaluative
+92041	Critical Thinking
+92042	Evaluative
+92042	Management
+92044	Analytical
+92044	Administrative
+92045	Interpersonal
+92045	Communication
+92045	Development
+92050	Management
+92050	Critical Thinking
+92051	Analytical
+92051	Evaluative
+92053	Administrative
+92054	Development
+92054	Critical Thinking
+92056	Communication
+92056	Management
+92057	Development
+92057	Management
+92059	Conceptual
+92060	Conceptual
+92060	Evaluative
+92062	Evaluative
+92062	Administrative
+92063	Evaluative
+92063	Critical Thinking
+92065	Management
+92066	Critical Thinking
+92066	Administrative
+91873	Management
+91873	Critical Thinking
+91887	Interpersonal
+91887	Development
+92074	Management
+92075	Analytical
+92075	Communication
+92072	Analytical
+92078	Conceptual
+92078	Management
+92080	Conceptual
+92080	Critical Thinking
+92082	Management
+92082	Critical Thinking
+92082	Development
+92086	Interpersonal
+92086	Communication
+92086	Development
+92084	Evaluative
+92084	Management
+92085	Interpersonal
+92085	Administrative
+88810	Development
+88851	Interpersonal
+88851	Development
+88835	Interpersonal
+88835	Critical Thinking
+88852	Communication
+88852	Critical Thinking
+88832	Development
+88832	Administrative
+92345	Analytical
+92345	Interpersonal
+93233	Analytical
+93233	Conceptual
+93233	Evaluative
+89523	Conceptual
+89523	Critical Thinking
+89920	Interpersonal
+89920	Management
+89922	Management
+89922	Critical Thinking
+89922	Development
+89945	Analytical
+89945	Interpersonal
+89928	Analytical
+89928	Critical Thinking
+89928	Management
+89946	Evaluative
+89946	Critical Thinking
+90970	Critical Thinking
+90970	Administrative
+90977	Analytical
+90977	Critical Thinking
+91355	Interpersonal
+90962	Critical Thinking
+90962	Administrative
+90972	Analytical
+90972	Conceptual
+90967	Management
+90967	Administrative
+90978	Critical Thinking
+90973	Interpersonal
+90973	Management
+90989	Evaluative
+90989	Critical Thinking
+91253	Management
+91258	Development
+91369	Interpersonal
+91369	Administrative
+91521	Analytical
+91521	Management
+91530	Communication
+91530	Critical Thinking
+91776	Evaluative
+91776	Critical Thinking
+91787	Analytical
+91787	Critical Thinking
+91791	Management
+91856	Analytical
+91856	Administrative
+91872	Analytical
+91872	Conceptual
+91872	Evaluative
+91861	Evaluative
+91861	Administrative
+91862	Conceptual
+91862	Communication
+91988	Interpersonal
+91988	Administrative
+91571	Interpersonal
+91571	Critical Thinking
+91583	Analytical
+91583	Conceptual
+91601	Evaluative
+91601	Development
+91626	Interpersonal
+91626	Management
+91694	Evaluative
+91694	Critical Thinking
+91877	Conceptual
+91877	Interpersonal
+91880	Interpersonal
+91880	Communication
+91881	Evaluative
+91881	Administrative
+91945	Analytical
+91945	Development
+91954	Interpersonal
+91968	Communication
+91968	Administrative
+91974	Interpersonal
+91974	Development
+91975	Critical Thinking
+91975	Administrative
+92121	Conceptual
+92121	Development
+92126	Conceptual
+92126	Administrative
+92182	Communication
+92182	Development
+89107	Communication
+89107	Administrative
+89109	Analytical
+89109	Management
+89053	Analytical
+89053	Development
+89065	Analytical
+89652	Development
+89652	Management
+89739	Conceptual
+89739	Administrative
+89753	Communication
+89753	Management
+92564	Evaluative
+93391	Evaluative
+93391	Critical Thinking
+92500	Management
+92500	Critical Thinking
+92503	Management
+92503	Critical Thinking
+92598	Interpersonal
+92598	Critical Thinking
+93414	Management
+93414	Administrative
+92595	Communication
+92595	Critical Thinking
+93420	Conceptual
+93420	Administrative
+92520	Analytical
+92520	Management
+93436	Analytical
+93436	Conceptual
+93436	Evaluative
+93447	Analytical
+93447	Evaluative
+93433	Analytical
+93433	Development
+89277	Analytical
+89277	Critical Thinking
+89277	Management
+89287	Analytical
+89287	Evaluative
+89306	Interpersonal
+89306	Management
+89308	Interpersonal
+89312	Conceptual
+89312	Development
+90368	Interpersonal
+90368	Administrative
+89466	Conceptual
+89466	Interpersonal
+90664	Analytical
+90664	Critical Thinking
+90667	Communication
+90667	Administrative
+90672	Evaluative
+90349	Administrative
+91534	Conceptual
+91534	Communication
+91582	Communication
+91582	Management
+91814	Development
+91817	Analytical
+91817	Conceptual
+91817	Evaluative
+91818	Development
+91818	Critical Thinking
+91830	Evaluative
+91830	Communication
+91858	Conceptual
+91858	Interpersonal
+91859	Evaluative
+91859	Critical Thinking
+91888	Evaluative
+91629	Conceptual
+91629	Critical Thinking
+91630	Management
+91746	Analytical
+91746	Critical Thinking
+91746	Management
+91959	Communication
+91959	Management
+91960	Development
+92163	Interpersonal
+92273	Interpersonal
+92273	Critical Thinking
+89138	Communication
+89142	Analytical
+89142	Critical Thinking
+89139	Interpersonal
+89139	Administrative
+89140	Analytical
+89140	Communication
+89141	Critical Thinking
+89693	Interpersonal
+89693	Administrative
+90127	Management
+92213	Critical Thinking
+92225	Communication
+92225	Development
+92234	Analytical
+92228	Conceptual
+92220	Interpersonal
+92220	Communication
+92220	Development
+92221	Analytical
+92221	Interpersonal
+92214	Conceptual
+92214	Critical Thinking
+92215	Management
+92217	Conceptual
+92217	Evaluative
+92236	Communication
+92236	Management
+92230	Analytical
+92237	Analytical
+92237	Interpersonal
+92218	Conceptual
+92231	Critical Thinking
+92245	Critical Thinking
+92245	Administrative
+92251	Analytical
+92251	Critical Thinking
+92253	Conceptual
+92253	Communication
+92260	Conceptual
+92260	Interpersonal
+92264	Communication
+92264	Administrative
+92269	Evaluative
+92269	Management
+92248	Interpersonal
+92248	Management
+92254	Evaluative
+92254	Development
+92262	Analytical
+92262	Interpersonal
+92263	Interpersonal
+92263	Development
+92266	Analytical
+92266	Critical Thinking
+92266	Management
+93121	Management
+93121	Administrative
+93155	Analytical
+93155	Critical Thinking
+93161	Development
+93200	Management
+92268	Analytical
+92268	Critical Thinking
+92268	Management
+92271	Interpersonal
+92271	Critical Thinking
+92259	Interpersonal
+92265	Analytical
+92265	Evaluative
+92673	Conceptual
+92673	Interpersonal
+92674	Conceptual
+92674	Evaluative
+92676	Management
+92676	Critical Thinking
+92676	Development
+90828	Interpersonal
+90828	Critical Thinking
+90836	Management
+90842	Evaluative
+90842	Management
+92552	Development
+92552	Management
+92554	Communication
+93382	Conceptual
+91426	Evaluative
+91426	Interpersonal
+91431	Administrative
+91438	Interpersonal
+91438	Development
+91483	Analytical
+91483	Critical Thinking
+91483	Management
+90915	Evaluative
+90915	Communication
+90915	Administrative
+90916	Evaluative
+90916	Development
+90925	Communication
+90926	Interpersonal
+90926	Communication
+90926	Development
+89559	Conceptual
+89559	Critical Thinking
+90485	Analytical
+90485	Development
+90566	Management
+90566	Critical Thinking
+90566	Development
+90599	Analytical
+90599	Management
+91740	Evaluative
+91740	Critical Thinking
+91633	Evaluative
+91633	Critical Thinking
+89266	Management
+89266	Administrative
+88767	Interpersonal
+88767	Development
+88740	Development
+88746	Analytical
+88746	Management
+88768	Development
+88768	Critical Thinking
+88787	Communication
+88787	Administrative
+88806	Interpersonal
+88806	Development
+88790	Interpersonal
+88790	Administrative
+88804	Critical Thinking
+88804	Administrative
+88796	Analytical
+88796	Conceptual
+88796	Evaluative
+88805	Development
+88827	Analytical
+88827	Conceptual
+88959	Conceptual
+88959	Administrative
+89756	Analytical
+89756	Conceptual
+89756	Evaluative
+89575	Communication
+89575	Administrative
+89581	Conceptual
+89581	Development
+89582	Evaluative
+89582	Development
+90092	Analytical
+90092	Critical Thinking
+90092	Management
+89428	Communication
+89428	Management
+89866	Analytical
+89876	Evaluative
+90200	Conceptual
+90200	Critical Thinking
+90212	Analytical
+90212	Administrative
+90231	Conceptual
+90231	Evaluative
+90252	Interpersonal
+90252	Communication
+90308	Conceptual
+90308	Communication
+92293	Administrative
+92296	Evaluative
+92296	Management
+92300	Evaluative
+92300	Administrative
+92305	Analytical
+92305	Critical Thinking
+92229	Communication
+92229	Administrative
+92232	Interpersonal
+92232	Development
+92239	Evaluative
+92239	Critical Thinking
+92313	Conceptual
+92318	Conceptual
+92318	Communication
+92426	Interpersonal
+92426	Communication
+93362	Interpersonal
+93362	Communication
+93362	Development
+92551	Development
+92551	Administrative
+93381	Management
+93381	Critical Thinking
+89288	Management
+89289	Interpersonal
+89289	Communication
+90017	Interpersonal
+90017	Development
+89295	Evaluative
+89295	Interpersonal
+89300	Evaluative
+89300	Communication
+89300	Administrative
+89586	Interpersonal
+89586	Development
+89738	Conceptual
+89738	Interpersonal
+90481	Management
+90508	Development
+90508	Management
+90567	Communication
+90567	Management
+90582	Analytical
+90582	Conceptual
+89460	Interpersonal
+89460	Development
+90115	Analytical
+90391	Analytical
+90391	Conceptual
+90391	Evaluative
+89898	Analytical
+89898	Communication
+89506	Interpersonal
+89885	Communication
+90745	Management
+90733	Conceptual
+90733	Evaluative
+90776	Analytical
+90776	Development
+90777	Analytical
+90777	Development
+91348	Analytical
+91348	Conceptual
+91362	Interpersonal
+91362	Communication
+91362	Development
+91706	Evaluative
+91706	Administrative
+90246	Communication
+90246	Management
+90257	Analytical
+90257	Evaluative
+91645	Analytical
+91645	Critical Thinking
+91645	Management
+91651	Management
+91651	Critical Thinking
+91651	Development
+91711	Analytical
+91711	Administrative
+91712	Conceptual
+91712	Management
+92244	Development
+92244	Administrative
+92249	Management
+92249	Administrative
+92256	Analytical
+92256	Development
+92306	Analytical
+92306	Conceptual
+92306	Evaluative
+92567	Conceptual
+92567	Management
+91118	Evaluative
+91118	Interpersonal
+92115	Analytical
+92115	Administrative
+92118	Interpersonal
+92118	Communication
+92135	Analytical
+92135	Development
+92136	Conceptual
+92136	Administrative
+92131	Analytical
+92131	Evaluative
+92176	Evaluative
+92176	Communication
+92176	Administrative
+92125	Conceptual
+92125	Interpersonal
+92129	Development
+92129	Administrative
+92133	Evaluative
+92133	Communication
+92173	Development
+92173	Critical Thinking
+92161	Conceptual
+92161	Critical Thinking
+92288	Analytical
+92288	Management
+92297	Conceptual
+92297	Communication
+92255	Interpersonal
+92270	Evaluative
+92270	Communication
+92292	Analytical
+92292	Interpersonal
+92470	Communication
+93345	Administrative
+89297	Development
+89297	Administrative
+89457	Development
+89457	Administrative
+89483	Development
+89483	Administrative
+90117	Management
+90117	Critical Thinking
+90393	Evaluative
+90393	Communication
+89482	Evaluative
+90121	Analytical
+90121	Management
+90410	Interpersonal
+90410	Administrative
+89474	Analytical
+89474	Management
+90143	Conceptual
+90143	Development
+90402	Evaluative
+90402	Development
+91201	Communication
+91207	Conceptual
+91207	Administrative
+90482	Evaluative
+90482	Interpersonal
+91536	Critical Thinking
+91536	Administrative
+89136	Analytical
+89136	Development
+92276	Analytical
+92276	Management
+92281	Management
+92555	Evaluative
+92555	Management
+92499	Conceptual
+92499	Evaluative
+92506	Interpersonal
+92506	Administrative
+92597	Administrative
+93417	Analytical
+93417	Development
+90731	Administrative
+90762	Critical Thinking
+89343	Analytical
+89343	Conceptual
+89343	Evaluative
+90172	Interpersonal
+90172	Communication
+90172	Development
+90190	Conceptual
+90190	Evaluative
+88726	Conceptual
+88726	Development
+88727	Development
+88727	Management
+91400	Conceptual
+91400	Interpersonal
+88724	Interpersonal
+88724	Administrative
+89108	Development
+89108	Management
+89118	Critical Thinking
+89156	Evaluative
+89156	Interpersonal
+89043	Development
+89162	Development
+89162	Management
+89655	Interpersonal
+89655	Communication
+89349	Evaluative
+89349	Communication
+90202	Conceptual
+90202	Management
+90216	Analytical
+90216	Evaluative
+90306	Interpersonal
+90306	Communication
+89350	Evaluative
+89350	Administrative
+90201	Evaluative
+90201	Interpersonal
+90310	Evaluative
+90310	Administrative
+92224	Communication
+92224	Management
+92240	Conceptual
+92240	Management
+92389	Critical Thinking
+92389	Administrative
+92393	Conceptual
+92393	Evaluative
+93286	Interpersonal
+93286	Development
+92490	Evaluative
+92490	Communication
+93314	Interpersonal
+93314	Communication
+93314	Development
+93315	Management
+93315	Critical Thinking
+93315	Development
+90045	Evaluative
+90045	Development
+89530	Management
+89530	Critical Thinking
+89530	Development
+89918	Analytical
+89918	Conceptual
+89918	Evaluative
+89927	Critical Thinking
+90243	Analytical
+90243	Communication
+90245	Interpersonal
+90245	Management
+90248	Interpersonal
+90248	Management
+90261	Evaluative
+90261	Communication
+90268	Analytical
+90268	Critical Thinking
+90268	Management
+91611	Evaluative
+91611	Communication
+91612	Analytical
+91612	Communication
+91648	Communication
+91648	Critical Thinking
+91678	Analytical
+91678	Management
+91679	Communication
+91680	Evaluative
+91680	Critical Thinking
+92156	Analytical
+92156	Evaluative
+92157	Interpersonal
+92157	Communication
+89730	Analytical
+89730	Development
+89469	Analytical
+89469	Administrative
+90375	Analytical
+90375	Critical Thinking
+90375	Management
+91204	Evaluative
+91209	Management
+91209	Administrative
+91707	Interpersonal
+92151	Conceptual
+92151	Communication
+92299	Management
+92442	Evaluative
+92442	Communication
+92661	Conceptual
+92661	Interpersonal
+92705	Management
+92705	Critical Thinking
+92705	Development
+89310	Analytical
+89310	Development
+89314	Development
+90044	Communication
+90044	Development
+92679	Interpersonal
+92679	Communication
+92679	Development
+89197	Communication
+89197	Management
+89233	Evaluative
+89233	Management
+92289	Management
+92289	Critical Thinking
+92289	Development
+92672	Management
+92672	Critical Thinking
+92677	Interpersonal
+92677	Communication
+89443	Interpersonal
+89443	Critical Thinking
+89445	Management
+89445	Critical Thinking
+90359	Communication
+90373	Analytical
+90373	Critical Thinking
+90373	Management
+88975	Evaluative
+88975	Management
+88988	Evaluative
+88988	Interpersonal
+92216	Evaluative
+92216	Communication
+92599	Conceptual
+92599	Management
+89366	Management
+89366	Critical Thinking
+89366	Development
+91485	Analytical
+91485	Conceptual
+91408	Management
+91408	Administrative
+91416	Communication
+91462	Evaluative
+91462	Administrative
+91470	Analytical
+91470	Critical Thinking
+91470	Management
+91507	Interpersonal
+91507	Communication
+91507	Development
+89231	Development
+89232	Interpersonal
+89232	Development
+89198	Analytical
+89198	Critical Thinking
+89238	Analytical
+89238	Management
+92435	Conceptual
+92435	Evaluative
+92438	Analytical
+92438	Communication
+93332	Interpersonal
+93332	Management
+93337	Management
+93337	Administrative
+90233	Evaluative
+90233	Interpersonal
+88863	Communication
+88863	Administrative
+89659	Critical Thinking
+89754	Conceptual
+89754	Development
+90078	Analytical
+90078	Conceptual
+90078	Evaluative
+90369	Evaluative
+90683	Interpersonal
+90683	Communication
+90683	Development
+90688	Communication
+90688	Critical Thinking
+90793	Management
+90793	Critical Thinking
+91445	Communication
+91445	Management
+90718	Management
+90718	Critical Thinking
+89355	Conceptual
+89355	Management
+89363	Conceptual
+89363	Interpersonal
+90886	Conceptual
+90886	Development
+90931	Development
+90931	Management
+89344	Analytical
+89344	Evaluative
+90174	Communication
+90174	Management
+90193	Conceptual
+90193	Communication
+92351	Analytical
+92351	Evaluative
+92353	Management
+92353	Administrative
+93259	Evaluative
+93259	Interpersonal
+89868	Administrative
+89877	Evaluative
+89877	Management
+92290	Interpersonal
+92290	Management
+92294	Management
+92294	Administrative
+92235	Analytical
+92235	Administrative
+92238	Development
+92238	Administrative
+92274	Evaluative
+92274	Development
+92301	Evaluative
+92301	Development
+92304	Communication
+92443	Interpersonal
+92443	Development
+92678	Communication
+92678	Critical Thinking
+92680	Interpersonal
+93201	Analytical
+93201	Critical Thinking
+91413	Evaluative
+91413	Interpersonal
+89339	Development
+90071	Management
+89570	Evaluative
+89570	Communication
+89570	Administrative
+89589	Interpersonal
+89589	Management
+90497	Analytical
+90497	Communication
+90510	Analytical
+90510	Evaluative
+90526	Evaluative
+90585	Analytical
+90585	Administrative
+91218	Analytical
+91218	Conceptual
+91244	Critical Thinking
+91244	Administrative
+91311	Analytical
+91311	Administrative
+91441	Management
+91441	Critical Thinking
+91441	Development
+91446	Analytical
+91446	Interpersonal
+91442	Development
+91442	Critical Thinking
+91447	Analytical
+91447	Development
+89336	Conceptual
+89336	Evaluative
+90165	Evaluative
+90165	Administrative
+90187	Interpersonal
+90187	Critical Thinking
+92721	Evaluative
+92721	Management
+92137	Interpersonal
+92138	Conceptual
+92138	Interpersonal
+92139	Evaluative
+92139	Interpersonal
+92140	Administrative
+88745	Evaluative
+88745	Administrative
+88871	Interpersonal
+88871	Critical Thinking
+88741	Analytical
+88741	Development
+88793	Analytical
+88793	Conceptual
+88793	Evaluative
+88792	Conceptual
+88792	Evaluative
+88754	Evaluative
+88754	Interpersonal
+88750	Analytical
+88750	Critical Thinking
+88750	Management
+88776	Analytical
+88776	Administrative
+88789	Critical Thinking
+88789	Administrative
+88788	Analytical
+88788	Development
+88812	Management
+88812	Administrative
+88819	Conceptual
+88820	Conceptual
+88820	Administrative
+88814	Interpersonal
+88814	Communication
+88821	Analytical
+88821	Conceptual
+88821	Evaluative
+88818	Communication
+88818	Administrative
+88825	Management
+88825	Critical Thinking
+88825	Development
+88837	Critical Thinking
+88828	Evaluative
+88828	Critical Thinking
+88831	Management
+88831	Critical Thinking
+92419	Development
+88948	Management
+88948	Critical Thinking
+88950	Communication
+88950	Development
+88956	Management
+88956	Critical Thinking
+88945	Evaluative
+88952	Conceptual
+88952	Communication
+88972	Conceptual
+88972	Development
+88974	Communication
+88974	Critical Thinking
+88980	Interpersonal
+88980	Administrative
+89032	Interpersonal
+89032	Management
+89035	Conceptual
+89035	Evaluative
+89038	Evaluative
+89071	Management
+89074	Conceptual
+89074	Administrative
+89079	Management
+89079	Critical Thinking
+89079	Development
+89081	Communication
+89083	Development
+89117	Evaluative
+89119	Conceptual
+89119	Development
+89075	Analytical
+89075	Development
+88993	Critical Thinking
+88994	Analytical
+88994	Critical Thinking
+89014	Analytical
+89014	Interpersonal
+89005	Conceptual
+89005	Evaluative
+89049	Development
+89056	Development
+89058	Development
+89058	Management
+89062	Conceptual
+89062	Evaluative
+89092	Communication
+89092	Critical Thinking
+89096	Evaluative
+89099	Interpersonal
+89101	Analytical
+89101	Communication
+89009	Analytical
+89009	Management
+89093	Conceptual
+89093	Critical Thinking
+89095	Conceptual
+89095	Development
+89100	Analytical
+89100	Management
+89087	Management
+89098	Communication
+89098	Development
+89208	Conceptual
+89208	Critical Thinking
+89237	Communication
+89237	Development
+92243	Analytical
+92243	Administrative
+92250	Conceptual
+92250	Interpersonal
+92222	Analytical
+92222	Critical Thinking
+91463	Evaluative
+91463	Administrative
+92488	Management
+92488	Critical Thinking
+92488	Development
+93310	Conceptual
+93310	Administrative
+92563	Analytical
+92563	Critical Thinking
+92563	Management
+93396	Conceptual
+93396	Evaluative
+92498	Critical Thinking
+92502	Analytical
+92502	Interpersonal
+92596	Management
+92596	Critical Thinking
+92596	Development
+93413	Interpersonal
+93413	Communication
+92529	Interpersonal
+92529	Administrative
+92711	Conceptual
+92711	Development
+93457	Communication
+93457	Management
+89334	Communication
+89334	Administrative
+89396	Conceptual
+89396	Communication
+89450	Critical Thinking
+89513	Conceptual
+89513	Interpersonal
+89893	Analytical
+89893	Conceptual
+89893	Evaluative
+89358	Conceptual
+89358	Communication
+89359	Development
+89359	Administrative
+89360	Interpersonal
+89360	Communication
+90903	Interpersonal
+91194	Evaluative
+91194	Administrative
+91195	Conceptual
+91195	Interpersonal
+91306	Communication
+91306	Management
+91366	Development
+91366	Administrative
+91424	Development
+91424	Administrative
+90160	Evaluative
+90160	Interpersonal
+90194	Evaluative
+90194	Critical Thinking
+90167	Conceptual
+90167	Communication
+90195	Interpersonal
+90195	Communication
+90195	Development
+91230	Conceptual
+91230	Evaluative
+91568	Analytical
+91568	Communication
+91569	Evaluative
+91569	Administrative
+91578	Conceptual
+91578	Critical Thinking
+91579	Conceptual
+91579	Evaluative
+89660	Evaluative
+89660	Critical Thinking
+89977	Interpersonal
+89977	Communication
+92335	Evaluative
+92335	Development
+92336	Interpersonal
+92336	Critical Thinking
+91934	Analytical
+91934	Communication
+92164	Evaluative
+92164	Administrative
+88711	Analytical
+89072	Critical Thinking
+92486	Evaluative
+92487	Interpersonal
+92487	Communication
+92487	Development
+93312	Critical Thinking
+89307	Evaluative
+89307	Interpersonal
+89309	Administrative
+89313	Analytical
+89313	Conceptual
+90043	Analytical
+90043	Conceptual
+89342	Analytical
+89342	Conceptual
+90068	Analytical
+90068	Conceptual
+90068	Evaluative
+89556	Interpersonal
+89556	Communication
+89769	Analytical
+89769	Critical Thinking
+89769	Management
+90491	Conceptual
+90491	Development
+90578	Management
+90578	Critical Thinking
+90578	Development
+92146	Communication
+92146	Critical Thinking
+92277	Interpersonal
+92277	Administrative
+92284	Interpersonal
+92284	Communication
+92284	Development
+92147	Conceptual
+92147	Communication
+92148	Development
+92275	Analytical
+92275	Critical Thinking
+92275	Management
+93164	Evaluative
+93164	Communication
+93164	Administrative
+92278	Management
+92283	Evaluative
+92283	Interpersonal
+92285	Analytical
+92285	Evaluative
+89809	Conceptual
+89809	Communication
+90901	Evaluative
+90901	Critical Thinking
+92522	Management
+92522	Critical Thinking
+92522	Development
+91815	Development
+91815	Management
+91820	Interpersonal
+91820	Critical Thinking
+91821	Communication
+91821	Administrative
+91883	Management
+91883	Administrative
+91884	Analytical
+91884	Interpersonal
+91932	Interpersonal
+91932	Communication
+91933	Communication
+91933	Critical Thinking
+89254	Conceptual
+89254	Critical Thinking
+89255	Analytical
+89255	Critical Thinking
+89661	Analytical
+89491	Analytical
+89491	Development
+89694	Interpersonal
+89694	Communication
+89694	Development
+89995	Conceptual
+89995	Evaluative
+90130	Communication
+90417	Analytical
+90417	Conceptual
+89454	Evaluative
+89454	Administrative
+89455	Evaluative
+89455	Communication
+89455	Administrative
+89492	Interpersonal
+89492	Communication
+89497	Analytical
+89497	Critical Thinking
+89497	Management
+89704	Conceptual
+89704	Development
+90103	Evaluative
+90103	Communication
+90103	Administrative
+90131	Management
+90384	Management
+90384	Critical Thinking
+89537	Communication
+89537	Management
+89593	Interpersonal
+89593	Management
+89689	Evaluative
+89689	Critical Thinking
+90505	Communication
+90505	Critical Thinking
+90537	Management
+90537	Critical Thinking
+90140	Interpersonal
+90140	Communication
+89472	Analytical
+90144	Conceptual
+90144	Interpersonal
+90403	Evaluative
+90403	Development
+90483	Conceptual
+90483	Interpersonal
+90568	Interpersonal
+90568	Critical Thinking
+92434	Analytical
+92434	Communication
+88967	Development
+88967	Administrative
+89080	Evaluative
+89080	Critical Thinking
+89082	Evaluative
+89082	Critical Thinking
+89084	Critical Thinking
+89642	Communication
+89642	Development
+89916	Interpersonal
+92395	Evaluative
+92395	Communication
+90963	Analytical
+90963	Conceptual
+92593	Communication
+92593	Management
+93165	Conceptual
+93165	Interpersonal
+93199	Development
+91823	Evaluative
+91823	Interpersonal
+91824	Communication
+88836	Analytical
+88836	Conceptual
+88836	Evaluative
+88946	Conceptual
+88946	Administrative
+89013	Development
+89833	Analytical
+89833	Administrative
+89535	Critical Thinking
+89369	Analytical
+89369	Administrative
+89376	Development
+89376	Critical Thinking
+90459	Analytical
+90459	Development
+90988	Analytical
+92407	Analytical
+92407	Administrative
+88916	Conceptual
+88916	Administrative
+89070	Conceptual
+89077	Conceptual
+89077	Critical Thinking
+89078	Conceptual
+89078	Communication
+89103	Analytical
+89103	Evaluative
+89110	Communication
+89110	Administrative
+89114	Interpersonal
+89114	Communication
+89114	Development
+89425	Evaluative
+89862	Communication
+92828	Conceptual
+92828	Development
+92892	Conceptual
+92892	Critical Thinking
+89795	Management
+89795	Critical Thinking
+89811	Communication
+89811	Management
+89819	Critical Thinking
+89819	Administrative
+89302	Conceptual
+89302	Evaluative
+90033	Analytical
+90033	Conceptual
+90033	Evaluative
+89453	Conceptual
+89453	Critical Thinking
+90099	Interpersonal
+90099	Communication
+90099	Development
+90380	Analytical
+90380	Development
+89473	Interpersonal
+89473	Communication
+90145	Conceptual
+90145	Management
+90404	Evaluative
+91223	Critical Thinking
+91223	Administrative
+91522	Analytical
+91522	Development
+91520	Development
+91520	Management
+91527	Management
+91528	Conceptual
+91528	Evaluative
+92654	Analytical
+92654	Management
+92542	Conceptual
+92542	Communication
+91644	Communication
+91736	Analytical
+91774	Analytical
+91774	Evaluative
+91793	Evaluative
+91793	Interpersonal
+91794	Evaluative
+91794	Communication
+91834	Evaluative
+91834	Interpersonal
+91835	Analytical
+91835	Evaluative
+91895	Communication
+92008	Conceptual
+92008	Evaluative
+92009	Conceptual
+92009	Evaluative
+92002	Evaluative
+92002	Communication
+92002	Administrative
+92023	Evaluative
+92023	Management
+91745	Analytical
+91745	Critical Thinking
+92028	Evaluative
+92028	Management
+92162	Evaluative
+92162	Interpersonal
+88915	Interpersonal
+88915	Development
+89510	Analytical
+89510	Conceptual
+88968	Conceptual
+88968	Administrative
+89956	Analytical
+89956	Communication
+89722	Development
+89722	Critical Thinking
+89957	Development
+89957	Critical Thinking
+89723	Management
+89723	Critical Thinking
+89723	Development
+89773	Evaluative
+89773	Communication
+92321	Communication
+92321	Management
+88912	Communication
+88752	Evaluative
+88752	Communication
+88752	Administrative
+89681	Interpersonal
+89681	Critical Thinking
+92404	Interpersonal
+92404	Administrative
+92613	Analytical
+92613	Evaluative
+92614	Communication
+92614	Development
+92616	Evaluative
+92616	Development
+92686	Analytical
+92686	Evaluative
+92652	Communication
+92652	Management
+92699	Interpersonal
+92699	Administrative
+92706	Analytical
+92706	Conceptual
+92706	Evaluative
+92709	Development
+92709	Management
+92710	Analytical
+92710	Management
+92462	Analytical
+92462	Evaluative
+92464	Analytical
+92464	Development
+91704	Communication
+91704	Administrative
+91705	Evaluative
+91705	Communication
+91709	Communication
+92079	Development
+92079	Critical Thinking
+89493	Communication
+89493	Development
+90244	Analytical
+90244	Conceptual
+89444	Analytical
+89444	Management
+90372	Interpersonal
+90372	Communication
+90372	Development
+89357	Development
+89357	Administrative
+89365	Analytical
+89365	Conceptual
+90443	Interpersonal
+90443	Management
+92223	Conceptual
+92223	Evaluative
+92226	Analytical
+92226	Interpersonal
+90829	Evaluative
+90829	Communication
+90829	Administrative
+91407	Critical Thinking
+92687	Conceptual
+92687	Critical Thinking
+91196	Conceptual
+91196	Evaluative
+91255	Evaluative
+91220	Evaluative
+91220	Administrative
+92145	Evaluative
+92145	Communication
+92127	Evaluative
+92127	Administrative
+88949	Critical Thinking
+89619	Critical Thinking
+90093	Administrative
+92730	Evaluative
+92730	Critical Thinking
+92731	Development
+92731	Administrative
+92763	Management
+92771	Analytical
+92771	Critical Thinking
+92973	Analytical
+92973	Management
+93010	Analytical
+92764	Interpersonal
+92764	Management
+92772	Analytical
+92732	Conceptual
+92732	Communication
+92735	Interpersonal
+92735	Administrative
+92776	Conceptual
+92917	Conceptual
+92917	Management
+92938	Conceptual
+92946	Development
+92946	Management
+93014	Interpersonal
+93014	Management
+93019	Management
+93019	Critical Thinking
+92733	Communication
+92733	Management
+92734	Management
+92734	Critical Thinking
+92734	Development
+92761	Evaluative
+92761	Management
+92931	Analytical
+92931	Development
+93011	Analytical
+93011	Critical Thinking
+92737	Conceptual
+92737	Development
+92738	Interpersonal
+92759	Interpersonal
+92759	Administrative
+92760	Evaluative
+92760	Development
+92739	Evaluative
+92739	Management
+92888	Evaluative
+92888	Interpersonal
+92901	Analytical
+92901	Critical Thinking
+92901	Management
+93013	Analytical
+93013	Development
+93018	Development
+92740	Analytical
+92740	Administrative
+92741	Analytical
+92774	Interpersonal
+92774	Management
+93023	Interpersonal
+93023	Critical Thinking
+93032	Analytical
+93032	Management
+92775	Development
+92775	Management
+92742	Interpersonal
+92742	Communication
+93044	Communication
+93044	Development
+93070	Communication
+93070	Development
+92743	Interpersonal
+92743	Communication
+92744	Conceptual
+92744	Critical Thinking
+92745	Analytical
+92745	Administrative
+93048	Interpersonal
+93048	Development
+93071	Management
+93071	Critical Thinking
+93071	Development
+92746	Conceptual
+92746	Administrative
+92747	Conceptual
+92747	Evaluative
+93057	Evaluative
+93072	Analytical
+93072	Administrative
+92748	Evaluative
+92748	Interpersonal
+92749	Analytical
+92749	Conceptual
+93067	Communication
+93074	Development
+93074	Management
+92750	Conceptual
+92750	Communication
+92751	Development
+92930	Conceptual
+92930	Development
+93012	Evaluative
+93012	Management
+93025	Administrative
+92752	Management
+92752	Critical Thinking
+92758	Analytical
+92758	Management
+92976	Evaluative
+93003	Communication
+93003	Development
+93015	Evaluative
+93015	Interpersonal
+92753	Critical Thinking
+93007	Evaluative
+93007	Communication
+92754	Interpersonal
+92754	Communication
+92754	Development
+92755	Communication
+92755	Development
+93742	Conceptual
+93742	Management
+92767	Conceptual
+92767	Management
+92769	Management
+92990	Analytical
+92990	Management
+93000	Interpersonal
+93000	Communication
+93000	Development
+93004	Interpersonal
+92768	Analytical
+92768	Administrative
+92770	Interpersonal
+92770	Communication
+92770	Development
+92756	Development
+92756	Management
+93073	Communication
+93073	Management
+92757	Analytical
+92757	Conceptual
+92773	Interpersonal
+92983	Evaluative
+92983	Management
+93020	Conceptual
+93020	Management
+93075	Conceptual
+93075	Management
+93083	Conceptual
+93083	Critical Thinking
+93085	Analytical
+93085	Critical Thinking
+93085	Management
+93076	Communication
+93087	Analytical
+93087	Conceptual
+93087	Evaluative
+93088	Conceptual
+92781	Administrative
+92817	Analytical
+92817	Critical Thinking
+92817	Management
+92820	Communication
+92820	Development
+92889	Development
+92889	Administrative
+92846	Conceptual
+92846	Communication
+92890	Evaluative
+92890	Development
+92809	Interpersonal
+92825	Interpersonal
+92825	Communication
+92825	Development
+92891	Analytical
+92891	Communication
+92867	Evaluative
+92867	Communication
+92867	Administrative
+92902	Analytical
+92902	Interpersonal
+92792	Analytical
+92792	Conceptual
+92792	Evaluative
+92893	Evaluative
+92893	Critical Thinking
+92840	Conceptual
+92840	Evaluative
+92894	Communication
+92894	Development
+92853	Communication
+92853	Administrative
+92895	Analytical
+92895	Conceptual
+92863	Critical Thinking
+92898	Communication
+92898	Management
+92903	Conceptual
+92903	Management
+92905	Management
+92905	Administrative
+92886	Evaluative
+92886	Communication
+92896	Interpersonal
+92896	Critical Thinking
+92897	Development
+92897	Critical Thinking
+92908	Interpersonal
+92918	Communication
+92918	Management
+92920	Interpersonal
+92920	Management
+92939	Management
+92939	Critical Thinking
+92939	Development
+92942	Conceptual
+92942	Administrative
+92926	Development
+92940	Interpersonal
+92940	Management
+92943	Critical Thinking
+92943	Administrative
+92919	Analytical
+92919	Evaluative
+92941	Critical Thinking
+92941	Administrative
+92944	Management
+92944	Critical Thinking
+92944	Development
+92921	Interpersonal
+92921	Critical Thinking
+92922	Evaluative
+92922	Critical Thinking
+92947	Management
+92977	Conceptual
+92977	Development
+93016	Critical Thinking
+93016	Administrative
+92965	Analytical
+92965	Evaluative
+92979	Interpersonal
+92979	Critical Thinking
+92958	Interpersonal
+92950	Analytical
+92953	Conceptual
+92959	Interpersonal
+92959	Development
+93746	Analytical
+93746	Conceptual
+92954	Interpersonal
+92954	Communication
+92961	Management
+92961	Critical Thinking
+92970	Communication
+92970	Critical Thinking
+92963	Analytical
+92963	Management
+92966	Interpersonal
+92966	Communication
+92980	Conceptual
+92969	Communication
+92969	Critical Thinking
+92955	Administrative
+92960	Development
+92960	Critical Thinking
+92971	Evaluative
+92948	Evaluative
+92948	Critical Thinking
+92962	Management
+92962	Administrative
+92956	Interpersonal
+92956	Communication
+92956	Development
+92949	Interpersonal
+92949	Communication
+92951	Conceptual
+92951	Communication
+92957	Administrative
+92964	Interpersonal
+92964	Management
+92967	Interpersonal
+92967	Administrative
+92981	Communication
+92981	Development
+92978	Conceptual
+92978	Interpersonal
+93002	Communication
+93002	Management
+93022	Conceptual
+93022	Administrative
+93741	Development
+93741	Critical Thinking
+93752	Development
+93752	Management
+93757	Analytical
+93757	Conceptual
+92974	Evaluative
+92974	Management
+92992	Interpersonal
+92992	Management
+93754	Analytical
+93754	Conceptual
+92988	Conceptual
+92988	Development
+93008	Analytical
+93008	Evaluative
+93033	Analytical
+93038	Evaluative
+93038	Development
+92994	Analytical
+92994	Management
+92996	Analytical
+92996	Communication
+92991	Analytical
+92991	Development
+93001	Conceptual
+93001	Management
+93005	Analytical
+93005	Conceptual
+92997	Evaluative
+92997	Interpersonal
+93006	Analytical
+93006	Conceptual
+93006	Evaluative
+93009	Interpersonal
+93009	Communication
+93009	Development
+92975	Analytical
+92975	Development
+93751	Evaluative
+93751	Interpersonal
+93026	Conceptual
+93026	Communication
+92933	Interpersonal
+92933	Communication
+93029	Development
+93027	Interpersonal
+93027	Communication
+93027	Development
+93030	Analytical
+93030	Interpersonal
+92935	Conceptual
+92935	Communication
+93036	Communication
+93036	Critical Thinking
+93039	Communication
+93039	Development
+93034	Evaluative
+93077	Analytical
+93077	Critical Thinking
+93077	Management
+93079	Interpersonal
+93079	Administrative
+92968	Evaluative
+92968	Interpersonal
+93035	Administrative
+93040	Communication
+93046	Conceptual
+93045	Interpersonal
+93049	Communication
+93049	Critical Thinking
+93050	Evaluative
+93050	Development
+93051	Interpersonal
+93051	Communication
+93051	Development
+93058	Development
+93059	Interpersonal
+93059	Development
+93060	Management
+93060	Administrative
+93758	Evaluative
+93758	Administrative
+93061	Communication
+93062	Management
+93062	Critical Thinking
+93759	Interpersonal
+93759	Critical Thinking
+93068	Conceptual
+93068	Communication
+93069	Conceptual
+92782	Analytical
+92782	Development
+92783	Interpersonal
+92784	Analytical
+92784	Critical Thinking
+92784	Management
+92789	Management
+92789	Administrative
+92821	Communication
+92821	Administrative
+92790	Evaluative
+92790	Critical Thinking
+92802	Conceptual
+92802	Development
+92805	Evaluative
+92805	Interpersonal
+92793	Interpersonal
+92793	Development
+92806	Development
+92806	Administrative
+92794	Development
+92795	Administrative
+92803	Analytical
+92803	Communication
+92804	Development
+92804	Critical Thinking
+92807	Conceptual
+92807	Development
+92796	Interpersonal
+92796	Administrative
+92797	Evaluative
+92797	Development
+92798	Critical Thinking
+92799	Communication
+92799	Management
+92813	Conceptual
+92813	Administrative
+92815	Evaluative
+92815	Communication
+92824	Interpersonal
+92824	Administrative
+92826	Development
+92810	Development
+92810	Critical Thinking
+92909	Analytical
+92909	Conceptual
+92909	Evaluative
+92811	Evaluative
+92822	Evaluative
+92822	Development
+92829	Analytical
+92829	Evaluative
+92836	Development
+92844	Communication
+92844	Development
+92830	Analytical
+92830	Conceptual
+92832	Analytical
+92832	Administrative
+92841	Development
+92842	Interpersonal
+92842	Management
+92843	Interpersonal
+92847	Administrative
+92848	Conceptual
+92848	Administrative
+92849	Analytical
+92849	Critical Thinking
+92849	Management
+92913	Communication
+92913	Administrative
+92850	Evaluative
+92851	Evaluative
+92914	Conceptual
+92914	Interpersonal
+92854	Development
+92855	Analytical
+92855	Management
+92856	Conceptual
+92859	Critical Thinking
+92859	Administrative
+92857	Evaluative
+92857	Communication
+92860	Evaluative
+92860	Communication
+92864	Interpersonal
+92864	Critical Thinking
+92865	Analytical
+92875	Analytical
+92875	Communication
+92876	Interpersonal
+92876	Communication
+92868	Conceptual
+92868	Development
+92869	Interpersonal
+92869	Communication
+92869	Development
+92870	Development
+92870	Administrative
+92871	Evaluative
+92871	Interpersonal
+92872	Analytical
+92872	Critical Thinking
+92877	Analytical
+92877	Critical Thinking
+92877	Management
+92878	Conceptual
+92878	Administrative
+92879	Critical Thinking
+92879	Administrative
+92873	Critical Thinking
+92873	Administrative
+92881	Communication
+92881	Administrative
+92882	Evaluative
+92882	Development
+92884	Analytical
+92884	Critical Thinking
+92884	Management
+91714	Analytical
+91714	Critical Thinking
+92169	Conceptual
+91151	Management
+91151	Critical Thinking
+91180	Management
+91180	Critical Thinking
+89782	Evaluative
+89782	Administrative
+89816	Analytical
+89816	Conceptual
+89816	Evaluative
+89042	Communication
+89042	Development
+89045	Evaluative
+89045	Communication
+89045	Administrative
+89046	Communication
+89044	Management
+89006	Interpersonal
+89006	Management
+89089	Evaluative
+89089	Communication
+89089	Administrative
+89094	Interpersonal
+89094	Management
+89097	Analytical
+89097	Evaluative
+89086	Conceptual
+89086	Management
+89111	Interpersonal
+89111	Management
+92671	Management
+92671	Critical Thinking
+92635	Management
+92644	Critical Thinking
+92644	Administrative
+92691	Conceptual
+92691	Management
+92723	Interpersonal
+92723	Communication
+92723	Development
+92725	Interpersonal
+92725	Communication
+89724	Administrative
+92406	Analytical
+92406	Critical Thinking
+92406	Management
+92409	Evaluative
+92410	Development
+92410	Critical Thinking
+92413	Evaluative
+92413	Development
+92414	Analytical
+92414	Communication
+92412	Interpersonal
+92412	Communication
+92415	Evaluative
+92415	Communication
+92415	Administrative
+92280	Analytical
+92280	Critical Thinking
+92280	Management
+92628	Evaluative
+92628	Management
+92631	Communication
+92631	Critical Thinking
+92640	Analytical
+92640	Conceptual
+92640	Evaluative
+92632	Analytical
+92632	Communication
+92641	Interpersonal
+92641	Administrative
+92633	Critical Thinking
+92633	Administrative
+92642	Communication
+92695	Development
+92695	Management
+92634	Development
+92634	Management
+92643	Analytical
+92643	Development
+92645	Analytical
+92636	Evaluative
+92646	Analytical
+92646	Conceptual
+92646	Evaluative
+92696	Communication
+92696	Development
+92623	Conceptual
+92623	Interpersonal
+92719	Communication
+92719	Management
+92637	Interpersonal
+92637	Communication
+92637	Development
+92648	Management
+92648	Critical Thinking
+92648	Development
+92638	Evaluative
+92638	Interpersonal
+92649	Management
+92649	Administrative
+92651	Conceptual
+92651	Communication
+92833	Conceptual
+92653	Analytical
+92653	Critical Thinking
+92653	Management
+92655	Interpersonal
+92655	Communication
+92655	Development
+92656	Analytical
+92656	Conceptual
+92657	Communication
+92662	Analytical
+92662	Management
+92621	Conceptual
+92629	Conceptual
+92629	Development
+92664	Analytical
+92664	Management
+92666	Critical Thinking
+92624	Conceptual
+92720	Conceptual
+92720	Management
+92625	Evaluative
+92625	Communication
+92625	Administrative
+90874	Analytical
+90874	Conceptual
+90885	Communication
+90885	Management
+91270	Interpersonal
+91270	Administrative
+91282	Communication
+91282	Management
+91307	Evaluative
+91307	Interpersonal
+89516	Interpersonal
+89516	Communication
+89516	Development
+89515	Analytical
+89515	Critical Thinking
+89519	Evaluative
+89519	Communication
+89519	Administrative
+89774	Management
+89774	Administrative
+92380	Analytical
+92380	Critical Thinking
+92380	Management
+92411	Communication
+92667	Communication
+92667	Development
+92478	Conceptual
+92478	Communication
+92479	Critical Thinking
+92480	Development
+92480	Management
+92481	Administrative
+92445	Conceptual
+92445	Development
+92446	Conceptual
+92446	Interpersonal
+92452	Communication
+92452	Critical Thinking
+92448	Analytical
+92448	Communication
+92453	Conceptual
+92453	Critical Thinking
+92449	Evaluative
+92449	Interpersonal
+92457	Analytical
+92457	Administrative
+92471	Critical Thinking
+92451	Conceptual
+92451	Critical Thinking
+92456	Interpersonal
+92456	Critical Thinking
+92447	Interpersonal
+92447	Development
+92420	Development
+92422	Development
+92422	Management
+92423	Critical Thinking
+92421	Evaluative
+92421	Interpersonal
+92591	Development
+92591	Management
+92576	Development
+92576	Management
+92577	Development
+92577	Management
+92578	Conceptual
+92578	Critical Thinking
+92508	Evaluative
+92508	Development
+92509	Analytical
+92509	Development
+92587	Communication
+92587	Development
+92510	Conceptual
+92580	Evaluative
+92580	Critical Thinking
+92589	Communication
+92589	Administrative
+91843	Conceptual
+91843	Communication
+91924	Development
+91924	Management
+91949	Conceptual
+91949	Evaluative
+93162	Interpersonal
+93162	Administrative
+93163	Interpersonal
+93163	Critical Thinking
+93091	Conceptual
+93091	Interpersonal
+93092	Evaluative
+93092	Communication
+93154	Interpersonal
+93154	Communication
+93154	Development
+93159	Development
+93093	Evaluative
+93093	Administrative
+93097	Administrative
+93095	Critical Thinking
+93096	Communication
+93096	Management
+93101	Analytical
+93101	Critical Thinking
+93101	Management
+93105	Analytical
+93105	Critical Thinking
+93105	Management
+93119	Conceptual
+93094	Development
+93094	Management
+93098	Management
+93099	Critical Thinking
+93100	Evaluative
+93100	Communication
+93100	Administrative
+93115	Analytical
+93115	Development
+93104	Communication
+93113	Conceptual
+93113	Communication
+93136	Analytical
+93136	Development
+93138	Conceptual
+93138	Management
+93106	Communication
+93106	Administrative
+93107	Analytical
+93107	Critical Thinking
+93107	Management
+93108	Development
+93108	Critical Thinking
+93170	Conceptual
+93170	Evaluative
+93109	Conceptual
+93109	Critical Thinking
+93110	Evaluative
+93110	Development
+93116	Development
+93116	Administrative
+93122	Interpersonal
+93133	Evaluative
+93133	Administrative
+93139	Communication
+93139	Management
+93135	Evaluative
+93135	Development
+93140	Administrative
+93157	Analytical
+93148	Management
+93148	Critical Thinking
+93152	Conceptual
+93153	Interpersonal
+93153	Development
+93158	Analytical
+93158	Interpersonal
+93151	Critical Thinking
+93151	Administrative
+93160	Analytical
+93160	Administrative
+91460	Development
+91460	Critical Thinking
+89726	Management
+89726	Critical Thinking
+91254	Analytical
+91254	Interpersonal
+91295	Management
+91295	Critical Thinking
+91295	Development
+89402	Administrative
+89370	Conceptual
+89370	Communication
+89377	Communication
+89377	Development
+89742	Analytical
+89742	Development
+88729	Analytical
+88729	Conceptual
+89054	Conceptual
+89054	Management
+89061	Analytical
+89061	Communication
+89031	Management
+92579	Development
+92590	Interpersonal
+92590	Administrative
+92582	Analytical
+92582	Administrative
+92583	Critical Thinking
+91411	Development
+91411	Administrative
+92736	Management
+92762	Interpersonal
+92777	Development
+92777	Administrative
+89744	Interpersonal
+89744	Development
+89812	Evaluative
+89812	Development
+89818	Analytical
+89818	Development
+91329	Interpersonal
+91329	Communication
+91329	Development
+91425	Evaluative
+91425	Communication
+92315	Communication
+92315	Administrative
+92323	Management
+92323	Critical Thinking
+92323	Development
+92331	Communication
+92331	Management
+92333	Interpersonal
+92333	Development
+92341	Interpersonal
+92341	Administrative
+92344	Interpersonal
+92344	Administrative
+92906	Management
+92906	Critical Thinking
+92906	Development
+88903	Management
+88903	Critical Thinking
+88901	Critical Thinking
+89205	Analytical
+89205	Conceptual
+89205	Evaluative
+92242	Conceptual
+92242	Communication
+92252	Analytical
+92669	Communication
+92247	Evaluative
+92247	Interpersonal
+92670	Analytical
+92670	Management
+93117	Evaluative
+93117	Administrative
+93169	Analytical
+93169	Critical Thinking
+93169	Management
+91249	Communication
+89429	Conceptual
+89429	Administrative
+89616	Critical Thinking
+89607	Analytical
+89607	Management
+92494	Development
+92494	Critical Thinking
+91363	Evaluative
+91363	Administrative
+91364	Interpersonal
+91364	Development
+91457	Development
+91457	Management
+92982	Analytical
+92982	Evaluative
+93021	Conceptual
+93021	Evaluative
+93037	Communication
+93037	Critical Thinking
+89673	Evaluative
+89673	Critical Thinking
+89670	Communication
+89670	Management
+89677	Administrative
+92279	Administrative
+92291	Communication
+92291	Administrative
+92258	Interpersonal
+92258	Critical Thinking
+92267	Analytical
+92267	Critical Thinking
+92227	Communication
+92233	Development
+92233	Management
+92396	Communication
+91228	Conceptual
+92379	Analytical
+92379	Critical Thinking
+92800	Management
+92800	Administrative
+92814	Management
+92814	Administrative
+89420	Communication
+89420	Management
+93127	Evaluative
+93127	Development
+93132	Analytical
+93132	Management
+93134	Interpersonal
+93134	Administrative
+93142	Interpersonal
+93142	Communication
+89608	Analytical
+89608	Communication
+91330	Analytical
+91330	Evaluative
+89293	Evaluative
+89293	Communication
+91742	Analytical
+91742	Communication
+91399	Interpersonal
+91399	Communication
+91399	Development
+88718	Interpersonal
+88718	Administrative
+92575	Evaluative
+92575	Interpersonal
+92585	Analytical
+92585	Critical Thinking
+92585	Management
+92588	Interpersonal
+92588	Administrative
+93102	Management
+93102	Administrative
+93128	Administrative
+93131	Analytical
+93131	Management
+93147	Interpersonal
+93147	Communication
+93147	Development
+93146	Interpersonal
+93146	Communication
+89813	Management
+89813	Administrative
+90638	Conceptual
+90638	Development
+91104	Analytical
+91104	Development
+92899	Interpersonal
+92899	Development
+93028	Analytical
+93028	Critical Thinking
+93028	Management
+93055	Analytical
+93055	Management
+93080	Evaluative
+93080	Interpersonal
+93081	Analytical
+93081	Critical Thinking
+89808	Analytical
+89808	Administrative
+92314	Interpersonal
+92314	Development
+92339	Conceptual
+92339	Communication
+92381	Management
+92381	Administrative
+91673	Evaluative
+91673	Development
+91771	Communication
+91771	Critical Thinking
+92077	Interpersonal
+92077	Administrative
+93120	Conceptual
+93120	Development
+93143	Conceptual
+93143	Management
+93149	Evaluative
+93149	Communication
+93150	Evaluative
+93150	Critical Thinking
+89461	Development
+91610	Analytical
+91610	Critical Thinking
+92027	Development
+88719	Development
+89743	Management
+89121	Conceptual
+89121	Administrative
+89007	Analytical
+89122	Analytical
+89122	Critical Thinking
+89122	Management
+89123	Evaluative
+89123	Communication
+89123	Administrative
+89033	Evaluative
+89033	Communication
+89090	Development
+89090	Critical Thinking
+89112	Analytical
+89112	Administrative
+89116	Development
+89116	Administrative
+92581	Analytical
+92581	Critical Thinking
+92584	Analytical
+92584	Conceptual
+93126	Evaluative
+93126	Development
+93130	Analytical
+93130	Management
+93137	Conceptual
+93137	Interpersonal
+92347	Analytical
+92347	Critical Thinking
+92659	Analytical
+92659	Conceptual
+90742	Conceptual
+90742	Interpersonal
+91198	Conceptual
+91198	Development
+89286	Evaluative
+89286	Development
+89479	Management
+89479	Critical Thinking
+89479	Development
+93174	Analytical
+93174	Interpersonal
+93175	Development
+93175	Critical Thinking
+93176	Management
+93176	Critical Thinking
+93177	Evaluative
+93177	Interpersonal
+93178	Evaluative
+93178	Communication
+93178	Administrative
+93179	Development
+93179	Management
+93180	Analytical
+93180	Interpersonal
+93190	Communication
+93191	Critical Thinking
+93181	Evaluative
+93181	Communication
+93182	Interpersonal
+93182	Communication
+93183	Conceptual
+93183	Interpersonal
+93184	Interpersonal
+93184	Critical Thinking
+93185	Evaluative
+93185	Communication
+93186	Interpersonal
+93186	Administrative
+88899	Conceptual
+88899	Management
+88910	Communication
+88910	Management
+89128	Evaluative
+89128	Development
+92219	Analytical
+93125	Analytical
+93125	Development
+93129	Conceptual
+93129	Interpersonal
+89815	Evaluative
+89815	Interpersonal
+92647	Evaluative
+92647	Communication
+92647	Administrative
+89416	Evaluative
+89416	Communication
+91854	Analytical
+91854	Conceptual
+91854	Evaluative
+91855	Development
+93187	Analytical
+93187	Interpersonal
+89534	Interpersonal
+89534	Communication
+89716	Conceptual
+89716	Development
+89719	Analytical
+89719	Conceptual
+89714	Development
+89714	Critical Thinking
+89717	Interpersonal
+89717	Communication
+93188	Management
+93188	Critical Thinking
+93188	Development
+92246	Evaluative
+92246	Communication
+92246	Administrative
+89481	Conceptual
+89481	Communication
+91922	Evaluative
+91922	Communication
+91922	Administrative
+91923	Interpersonal
+91923	Management
+91247	Analytical
+91247	Conceptual
+91248	Conceptual
+91248	Interpersonal
+92622	Analytical
+92622	Development
+92717	Evaluative
+92717	Management
+91256	Interpersonal
+91202	Analytical
+91202	Conceptual
+91222	Analytical
+91222	Conceptual
+91222	Evaluative
+91235	Conceptual
+91235	Development
+91221	Evaluative
+91221	Management
+91274	Evaluative
+91274	Administrative
+91279	Analytical
+91279	Development
+91283	Analytical
+91283	Critical Thinking
+91283	Management
+91284	Communication
+91284	Development
+91265	Evaluative
+91267	Communication
+91267	Development
+91266	Analytical
+91266	Management
+91268	Analytical
+91268	Evaluative
+88897	Interpersonal
+88897	Management
+89010	Communication
+89010	Management
+89050	Analytical
+89050	Administrative
+89126	Development
+89126	Management
+91121	Conceptual
+91121	Communication
+91277	Conceptual
+91277	Administrative
+91281	Management
+91281	Administrative
+91286	Conceptual
+91286	Development
+89701	Interpersonal
+89701	Development
+89715	Evaluative
+89715	Critical Thinking
+89718	Critical Thinking
+89718	Administrative
+92450	Interpersonal
+92450	Administrative
+92455	Management
+92455	Critical Thinking
+91908	Communication
+91908	Development
+91909	Conceptual
+91909	Development
+88938	Conceptual
+88938	Evaluative
+88939	Evaluative
+88939	Administrative
+89029	Communication
+89029	Critical Thinking
+91224	Interpersonal
+91224	Communication
+91263	Analytical
+91349	Analytical
+91349	Critical Thinking
+91427	Management
+91427	Critical Thinking
+91427	Development
+91450	Evaluative
+91450	Communication
+91428	Conceptual
+91428	Development
+92923	Interpersonal
+92925	Analytical
+92925	Development
+92924	Development
+92927	Analytical
+92927	Critical Thinking
+92927	Management
+92928	Critical Thinking
+92928	Administrative
+92929	Communication
+92929	Administrative
+93052	Conceptual
+93052	Critical Thinking
+93053	Conceptual
+93053	Evaluative
+93054	Conceptual
+93054	Interpersonal
+89767	Development
+89770	Communication
+89770	Critical Thinking
+92785	Analytical
+92785	Conceptual
+92818	Management
+92818	Administrative
+92787	Evaluative
+92787	Administrative
+92788	Communication
+92788	Administrative
+92819	Conceptual
+92819	Critical Thinking
+88893	Analytical
+88893	Conceptual
+92900	Analytical
+92932	Conceptual
+92932	Administrative
+92934	Interpersonal
+92934	Communication
+92934	Development
+92936	Development
+92936	Administrative
+92937	Management
+92937	Critical Thinking
+92937	Development
+92952	Conceptual
+92952	Administrative
+92986	Communication
+92986	Administrative
+92987	Interpersonal
+92987	Communication
+92987	Development
+92984	Communication
+92998	Conceptual
+92998	Critical Thinking
+92989	Evaluative
+92989	Development
+92999	Conceptual
+92999	Communication
+93063	Evaluative
+93063	Communication
+93063	Administrative
+89531	Analytical
+89531	Evaluative
+89468	Communication
+89468	Administrative
+92786	Evaluative
+92786	Management
+92812	Interpersonal
+92812	Critical Thinking
+92874	Analytical
+92874	Development
+92887	Communication
+92887	Management
+92801	Conceptual
+92834	Analytical
+92835	Analytical
+92835	Administrative
+92911	Analytical
+92911	Communication
+92912	Conceptual
+92912	Critical Thinking
+92915	Communication
+93111	Evaluative
+93168	Analytical
+93168	Conceptual
+92765	Conceptual
+92765	Critical Thinking
+93017	Evaluative
+93017	Communication
+92766	Interpersonal
+92766	Management
+91259	Management
+91271	Communication
+91275	Development
+91275	Critical Thinking
+89299	Communication
+89299	Development
+89690	Evaluative
+89690	Critical Thinking
+92167	Evaluative
+92167	Administrative
+89612	Evaluative
+89612	Communication
+89612	Administrative
+91260	Conceptual
+91260	Interpersonal
+92332	Critical Thinking
+92454	Analytical
+92454	Communication
+91940	Communication
+91940	Management
+93189	Evaluative
+93189	Communication
+93189	Administrative
+89127	Conceptual
+89127	Communication
+89025	Management
+89025	Administrative
+89088	Analytical
+89088	Evaluative
+92302	Development
+92302	Administrative
+92261	Management
+89495	Evaluative
+89495	Communication
+89703	Analytical
+89703	Management
+91225	Interpersonal
+91225	Communication
+91225	Development
+91226	Conceptual
+93112	Interpersonal
+93171	Analytical
+93171	Evaluative
+93144	Analytical
+93144	Conceptual
+93144	Evaluative
+91273	Evaluative
+91273	Critical Thinking
+92340	Conceptual
+92340	Critical Thinking
+92168	Administrative
+92658	Conceptual
+93145	Conceptual
+93145	Administrative
+91412	Evaluative
+89613	Analytical
+89613	Development
+90888	Development
+90888	Critical Thinking
+91227	Interpersonal
+92985	Evaluative
+92985	Critical Thinking
+89545	Analytical
+89545	Critical Thinking
+92858	Development
+92858	Administrative
+93114	Communication
+93114	Critical Thinking
+93172	Interpersonal
+93172	Management
+89615	Analytical
+89615	Critical Thinking
+90705	Critical Thinking
+90705	Administrative
+90865	Evaluative
+90865	Communication
+90876	Analytical
+90876	Critical Thinking
+90876	Management
+91000	Analytical
+91000	Conceptual
+89554	Critical Thinking
+92295	Analytical
+92295	Development
+92303	Evaluative
+92303	Communication
+93167	Analytical
+93167	Evaluative
+93123	Evaluative
+93123	Communication
+93124	Interpersonal
+93124	Communication
+93124	Development
+89317	Critical Thinking
+89317	Administrative
+89333	Evaluative
+89333	Development
+88874	Management
+90701	Analytical
+90701	Management
+92993	Management
+92993	Critical Thinking
+92993	Development
+92995	Analytical
+93064	Analytical
+93064	Evaluative
+89529	Evaluative
+89529	Administrative
+89442	Critical Thinking
+89569	Conceptual
+89746	Critical Thinking
+93156	Analytical
+93156	Administrative
+90708	Interpersonal
+90708	Communication
+90958	Evaluative
+90958	Critical Thinking
+92861	Analytical
+92861	Communication
+91584	Evaluative
+93745	Evaluative
+93745	Administrative
+93747	Management
+93747	Critical Thinking
+93748	Interpersonal
+93748	Development
+93749	Management
+93749	Critical Thinking
+93750	Administrative
+93753	Communication
+93753	Development
+93755	Evaluative
+93755	Interpersonal
+93756	Conceptual
+93756	Development
+93760	Evaluative
+93738	Conceptual
+93738	Evaluative
+93743	Interpersonal
+93743	Administrative
+93744	Conceptual
+93744	Interpersonal

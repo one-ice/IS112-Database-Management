@@ -1,0 +1,803 @@
+DeptID	Name	URL	Address	StartDate	EndDate	ParentDept
+88703	PRIME MINISTER'S OFFICE	https://www.gov.sg/sgdi/ministries/pmo	Orchard Road
+ 
+ 
+ Istana
+ 
+ 
+ Singapore 238823	2015-03-20	2018-10-22	\N
+88704	COMMUNICATIONS GROUP	https://www.gov.sg/sgdi/ministries/pmo/departments/cg	140 Hill Street,
+ 
+ 
+ Old Hill Street Police Station,
+ 
+ 
+ Level 5,
+ 
+ 
+ Singapore 179369	2015-03-20	2018-10-22	88703
+88705	Liaison Unit	https://www.gov.sg/sgdi/ministries/pmo/departments/cg/departments/lu	140 Hill Street,
+ 
+ 
+ Old Hill Street Police Station,
+ 
+ 
+ Level 5,
+ 
+ 
+ Singapoe 179369	2015-03-20	2018-10-22	88704
+88713	Strategy Unit	https://www.gov.sg/sgdi/ministries/pmo/departments/cg/departments/su	140 Hill Street,
+ 
+ 
+ Old Hill Street Police Station,
+ 
+ 
+ Level 5,
+ 
+ 
+ Singapore 179369	2015-03-20	2018-10-22	88704
+88731	CORRUPT PRACTICES INVESTIGATION BUREAU	https://www.gov.sg/sgdi/ministries/pmo/departments/cpib	2 Lengkok Bahru
+ 
+ 
+ Singapore 159047	2015-03-20	2018-10-22	88703
+88732	Investigations Department	https://www.gov.sg/sgdi/ministries/pmo/departments/cpib/departments/inv-dept	\N	2015-03-20	2018-10-22	88731
+88777	Operations Department	https://www.gov.sg/sgdi/ministries/pmo/departments/cpib/departments/ops-dept	\N	2015-03-20	2018-10-22	88731
+88809	Corporate Affairs Department	https://www.gov.sg/sgdi/ministries/pmo/departments/cpib/departments/corp-aff-dept	\N	2015-03-20	2018-10-22	88731
+88876	ELECTIONS DEPARTMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/eld	11 Prinsep Link
+ 
+ 
+ Singapore 187949	2015-03-20	2018-10-22	88703
+88877	REGISTRY OF POLITICAL DONATIONS	https://www.gov.sg/sgdi/ministries/pmo/departments/eld/departments/rpd	\N	2015-03-20	2018-10-22	88876
+88917	HORTICULTURAL SECTION	https://www.gov.sg/sgdi/ministries/pmo/departments/hos	\N	2015-03-20	2018-10-22	88703
+88921	ISTANA MAINTENANCE UNIT	https://www.gov.sg/sgdi/ministries/pmo/departments/imu	\N	2015-03-20	2018-10-22	88703
+88924	ISTANA SECURITY UNIT	https://www.gov.sg/sgdi/ministries/pmo/departments/isu	\N	2015-03-20	2018-10-22	88703
+88928	JUSTICES OF THE PEACE, SINGAPORE	https://www.gov.sg/sgdi/ministries/pmo/departments/jp	\N	2015-03-20	2018-10-22	\N
+88934	NATIONAL RESEARCH FOUNDATION	https://www.gov.sg/sgdi/ministries/pmo/departments/nrf	1 Create Way
+ 
+ 
+ #12-02 Create Tower
+ 
+ 
+ Singapore 138602	2015-03-20	2018-10-22	88703
+88935	Corporate Communications	https://www.gov.sg/sgdi/ministries/pmo/departments/nrf/departments/corpcomms	\N	2015-03-20	2018-10-22	88934
+88942	Corporate Services	https://www.gov.sg/sgdi/ministries/pmo/departments/nrf/departments/corpsvcs	\N	2015-03-20	2018-10-22	88934
+88964	CREATE	https://www.gov.sg/sgdi/ministries/pmo/departments/nrf/departments/create	\N	2015-03-20	2018-10-22	88934
+88981	Grant Management	https://www.gov.sg/sgdi/ministries/pmo/departments/nrf/departments/grant-mgmt	\N	2015-03-20	2018-10-22	88934
+88992	Infrastructure & Facilities Management	https://www.gov.sg/sgdi/ministries/pmo/departments/nrf/departments/ifm	\N	2015-03-20	2018-10-22	88934
+89003	Innovation & Enterprise	https://www.gov.sg/sgdi/ministries/pmo/departments/nrf/departments/ie	\N	2015-03-20	2018-10-22	88934
+89022	Strategy	https://www.gov.sg/sgdi/ministries/pmo/departments/nrf/departments/strategy	\N	2015-03-20	2018-10-22	88934
+89039	Cybersecurity R&D	https://www.gov.sg/sgdi/ministries/pmo/departments/nrf/departments/unnamed-item	\N	2015-03-20	2018-10-22	88934
+89048	Programmes	https://www.gov.sg/sgdi/ministries/pmo/departments/nrf/departments/programmes	\N	2015-06-08	2018-10-22	88934
+89068	Central Innovation & Enterprise Office	https://www.gov.sg/sgdi/ministries/pmo/departments/nrf/departments/cieo	\N	2016-06-13	2018-10-22	88934
+89073	Health & BioMedical Sciences	https://www.gov.sg/sgdi/ministries/pmo/departments/nrf/departments/hbms	\N	2016-06-13	2018-10-22	88934
+89085	Services & Digital Economy	https://www.gov.sg/sgdi/ministries/pmo/departments/nrf/departments/sde	\N	2016-06-13	2018-10-22	88934
+89104	Urban Solutions & Sustainability	https://www.gov.sg/sgdi/ministries/pmo/departments/nrf/departments/uss	\N	2016-06-13	2018-10-22	88934
+89120	Research Grant Office	https://www.gov.sg/sgdi/ministries/pmo/departments/nrf/departments/rgo	\N	2017-12-07	2018-10-22	88934
+89124	Central Innovation Cluster	https://www.gov.sg/sgdi/ministries/pmo/departments/nrf/departments/cic-1	\N	2018-02-07	2018-10-22	\N
+89125	RIE Coordination Office	https://www.gov.sg/sgdi/ministries/pmo/departments/nrf/departments/rie-coordination-office	\N	2018-04-07	2018-10-22	88934
+89137	Interactive Digital Media Programme Office	https://www.gov.sg/sgdi/ministries/pmo/departments/nrf/departments/idmpo	\N	2015-07-22	2017-09-22	88934
+89143	Digital Economy Directorate	https://www.gov.sg0000024059	\N	2015-03-20	2016-04-07	88934
+89149	Energy & Environment Research Directorate	https://www.gov.sg0000024068	\N	2015-03-20	2016-04-07	88934
+89157	Bms Exco Planning & Coordination Office	https://www.gov.sg0000024971	\N	2015-03-20	2016-04-07	88934
+89170	Biological And Medical Sciences Directorate	https://www.gov.sg0000024058	\N	2015-03-20	2015-04-08	88934
+89174	Physical Sciences & Engineering Directorate	https://www.gov.sg0000024062	\N	2015-03-20	2015-04-08	88934
+89181	International Relations	https://www.gov.sg/sgdi/ministries/pmo/departments/nrf/departments/ir	\N	2018-10-07	2018-10-22	\N
+89182	NATIONAL SECURITY COORDINATION SECRETARIAT	https://www.gov.sg/sgdi/ministries/pmo/departments/nscs	55 Newton Road
+ 
+ 
+ #15-01
+ 
+ 
+ Revenue House 
+ 
+ 
+ Singapore 307987	2015-03-20	2018-10-22	88703
+89183	National Security Coordination Centre	https://www.gov.sg/sgdi/ministries/pmo/departments/nscs/departments/nscc	\N	2015-03-20	2018-10-22	89182
+89229	National Security Research Centre	https://www.gov.sg/sgdi/ministries/pmo/departments/nscs/departments/nsrc	\N	2015-03-20	2018-10-22	89182
+89240	Resilience Policy and Research Centre	https://www.gov.sg/sgdi/ministries/pmo/departments/nscs/departments/rprc	\N	2015-03-20	2018-10-22	89182
+89258	PUBLIC SERVICE DIVISION	https://www.gov.sg/sgdi/ministries/pmo/departments/psd	100 High Street,
+ 
+ 
+ #02-03, #03-01, #07-01
+ 
+ 
+ The Treasury
+ 
+ 
+ Singapore 179434	2015-03-20	2018-10-22	88703
+89274	CORPORATE GROUP	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/cg	\N	2017-05-22	2018-10-22	\N
+89275	CORPORATE SERVICES	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/cg/departments/cs	\N	2017-05-22	2018-10-22	89274
+89276	ADMINISTRATION	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/cg/departments/cs/departments/admin	\N	2017-05-22	2018-10-22	89275
+89294	FINANCE	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/cg/departments/cs/departments/fin	\N	2017-05-22	2018-10-22	89275
+89304	RESORTS	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/cg/departments/cs/departments/rts	\N	2017-05-22	2018-10-22	89275
+89315	PROCUREMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/cg/departments/cs/departments/proc	\N	2017-05-22	2018-10-22	89275
+89326	COMMUNICATIONS CLUSTER	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/cg/departments/comms	100 High Street,
+ 
+ 
+ #07-01,
+ 
+ 
+ The Treasury
+ 
+ 
+ Singapore 179434	2017-05-22	2018-10-22	89274
+89327	BRANDING & CONTENT DEVELOPMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/cg/departments/comms/departments/bcd	\N	2017-05-22	2018-10-22	89326
+89338	MEDIA & EMPLOYEE COMMUNICATIONS	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/cg/departments/comms/departments/mec	\N	2017-05-22	2018-10-22	89326
+89352	STRATEGIC PLANNING & RESEARCH	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/cg/departments/spr	\N	2017-05-22	2018-10-22	89274
+89353	STRATEGIC PLANNING & INTERNATIONAL RELATIONS	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/cg/departments/spr/departments/spir	\N	2017-05-22	2018-10-22	89352
+89367	HR INTELLIGENCE	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/cg/departments/spr/departments/hri	\N	2017-05-22	2018-10-22	89352
+89391	HUMAN CAPITAL	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/cg/departments/hc	\N	2017-06-22	2018-10-22	89274
+89392	HUMAN CAPITAL SERVICES	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/cg/departments/hc/departments/hcs	\N	2017-06-23	2018-10-22	89391
+89403	ORGANISATIONAL DEVELOPMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/cg/departments/hc/departments/od	\N	2017-06-23	2018-10-22	89391
+89410	INFORMATION TECHNOLOGY	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/cg/departments/it	\N	2017-06-22	2018-10-22	89274
+89411	PUBLIC SERVICE DIVISION	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/cg/departments/it/departments/psd	\N	2017-06-23	2018-10-22	\N
+89412	APPLICATION SERVICES	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/cg/departments/it/departments/psd/departments/as	\N	2017-06-23	2018-10-22	89411
+89417	TECHNICAL SERVICES	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/cg/departments/it/departments/psd/departments/ts	\N	2017-06-23	2018-10-22	89411
+89421	GENERAL ADMINISTRATION	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/cg/departments/it/departments/psd/departments/ga	\N	2017-06-23	2018-10-22	89411
+89434	CHIEF EXPERIENCE OFFICER	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/cg/departments/ceo	\N	2018-06-22	2018-10-22	89274
+89436	LEADERSHIP GROUP	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/lg	\N	2017-05-22	2018-10-22	\N
+89437	LEADERSHIP DEVELOPMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/lg/departments/ld	\N	2017-05-22	2018-10-22	89436
+89438	CAREER DEVELOPMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/lg/departments/ld/departments/cd	\N	2017-05-22	2018-10-22	89437
+89447	DEPLOYMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/lg/departments/ld/departments/dep	\N	2017-05-22	2018-10-22	89437
+89456	POLICY	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/lg/departments/ld/departments/pol	\N	2017-05-22	2018-10-22	89437
+89462	RECRUITMENT & APPOINTMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/lg/departments/ld/departments/rappt	\N	2017-05-22	2018-10-22	89437
+89470	TALENT ENGAGEMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/lg/departments/ld/departments/te	\N	2017-05-22	2018-10-22	89437
+89475	TRAINING & DEVELOPMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/lg/departments/ld/departments/td	\N	2017-05-22	2018-10-22	89437
+89484	PERFORMANCE MANAGEMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/lg/departments/ld/departments/pm	\N	2017-05-22	2018-10-22	89437
+89499	PSC SECRETARIAT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/lg/departments/psc	100 Victoria Street 
+ 
+ 
+ #08-01 
+ 
+ 
+ National Library Building 
+ 
+ 
+ Singapore 188064 
+ 
+ 
+ Telegraphic Address: PUBSERCOM 
+ 
+ 
+ SINGAPORE 
+ 
+ 
+ CS-mailbox: GVT272	2017-06-22	2018-10-22	89436
+89500	TALENT MANAGEMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/lg/departments/psc/departments/tm	100 Victoria Street
+ 
+ 
+ #08-01
+ 
+ 
+ National Library Building
+ 
+ 
+ Singapore 188064	2017-06-23	2018-10-22	89499
+89520	CONDUCT, DISCIPLINE & SECRETARIAT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/lg/departments/psc/departments/cds	100 Victoria Street
+ 
+ 
+ #08-01
+ 
+ 
+ National Library Building
+ 
+ 
+ Singapore 188064	2017-06-23	2018-10-22	89499
+89538	WORKFORCE DEVELOPMENT & MANAGEMENT GROUP	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/wdmg	\N	2017-05-22	2018-10-22	\N
+89539	HUMAN RESOURCE POLICY	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/wdmg/departments/hrp	\N	2017-05-22	2018-10-22	89538
+89540	BENEFITS, SUPERANNUATION & EXIT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/wdmg/departments/hrp/departments/bse	\N	2017-05-22	2018-10-22	89539
+89547	COMPENSATION & ORGANISATIONAL DESIGN	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/wdmg/departments/hrp/departments/cod	\N	2017-05-22	2018-10-22	89539
+89564	PERFORMANCE MANAGEMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/wdmg/departments/hrp/departments/pm	\N	2017-05-22	2018-10-22	89539
+89585	ORGANISATIONAL DESIGN	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/wdmg/departments/hrp/departments/od	\N	2017-05-22	2018-04-23	89539
+89590	CAREER MANAGEMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/wdmg/departments/hrp/departments/cm	\N	2017-05-22	2018-03-22	89539
+89596	HUMAN RESOURCE MANAGEMENT INFORMATION AND SYSTEMS	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/wdmg/departments/hrmis	\N	2017-05-22	2018-10-22	89538
+89620	WORKFORCE DEVELOPMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/wdmg/departments/wd	\N	2017-05-22	2018-10-22	89538
+89621	BUSINESS PARTNERSHIPS	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/wdmg/departments/wd/departments/bp	\N	2017-05-22	2018-10-22	89620
+89666	WORKFORCE PLANNING & CAPABILITIES	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/wdmg/departments/wd/departments/wpc	\N	2017-05-22	2018-10-22	\N
+89667	STRATEGIC WORKFORCE PLANNING	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/wdmg/departments/wd/departments/wpc/departments/swp	\N	2017-05-22	2018-10-22	89666
+89679	WORKFORCE CAPABILITIES	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/wdmg/departments/wd/departments/wpc/departments/wfc	\N	2017-05-22	2018-10-22	89666
+89686	CAREER MANAGEMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/wdmg/departments/wd/departments/wpc/departments/cm	\N	2018-04-07	2018-10-22	89666
+89707	CHIEF HR OFFICER'S OFFICE	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/wdmg/departments/wd/departments/chroo	\N	2018-02-22	2018-10-22	89620
+89713	CAREER TRANSITION UNIT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/wdmg/departments/wd/departments/ctu	\N	2018-02-22	2018-10-22	89620
+89720	HUMAN RESOURCE & PAYROLL SYSTEM	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/wdmg/departments/hrps	\N	2017-06-22	2018-10-22	89538
+89727	CHRO OFFICE	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/wdmg/departments/chroo	\N	2017-05-22	2018-02-07	89538
+89734	PUBLIC SECTOR TRANSFORMATION GROUP	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/pstg	\N	2017-05-22	2018-10-22	\N
+89735	PROGRAMME OFFICE	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/pstg/departments/po	\N	2017-05-22	2018-10-22	\N
+89736	VALUES & CULTURE, SERVICE DELIVERY, MIDDLE MANAGERS	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/pstg/departments/po/departments/vcsdmm	\N	2017-06-23	2018-10-22	89735
+89750	ENGINEERING PROGRAMME OFFICE	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/pstg/departments/po/departments/epo	\N	2017-06-23	2018-10-22	89735
+89758	MOMENTS OF LIFE	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/pstg/departments/po/departments/mol	\N	2017-06-23	2018-10-22	89735
+89762	DIGITAL WORKPLACE PROGRAMME OFFICE	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/pstg/departments/po/departments/dwpo	\N	2018-04-22	2018-10-22	89735
+89771	TRANSFORMATION OFFICE	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/pstg/departments/to	\N	2017-05-22	2018-10-22	89734
+89772	OD CONSULTANCY	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/pstg/departments/to/departments/odc	\N	2017-05-22	2018-10-22	89771
+89775	PST STRATEGY	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/pstg/departments/to/departments/pstt	\N	2017-05-22	2018-10-22	89771
+89784	SYSTEMS STRATEGY	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/pstg/departments/to/departments/sys	\N	2017-05-22	2018-10-22	89771
+89804	INNOVATION LAB	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/pstg/departments/to/departments/the-lab	\N	2017-05-22	2018-10-22	89771
+89822	HUMAN CAPITAL	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/hc	\N	2015-03-20	2017-05-22	89258
+89823	HUMAN CAPITAL SERVICES	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/hc/departments/hcs	\N	2015-03-20	2017-05-22	89822
+89835	ORGANISATIONAL DEVELOPMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/hc/departments/od	\N	2015-03-20	2017-05-22	89822
+89844	INFORMATION TECHNOLOGY	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/it	\N	2015-03-20	2017-05-22	89258
+89845	PUBLIC SERVICE DIVISION	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/it/departments/psd	\N	2015-03-20	2017-05-22	\N
+89846	APPLICATION SERVICES	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/it/departments/psd/departments/as	\N	2015-03-20	2017-05-22	89845
+89853	TECHNICAL SERVICES	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/it/departments/psd/departments/ts	\N	2015-03-20	2017-05-22	89845
+89858	GENERAL ADMINISTRATION	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/it/departments/psd/departments/ga	\N	2015-03-20	2017-05-22	89845
+89878	PSC SECRETARIAT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/psc	100 Victoria Street 
+ 
+ 
+ #08-01 
+ 
+ 
+ National Library Building 
+ 
+ 
+ Singapore 188064 
+ 
+ 
+ Telegraphic Address: PUBSERCOM SINGAPORE 
+ 
+ 
+ CS-mailbox: GVT272	2015-03-20	2017-05-22	89258
+89879	TALENT MANAGEMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/psc/departments/tm	100 Victoria Street
+ 
+ 
+ #08-01
+ 
+ 
+ National Library Building
+ 
+ 
+ Singapore 188064'	2015-03-20	2017-05-22	89878
+89913	CONDUCT, DISCIPLINE & SECRETARIAT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/psc/departments/cds	100 Victoria Street
+ 
+ 
+ #08-01
+ 
+ 
+ National Library Building
+ 
+ 
+ Singapore 188064'	2015-03-20	2017-05-22	89878
+89955	HUMAN RESOURCE & PAYROLL SYSTEM	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/hrps	\N	2017-01-07	2017-05-22	89258
+89960	BUSINESS PARTNERSHIPS	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/bp	\N	2015-03-20	2017-05-07	89258
+89987	CAPABILITIES DEVELOPMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/cd	\N	2015-03-20	2017-05-07	89258
+90006	CHRO OFFICE	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/chroo	\N	2015-03-20	2017-05-07	89258
+90013	CORPORATE SERVICES	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/cs	\N	2015-03-20	2017-05-07	89258
+90014	ADMINISTRATION	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/cs/departments/admin	\N	2015-03-20	2017-05-07	90013
+90029	FINANCE	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/cs/departments/fin	\N	2015-03-20	2017-05-07	90013
+90040	RESORTS	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/cs/departments/rts	\N	2015-03-20	2017-05-07	90013
+90048	PROCUREMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/cs/departments/proc	\N	2015-03-20	2017-05-07	90013
+90056	COMMUNICATIONS & STRATEGIC RELATIONS	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/csr	100 High Street,
+ 
+ 
+ #07-01,
+ 
+ 
+ The Treasury
+ 
+ 
+ Singapore 179434	2015-03-20	2017-05-07	89258
+90057	BRANDING & MARKETING COMMUNICATIONS	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/csr/departments/bmc	\N	2015-03-20	2017-05-07	90056
+90065	MEDIA RELATIONS & INTERNAL COMMUNICATIONS	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/csr/departments/mrc	\N	2015-03-20	2017-05-07	90056
+90074	ENGINEERING PROGRAMME OFFICE	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/epo	\N	2015-03-20	2017-05-07	89258
+90080	HUMAN RESOURCE MANAGEMENT INFORMATION AND SYSTEMS	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/hrmis	\N	2015-03-20	2017-05-07	89258
+90094	LEADERSHIP DEVELOPMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/ld	\N	2015-03-20	2017-05-07	89258
+90095	DEPLOYMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/ld/departments/dep	\N	2015-03-20	2017-05-07	90094
+90104	PERFORMANCE MANAGEMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/ld/departments/pm	\N	2015-03-20	2017-05-07	90094
+90109	POLICY	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/ld/departments/pol	\N	2015-03-20	2017-05-07	90094
+90118	TRAINING & DEVELOPMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/ld/departments/td	\N	2015-03-20	2017-05-07	90094
+90134	APPOINTMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/ld/departments/appt	\N	2015-06-08	2017-05-07	90094
+90141	ENGAGEMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/ld/departments/engt	\N	2015-06-08	2017-05-07	90094
+90148	As Career & Engagement	https://www.gov.sg0000023930	\N	2015-03-20	2015-04-08	90094
+90153	PS21 OFFICE	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/pso	100 High Street,
+ 
+ 
+ #07-01,
+ 
+ 
+ The Treasury
+ 
+ 
+ Singapore 179434	2015-03-20	2017-05-07	89258
+90154	EMPLOYEE COMMUNICATIONS & ENGAGEMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/pso/departments/ece	\N	2016-06-13	2017-05-07	\N
+90155	ENGAGEMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/pso/departments/ece/departments/eng	\N	2016-11-15	2017-05-07	90154
+90163	CHANNELS	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/pso/departments/ece/departments/c	\N	2016-11-15	2017-05-07	90154
+90171	EMPLOYEE COMMS	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/pso/departments/ece/departments/ec	\N	2016-11-15	2017-05-07	90154
+90176	STRATEGY & POLICY	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/pso/departments/ece/departments/sp	\N	2016-06-13	2016-10-22	90154
+90184	COMMUNICATIONS	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/pso/departments/ece/departments/comm	\N	2016-06-13	2016-10-22	90154
+90189	COMMUNICATIONS	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/pso/departments/ece/departments/comm-1	\N	2016-06-13	2016-10-22	90154
+90219	DESIGN, INNOVATION & INTEGRATION, SERVICE STRATEGY, CAPABILITIES)	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/pso/departments/disc	\N	2016-10-07	2017-05-07	\N
+90220	SERVICE STRATEGY	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/pso/departments/disc/departments/ss	\N	2016-10-07	2017-05-07	90219
+90225	INTEGRATION & CAPABILITIES	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/pso/departments/disc/departments/ic	\N	2016-10-07	2017-05-07	90219
+90230	INNOVATION & DESIGN	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/pso/departments/disc/departments/id	\N	2016-11-15	2017-05-07	90219
+90236	PUBLIC ENGAGEMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/pso/departments/disc/departments/pe	\N	2016-10-07	2016-10-22	90219
+90238	STRATEGY AND CHANGE TEAM	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/pso/departments/sct	\N	2016-11-15	2017-05-07	\N
+90239	OD	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/pso/departments/sct/departments/od	\N	2016-11-15	2017-05-07	90238
+90251	PS21 Strategy	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/pso/departments/sct/departments/ps21s	\N	2016-11-15	2017-05-07	90238
+90255	ORGANISATION DEVELOPMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/pso/departments/od	\N	2015-03-20	2016-10-22	90153
+90256	OD PROGRAMMES	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/pso/departments/od/departments/odp	\N	2015-03-20	2016-10-22	90255
+90269	DESIGN THINKING	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/pso/departments/dt	\N	2015-03-20	2016-10-22	90153
+90275	SERVICES	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/pso/departments/ser	\N	2015-03-20	2016-09-22	90153
+90276	SERVICE STRATEGY	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/pso/departments/ser/departments/ss	\N	2015-03-20	2016-09-22	90275
+90287	PUBLIC ENGAGEMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/pso/departments/ser/departments/pe	\N	2015-03-20	2016-09-22	90275
+90295	SERVICE COORDINATION	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/pso/departments/ser/departments/sc	\N	2015-04-08	2016-09-22	90275
+90319	Public Service Engagement	https://www.gov.sg0000018902	\N	2015-03-20	2016-04-07	\N
+90320	Strategy & Policy	https://www.gov.sg0000023879	\N	2015-03-20	2016-04-07	90319
+90327	Communications	https://www.gov.sg0000023880	\N	2015-03-20	2016-04-07	90319
+90343	Employee Communications & Engagement	https://www.gov.sg0000027275	\N	2015-04-08	2016-04-07	90319
+90351	Systems	https://www.gov.sg0000023748	\N	2015-03-20	2015-04-08	90153
+90352	Strategy & Operations	https://www.gov.sg0000023876	\N	2015-03-20	2015-04-08	\N
+90353	Data Integration & Analytics	https://www.gov.sg0000023877	\N	2015-03-20	2015-04-08	\N
+90355	PUBLIC SERVICE LEADERSHIP	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/psl	\N	2015-03-20	2017-05-07	89258
+90356	CAREER DEVELOPMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/psl/departments/cd	\N	2015-03-20	2017-05-07	90355
+90376	DEPLOYMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/psl/departments/dep	\N	2015-03-20	2017-05-07	90355
+90385	POLICY	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/psl/departments/pol	\N	2015-03-20	2017-05-07	90355
+90394	APPOINTMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/psl/departments/appt	\N	2015-06-08	2017-05-07	90355
+90400	ENGAGEMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/psl/departments/engt	\N	2015-06-08	2017-05-07	90355
+90407	TRAINING & DEVELOPMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/psl/departments/td	\N	2015-06-08	2017-05-07	90355
+90420	Recruitment & Development	https://www.gov.sg0000023928	\N	2015-03-20	2015-04-08	90355
+90435	STRATEGIC PLANNING & RESEARCH	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/spr	\N	2015-03-20	2017-05-07	89258
+90436	STRATEGIC PLANNING & INTERNATIONAL RELATIONS	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/spr/departments/spir	\N	2015-03-20	2017-05-07	90435
+90452	HR INTELLIGENCE	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/spr/departments/hri	\N	2015-03-20	2017-05-07	90435
+90467	International Relations	https://www.gov.sg0000025041	\N	2015-03-20	2016-01-22	90435
+90473	HUMAN RESOURCE POLICY	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/hrp	\N	2017-01-07	2017-05-07	89258
+90474	BENEFITS, SUPERANNUATION & EXIT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/hrp/departments/bse	\N	2017-01-07	2017-05-07	90473
+90478	COMPENSATION	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/hrp/departments/cod	\N	2017-01-07	2017-05-07	\N
+90479	REWARDS POLICY	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/hrp/departments/cod/departments/rp	\N	2017-01-07	2017-05-07	90478
+90488	REWARDS STRATEGY	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/hrp/departments/cod/departments/rs	\N	2017-01-07	2017-05-07	90478
+90495	PERFORMANCE MANAGEMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/hrp/departments/pm	\N	2017-01-07	2017-05-07	90473
+90501	CAREER MANAGEMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/hrp/departments/cm	\N	2017-01-07	2017-05-07	90473
+90507	ORGANISATIONAL DESIGN	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/hrp/departments/od	\N	2017-01-07	2017-05-07	90473
+90521	HR POLICY	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/hrp	\N	2015-03-20	2016-12-22	89258
+90522	PERFORMANCE MANAGEMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/hrp/departments/pm	\N	2015-03-20	2016-12-22	90521
+90528	BENEFITS, SUPERANNUATION & EXIT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/hrp/departments/bse	\N	2015-03-20	2016-12-22	90521
+90532	CAREER MANAGEMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/hrp/departments/cm	\N	2015-03-20	2016-12-22	90521
+90561	COMPENSATION	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/hrp/departments/cod	\N	2015-08-22	2016-12-22	\N
+90562	REWARDS POLICY	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/hrp/departments/cod/departments/rp	\N	2015-08-22	2016-12-22	90561
+90572	REWARDS STRATEGY	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/hrp/departments/cod/departments/rs	\N	2015-08-22	2016-12-22	90561
+90581	ORGANISATIONAL DESIGN	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/hrp/departments/od	\N	2015-08-22	2016-12-22	90521
+90587	BENEFITS	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/hrp/departments/ben	\N	2015-03-20	2016-11-22	\N
+90588	BENEFITS	https://www.gov.sg/sgdi/ministries/pmo/departments/psd/departments/hrp/departments/ben/departments/ben	\N	2015-03-20	2016-11-15	90587
+90594	Compensation & Organisational Design	https://www.gov.sg0000018880	\N	2015-03-20	2015-08-07	\N
+90595	Rewards Policy	https://www.gov.sg0000018881	\N	2015-03-20	2015-08-07	90594
+90605	Rewards Strategy	https://www.gov.sg0000018882	\N	2015-03-20	2015-08-07	90594
+90616	Organisational Design	https://www.gov.sg0000018883	\N	2015-03-20	2015-08-07	90594
+90620	Strategic Policy Office	https://www.gov.sg0000003600	\N	2015-03-20	2015-06-08	89258
+90632	CIVIL SERVICE COLLEGE	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc	31 North Buona Vista Road
+ 
+ 
+ Singapore 275983	2015-03-20	2018-10-22	88703
+90633	COMMUNICATIONS & CUSTOMER RELATIONS	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/ccr	\N	2015-03-20	2018-10-22	90632
+90634	CCR AGENCY ENGAGEMENT	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/ccr/departments/unnamed-item	\N	2015-03-20	2018-10-22	90633
+90643	CCR CUSTOMER INSIGHTS	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/ccr/departments/ccr-customer-insights-unnamed-item	\N	2015-03-20	2018-10-22	90633
+90651	MARKETING	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/ccr/departments/mkt	\N	2015-03-20	2018-10-22	90633
+90661	CCR CUSTOMER ENGAGEMENT	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/ccr/departments/ccr-customer-engagement-unnamed-item	\N	2015-03-20	2018-10-22	90633
+90675	BRANDING & PUBLISHING	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/ccr/departments/bp	\N	2016-04-07	2018-10-22	90633
+90692	Ccr Media Relations	https://www.gov.sg0000019982	\N	2015-03-20	2016-03-22	90633
+90695	CORPORATE DEVELOPMENT	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/cd	\N	2015-03-20	2018-10-22	90632
+90696	CD FINANCE	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/cd/departments/fin	\N	2015-03-20	2018-10-22	90695
+90709	CD RESOURCE CENTRE	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/cd/departments/rc	\N	2015-03-20	2018-10-22	90695
+90719	CD PROGRAMME MANAGEMENT TEAM	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/cd/departments/pmt	\N	2016-04-07	2018-10-22	90695
+90765	CD ADMIN, ESTATE MANAGEMENT & TRAINING SUPPORT	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/cd/departments/aem	\N	2016-06-13	2018-10-22	90695
+90772	CD SYSTEM DEVELOPMENT TEAM	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/cd/departments/sdt	\N	2016-06-13	2018-10-22	90695
+90778	Cd Admin & Estate Management	https://www.gov.sg0000007146	\N	2015-03-20	2016-04-07	90695
+90785	Cd Programme Management & Administration	https://www.gov.sg0000024144	\N	2015-03-20	2016-03-22	90695
+90824	DEAN'S OFFICE	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/do	\N	2015-03-20	2018-10-22	90632
+90843	HUMAN RESOURCE	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/hr	\N	2015-03-20	2018-10-22	90632
+90844	Human Resource Management	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/hr/departments/hrm	\N	2015-03-20	2018-10-22	90843
+90851	Human Resource Development	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/hr/departments/hrd	\N	2015-03-20	2018-10-22	90843
+90859	CSC INTERNATIONAL	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/csci	\N	2015-03-20	2018-10-22	90632
+90860	CSCI SOUTHEAST ASIA DESK	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/csci/departments/asean	\N	2015-03-20	2018-10-22	90859
+90871	CSCI CENTRAL ASIA / EUROPE / EAST ASIA DESK/LATIN AMERICA	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/csci/departments/caeea	\N	2015-03-20	2018-10-22	90859
+90881	CSCI CURRICULUM & OPEN PROGRAMMES	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/csci/departments/cscicop	\N	2015-03-20	2018-10-22	90859
+90899	CSCI SOUTH ASIA / MIDDLE EAST / AFRICA DESK	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/csci/departments/samea	\N	2016-06-13	2018-10-22	90859
+90904	Csci South Asia Desk	https://www.gov.sg0000016465	\N	2015-03-20	2016-04-07	90859
+90911	Csci Africa Desk	https://www.gov.sg0000018548	\N	2015-03-20	2016-04-07	90859
+90917	Csci Middle East Desk	https://www.gov.sg0000024155	\N	2015-03-20	2016-04-07	90859
+90922	Csci Central Asia / Europe Desk	https://www.gov.sg0000018549	\N	2015-03-20	2016-04-07	90859
+90927	Csci Open Programs	https://www.gov.sg0000025710	\N	2015-03-20	2016-04-07	90859
+90935	Csci Admin Support Team	https://www.gov.sg0000016469	\N	2015-03-20	2016-03-22	90859
+90947	INSTITUTE OF GOVERNANCE AND POLICY	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/igp	\N	2015-03-20	2018-10-22	90632
+90948	IGP GOVERNANCE	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/igp/departments/gov	\N	2015-03-20	2018-10-22	90947
+90959	IGP CORPORATE LEADERSHIP	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/igp/departments/cl	\N	2015-04-08	2018-10-22	90947
+90983	IGP SOCIAL & ECONOMICS	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/igp/departments/se	\N	2015-04-08	2018-10-22	90947
+90990	IGP LEARNING & PROGRAMME DEVELOPMENT	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/igp/departments/lpd	\N	2015-04-08	2018-10-22	90947
+91024	Igp Csc Publishing	https://www.gov.sg0000013412	\N	2015-03-20	2016-03-22	90947
+91039	Igp International Relations	https://www.gov.sg0000024192	\N	2015-03-20	2015-04-08	90947
+91046	Igp Social	https://www.gov.sg0000024194	\N	2015-03-20	2015-04-08	90947
+91056	Igp Public Communications & Engagement	https://www.gov.sg0000024163	\N	2015-03-20	2015-04-08	90947
+91067	Igp Public Economics	https://www.gov.sg0000024164	\N	2015-03-20	2015-04-08	90947
+91079	INSTITUTE OF LEADERSHIP & ORGANISATION DEVELOPMENT	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/ilod	\N	2015-03-20	2018-10-22	90632
+91080	ADMIN & STATISTICS	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/ilod/departments/admin--statisticsunnameditem	\N	2015-03-20	2018-10-22	91079
+91097	LEADERSHIP DEVELOPMENT ADVISORY	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/ilod/departments/unnamed-item	\N	2015-03-20	2018-10-22	91079
+91113	ORGANISATION DEVELOPMENT ADVISORY	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/ilod/departments/organisation-development-advisory-unnamed-item	\N	2015-03-20	2018-10-22	91079
+91125	RESEARCH	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/ilod/departments/research-unnamed-item	\N	2015-03-20	2018-10-22	91079
+91139	CAPABILITY DEVELOPMENT	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/ilod/departments/capability-development-unnamed-item	\N	2015-09-07	2018-10-22	91079
+91157	TALENT ASSESSMENT	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/ilod/departments/talent-assessment-unnamed-item	\N	2015-03-20	2017-03-22	91079
+91165	Employee Engagement	https://www.gov.sg0000024166	\N	2015-03-20	2016-04-07	91079
+91169	Engagement & Communications	https://www.gov.sg0000024169	\N	2015-03-20	2015-08-22	91079
+91171	Programmes & Events	https://www.gov.sg0000024168	\N	2015-03-20	2015-08-22	91079
+91176	INSTITUTE OF PUBLIC ADMINISTRATION AND MANAGEMENT	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/ipam	\N	2015-03-20	2018-10-22	90632
+91177	IPAM STRATEGIC HR	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/ipam/departments/shr	\N	2015-03-20	2018-10-22	91176
+91191	OPERATIONS AND ADMIN	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/ipam/departments/oa	\N	2015-03-20	2018-10-22	91176
+91199	IPAM PUBLIC FINANCE & LAW	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/ipam/departments/pfl	\N	2015-03-20	2018-10-22	91176
+91217	IPAM INNOVATION & FOUNDATIONAL COMPETENCIES	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/ipam/departments/fc	\N	2015-03-20	2018-10-22	91176
+91251	IPAM SERVICE OPERATIONS MANAGEMENT	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/ipam/departments/sm	\N	2018-03-22	2018-10-22	91176
+91262	LEARNING EXPERIENCE DESIGN	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/ipam/departments/led	\N	2018-03-22	2018-10-22	91176
+91264	DIGITAL CAPABILITY TEAM	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/ipam/departments/dct	\N	2018-03-22	2018-10-22	91176
+91269	INN X CSC	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/ipam/departments/proj-k	\N	2018-06-07	2018-10-22	91176
+91278	PROJECT K	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/ipam/departments/project-k	\N	2018-03-22	2018-05-23	91176
+91287	IPAM SERVICE MANAGEMENT	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/ipam/departments/sm	\N	2015-03-20	2018-03-07	91176
+91302	ENFORCEMENT PRACTICES	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/ipam/departments/ep	\N	2016-06-13	2018-03-07	91176
+91318	INSTITUTE OF PUBLIC SECTOR LEADERSHIP	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/ipsl	\N	2015-03-20	2018-10-22	90632
+91319	PARTICIPANT & PROGRAMME DEVELOPMENT UNIT	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/ipsl/departments/ppdu	\N	2015-03-20	2018-10-22	91318
+91346	CURRICULUM DEVELOPMENT UNIT	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/ipsl/departments/cdu	\N	2015-03-20	2018-05-23	91318
+91358	CSC APPLIED SIMULATION AND TRAINING (CAST) LABORATORY	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/ipsl/departments/cast	\N	2015-10-07	2018-05-07	91318
+91373	Client Management Team	https://www.gov.sg0000003603	\N	2015-03-20	2016-03-22	91318
+91386	Csc Applied Simulation Team (Cast)	https://www.gov.sg0000026275	\N	2015-03-20	2015-09-22	91318
+91406	STRATEGIC PLANNING AND DEVELOPMENT	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/spd	\N	2016-04-07	2018-10-22	90632
+91418	INFOCOMM TECHNOLOGY AND TREX PROJECT TEAM	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/ict	\N	2016-04-07	2018-10-22	90632
+91419	INFOCOMM TECHNOLOGY	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/ict/departments/ict	\N	2016-04-07	2018-10-22	91418
+91443	TREX PROJECT TEAM	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/ict/departments/trex	\N	2016-04-07	2018-10-22	91418
+91455	DIGITAL LEARNING SERVICES	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/dls	\N	2017-04-22	2018-10-22	\N
+91456	LEARNING FUTURES GROUP	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/lfg	\N	2018-05-23	2018-10-22	90632
+91459	LEARNING DESIGN & TECHNOLOGY	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/csc/departments/ldt	\N	2016-04-07	2018-05-07	90632
+91475	Capability And People Development	https://www.gov.sg0000014244	\N	2015-03-20	2016-03-22	90632
+91476	Cpd Infocomm Technology	https://www.gov.sg0000018551	\N	2015-03-20	2016-03-22	91475
+91492	Cpd Strategic Planning & Development	https://www.gov.sg0000021219	\N	2015-03-20	2016-03-22	91475
+91501	Cpd Learning Design & Technology	https://www.gov.sg0000023672	\N	2015-03-20	2016-03-22	91475
+91515	MONETARY AUTHORITY OF SINGAPORE	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas	10 Shenton Way, MAS Building, Singapore 079117Cable Address: MONETARY SINGAPORE	2015-03-20	2018-10-22	88703
+91516	MANAGING DIRECTOR'S OFFICE	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mdo	\N	2015-03-20	2018-10-22	91515
+91517	LEGAL DEPARTMENT	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mdo/departments/ld	\N	2015-03-20	2018-10-22	91516
+91526	Division I	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mdo/departments/ld/departments/div-i	\N	2017-09-22	2018-10-22	91517
+91529	Division II	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mdo/departments/ld/departments/div-ii	\N	2017-09-22	2018-10-22	91517
+91531	CORPORATE PLANNING AND COMMUNICATIONS DEPARTMENT	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mdo/departments/cpc	\N	2015-03-20	2018-10-22	91516
+91532	CORPORATE COMMUNICATIONS DIVISION	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mdo/departments/cpc/departments/ccd	\N	2015-03-20	2018-10-22	91531
+91535	CORPORATE PLANNING DIVISION	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mdo/departments/cpc/departments/copd	\N	2015-03-20	2018-10-22	91531
+91547	INTERNAL AUDIT DEPARTMENT	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/iad	\N	2015-03-20	2018-10-22	91515
+91548	Division I	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/iad/departments/di	\N	2015-03-20	2018-10-22	91547
+91552	Division II	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/iad/departments/d-ii	\N	2015-03-20	2018-10-22	91547
+91560	MONETARY POLICY & INVESTMENT / DEVELOPMENT & INTERNATIONAL / FINTECH & INNOVATION	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mpidifi	\N	2015-03-20	2018-10-22	91515
+91561	ECONOMIC POLICY GROUP	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mpidifi/departments/ep	\N	2015-03-20	2018-10-22	91560
+91562	ECONOMIC SURVEILLANCE & FORECASTING DEPARTMENT	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mpidifi/departments/ep/departments/esfd	\N	2015-03-20	2018-10-22	91561
+91563	DOMESTIC ECONOMY DIVISION	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mpidifi/departments/ep/departments/esfd/departments/ded	\N	2015-03-21	2018-10-22	91562
+91567	PRICE ANALYSIS DIVISION	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mpidifi/departments/ep/departments/esfd/departments/pad	\N	2015-04-08	2018-10-22	91562
+91572	International Economy Division	https://www.gov.sg0000014700	\N	2015-03-21	2015-04-08	91562
+91574	Specialist Leader (Int'L Macroeconomics)	https://www.gov.sg0000026544	\N	2015-03-21	2015-04-08	91562
+91576	ECONOMIC ANALYSIS DEPARTMENT	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mpidifi/departments/ep/departments/ead	\N	2015-03-20	2018-10-22	91561
+91577	Modelling Division	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mpidifi/departments/ep/departments/ead/departments/md	\N	2015-03-21	2018-10-22	91576
+91581	International Economy Division	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mpidifi/departments/ep/departments/ead/departments/ied	\N	2015-04-08	2018-10-22	91576
+91585	Specialist Leader (Int'l Macroeconomics)	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mpidifi/departments/ep/departments/ead/departments/sl	\N	2015-04-08	2018-10-22	91576
+91591	Information Resource Centre Division	https://www.gov.sg0000014701	\N	2015-03-21	2015-04-08	91576
+91593	Price Analysis Division	https://www.gov.sg0000018400	\N	2015-03-21	2015-04-08	91576
+91597	INFORMATION RESOURCE CENTRE	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mpidifi/departments/ep/departments/irc	\N	2016-06-13	2018-10-22	\N
+91598	INFORMATION RESOURCE CENTRE	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mpidifi/departments/ep/departments/irc/departments/irc	\N	2018-10-07	2018-10-22	\N
+91599	SPECIAL PROJECTS	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mpidifi/departments/ep/departments/sp	\N	2015-04-08	2018-09-22	91561
+91600	INFORMATION RESOURCE CENTRE	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mpidifi/departments/ep/departments/sp/departments/irc	\N	2015-04-08	2018-09-22	91599
+91604	MARKETS & INVESTMENT GROUP	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mpidifi/departments/mi	\N	2015-03-20	2018-10-22	91560
+91605	RESERVE MANAGEMENT DEPARTMENT	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mpidifi/departments/mi/departments/rmd	\N	2015-03-20	2018-10-22	91604
+91606	Reserve Management : Europe & Corporates Division	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mpidifi/departments/mi/departments/rmd/departments/rmed	\N	2015-03-21	2018-10-22	91605
+91609	Reserve Management : External Fund Management Division	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mpidifi/departments/mi/departments/rmd/departments/rmefm	\N	2015-03-21	2018-10-22	91605
+91614	Reserve Management : Americas & EM Asia Division	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mpidifi/departments/mi/departments/rmd/departments/rmad	\N	2015-03-21	2018-10-22	91605
+91619	Global Macro Division	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mpidifi/departments/mi/departments/rmd/departments/gmd	\N	2015-06-08	2018-10-22	91605
+91624	Reserve Management : Foreign Exchange, Liquidity & Gold Division	https://www.gov.sg0000001939	\N	2015-03-21	2015-04-08	91605
+91627	MONETARY & DOMESTIC MARKETS MANAGEMENT DEPARTMENT	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mpidifi/departments/mi/departments/mdmmd	\N	2015-03-20	2018-10-22	91604
+91628	Monetary Management Division	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mpidifi/departments/mi/departments/mdmmd/departments/mm	\N	2015-03-21	2018-10-22	91627
+91632	Domestic Markets Management Division	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mpidifi/departments/mi/departments/mdmmd/departments/dmm	\N	2015-03-21	2018-10-22	91627
+91641	DEVELOPMENT & INTERNATIONAL GROUP	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mpidifi/departments/d	\N	2015-03-20	2018-10-22	91560
+91642	FINANCIAL CENTRE DEVELOPMENT DEPARTMENT	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mpidifi/departments/d/departments/fdd	\N	2015-03-20	2018-10-22	91641
+91643	Banking Development Division	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mpidifi/departments/d/departments/fdd/departments/bd	\N	2015-03-21	2018-10-22	91642
+91647	Business Competitiveness Division	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mpidifi/departments/d/departments/fdd/departments/bcd	\N	2015-03-21	2018-10-22	91642
+91657	FINANCIAL MARKETS DEVELOPMENT DEPARTMENT	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mpidifi/departments/d/departments/fmd	\N	2015-03-20	2018-10-22	91641
+91658	Asset Management & Insurance Development	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mpidifi/departments/d/departments/fmd/departments/ami	\N	2015-03-21	2018-10-22	91657
+91661	Financial Products & Solutions	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mpidifi/departments/d/departments/fmd/departments/fps	\N	2015-03-21	2018-10-22	91657
+91666	Technology, Payments & Exchange Development	https://www.gov.sg0000026550	\N	2015-03-21	2016-01-22	91657
+91668	BEIJING OFFICE	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mpidifi/departments/d/departments/bjo	\N	2015-03-20	2018-10-22	91641
+91671	INTERNATIONAL DEPARTMENT	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mpidifi/departments/d/departments/id	\N	2015-03-20	2018-10-22	91641
+91672	Regional Development Division	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mpidifi/departments/d/departments/id/departments/rdd	\N	2015-03-21	2018-10-22	91671
+91677	International Finance Division	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mpidifi/departments/d/departments/id/departments/ifd	\N	2015-03-21	2018-10-22	91671
+91685	Financial Services Cooperation Division	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mpidifi/departments/d/departments/id/departments/fscd	\N	2015-03-21	2016-07-22	91671
+91689	LONDON OFFICE	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mpidifi/departments/ldo	\N	2015-03-20	2018-10-22	91560
+91693	NEW YORK OFFICE	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mpidifi/departments/nyo	\N	2015-03-20	2018-10-22	91560
+91698	FINTECH & INNOVATION GROUP	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mpidifi/departments/ftig	\N	2015-08-07	2018-10-22	91560
+91699	PAYMENTS FINTECH OFFICE	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mpidifi/departments/ftig/departments/pfo	\N	2015-08-07	2018-10-22	91698
+91702	FINTECH INFRASTRUCTURE OFFICE	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mpidifi/departments/ftig/departments/fio	\N	2015-08-07	2018-10-22	91698
+91708	FINTECH ECOSYSTEM OFFICE	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mpidifi/departments/ftig/departments/feo	\N	2018-09-07	2018-10-22	91698
+91710	TECHNOLOGY INNOVATION LAB	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mpidifi/departments/ftig/departments/til	\N	2015-08-07	2018-08-22	91698
+91713	SPECIALIST LEADER (INNOVATION ACCELERATION OFFICE)	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/mpidifi/departments/ftig/departments/sl	\N	2017-04-07	2018-01-07	91698
+91715	FINANCIAL SUPERVISION	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs	\N	2015-03-20	2018-10-22	91515
+91716	BANKING AND INSURANCE GROUP	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/bi	\N	2015-03-20	2018-10-22	91715
+91717	BANKING DEPARTMENT 1	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/bi/departments/bd1	\N	2015-03-20	2018-10-22	91716
+91728	Division I	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/bi/departments/bd1/departments/div-i	\N	2016-11-15	2018-10-22	91717
+91730	Division II	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/bi/departments/bd1/departments/div-ii	\N	2016-11-15	2018-10-22	91717
+91732	Division III	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/bi/departments/bd1/departments/div-iii	\N	2016-11-15	2018-10-22	91717
+91734	BANKING DEPARTMENT 2	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/bi/departments/bd2	\N	2015-03-20	2018-10-22	91716
+91735	Division I	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/bi/departments/bd2/departments/div-i	\N	2016-11-15	2018-10-22	91734
+91737	Division II	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/bi/departments/bd2/departments/div-ii	\N	2016-11-15	2018-10-22	91734
+91739	Division III	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/bi/departments/bd2/departments/div-iii	\N	2016-11-15	2018-10-22	91734
+91741	Supervisory Methodologies, Tools & Analytics	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/bi/departments/bd2/departments/smta	\N	2016-11-15	2018-10-22	91734
+91744	Financial Risk Specialist	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/bi/departments/bd2/departments/frs	\N	2017-04-07	2018-10-22	91734
+91756	BANKING DEPARTMENT 3	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/bi/departments/bd3	\N	2015-03-20	2018-10-22	91716
+91763	Division I	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/bi/departments/bd3/departments/div-i	\N	2016-11-15	2018-10-22	91756
+91765	Division II	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/bi/departments/bd3/departments/div-ii	\N	2016-11-15	2018-10-22	91756
+91767	Division III	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/bi/departments/bd3/departments/div-iii	\N	2016-11-15	2018-10-22	91756
+91769	INSURANCE DEPARTMENT	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/bi/departments/id	\N	2015-03-20	2018-10-22	91716
+91770	Division I	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/bi/departments/id/departments/div-i	\N	2016-11-15	2018-10-22	91769
+91773	Division II	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/bi/departments/id/departments/div-ii	\N	2016-11-15	2018-10-22	91769
+91775	Division III	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/bi/departments/id/departments/div-iii	\N	2016-11-15	2018-10-22	91769
+91777	Supervisory Analytics	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/bi/departments/id/departments/sa	\N	2016-11-15	2018-10-22	91769
+91788	CHIEF EXAMINER	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/bi/departments/ce	\N	2015-04-08	2018-10-22	91716
+91792	Deputy Chief Examiners (Banking)	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/bi/departments/ce/departments/dce	\N	2016-11-15	2018-10-22	91788
+91795	ANTI-MONEY LAUNDERING	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/bi/departments/aml	\N	2016-08-07	2018-10-22	\N
+91796	AML Policy	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/bi/departments/aml/departments/amlp	\N	2016-08-07	2018-10-22	\N
+91797	Specialist Leader (AML/CFT Policy)	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/bi/departments/aml/departments/sl	\N	2016-08-07	2018-10-22	\N
+91798	Specialist Leader (AML/CFT)	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/bi/departments/aml/departments/sl-1	\N	2016-08-07	2018-10-22	\N
+91799	AML Supervision I	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/bi/departments/aml/departments/amlsi	\N	2017-02-07	2018-10-22	\N
+91800	AML Supervision II	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/bi/departments/aml/departments/amlsii	\N	2017-02-07	2018-10-22	\N
+91801	AML Supervision	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/bi/departments/aml/departments/amls	\N	2016-08-07	2017-01-22	\N
+91804	INSPECTION ADVISOR	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/bi/departments/ia	\N	2018-08-22	2018-10-22	91716
+91806	SPECIAL PROJECTS	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/bi/departments/sp	\N	2018-08-22	2018-10-22	91716
+91810	CAPITAL MARKETS GROUP	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/cm	\N	2015-03-20	2018-10-22	91715
+91811	CAPITAL MARKETS INTERMEDIARIES I	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/cm/departments/cmi-i	\N	2015-03-20	2018-10-22	91810
+91816	Division I	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/cm/departments/cmi-i/departments/div-i	\N	2016-11-15	2018-10-22	91811
+91819	Division II	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/cm/departments/cmi-i/departments/div-ii	\N	2016-11-15	2018-10-22	91811
+91822	Division III	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/cm/departments/cmi-i/departments/div-iii	\N	2016-11-15	2018-10-22	91811
+91832	CAPITAL MARKET INTERMEDIARIES II	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/cm/departments/cmi-ii	\N	2015-03-20	2018-10-22	91810
+91833	Division I	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/cm/departments/cmi-ii/departments/div-i	\N	2016-11-15	2018-10-22	91832
+91836	Division II	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/cm/departments/cmi-ii/departments/div-ii	\N	2016-11-15	2018-10-22	91832
+91839	Division III	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/cm/departments/cmi-ii/departments/div-iii	\N	2016-11-15	2018-10-22	91832
+91842	Conduct & Surveillance Analytics	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/cm/departments/cmi-ii/departments/csa	\N	2017-06-23	2018-10-22	91832
+91852	CAPITAL MARKET INTERMEDIARIES III	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/cm/departments/cmi-iii	\N	2015-03-20	2018-10-22	91810
+91853	Division I	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/cm/departments/cmi-iii/departments/div-i	\N	2016-11-15	2018-10-22	91852
+91857	Division II	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/cm/departments/cmi-iii/departments/div-ii	\N	2016-11-15	2018-10-22	91852
+91860	Division III	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/cm/departments/cmi-iii/departments/div-iii	\N	2016-11-15	2018-10-22	91852
+91870	CORPORATE FINANCE & CONSUMER	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/cm/departments/cfc	\N	2015-03-20	2018-10-22	91810
+91871	Corporate Finance & Investment Products	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/cm/departments/cfc/departments/cfip	\N	2015-03-21	2018-10-22	91870
+91876	Specialist Leader (Mergers & Acquisitions)	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/cm/departments/cfc/departments/specialist-leader-mergers--acquisitionssl	\N	2015-03-21	2018-10-22	91870
+91879	Specialist Leader (Offerings & Listings)	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/cm/departments/cfc/departments/sl	\N	2015-04-08	2018-10-22	91870
+91882	Consumer Issues	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/cm/departments/cfc/departments/ci	\N	2016-08-07	2018-10-22	91870
+91889	Secondary Markets Conduct & Enforcement Division	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/cm/departments/mcd/departments/smce	\N	2015-03-21	2016-07-22	91870
+91891	Specialist Leader (Enforcement & Investigations)	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/cm/departments/mcd/departments/specialist-leader-enforcement--investigationssl	\N	2015-03-21	2016-07-22	91870
+91893	MARKETS POLICY & INFRASTRUCTURE DEPARTMENT	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/cm/departments/mpi	\N	2015-03-20	2018-10-22	91810
+91894	Capital Markets Policy Division	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/cm/departments/mpi/departments/cmpd	\N	2015-03-21	2018-10-22	91893
+91898	Markets & Infrastructure Supervision Division	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/cm/departments/mpi/departments/mis	\N	2015-03-21	2018-10-22	91893
+91901	Specialist Leader (Financial Markets Infrastructure)	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/cm/departments/mpi/departments/sl	\N	2015-03-21	2018-10-22	91893
+91903	Market Conduct Policy Division	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/cm/departments/mpi/departments/mcp	\N	2016-11-15	2018-10-22	91893
+91907	Specialist Leader (Derivatives Regulation)	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/cm/departments/mpi/departments/sl-2	\N	2018-04-07	2018-10-22	91893
+91916	ENFORCEMENT	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/cm/departments/enf	\N	2016-08-07	2018-10-22	\N
+91917	Banking & Insurance Investigations	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/cm/departments/enf/departments/bii	\N	2016-08-07	2018-10-22	\N
+91918	Market Conduct Investigations I	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/cm/departments/enf/departments/mci-i	\N	2016-08-07	2018-10-22	\N
+91919	Market Conduct Investigations II	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/cm/departments/enf/departments/mci-ii	\N	2016-08-07	2018-10-22	\N
+91920	Surveillance & Forensics	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/cm/departments/enf/departments/sf	\N	2016-08-07	2018-10-22	\N
+91921	Enforcement Policy & Legal	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/cm/departments/enf/departments/epl	\N	2017-06-23	2018-10-22	91916
+91925	POLICY, RISK & SURVEILLANCE GROUP	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/prs	\N	2015-03-20	2018-10-22	91715
+91926	PRUDENTIAL POLICY DEPARTMENT	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/prs/departments/ppd	\N	2015-03-20	2018-10-22	91925
+91927	Capital & Liquidity Policy Division	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/prs/departments/ppd/departments/clpd	\N	2015-03-21	2018-10-22	91926
+91931	Prudential Advisory Division	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/prs/departments/ppd/departments/pad	\N	2015-03-21	2018-10-22	91926
+91936	Regulatory Framework Division	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/prs/departments/ppd/departments/rfd	\N	2015-03-21	2018-10-22	91926
+91942	Prudential Risk Division	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/prs/departments/ppd/departments/prd	\N	2015-03-21	2017-01-22	91926
+91947	TECHNOLOGY RISK & PAYMENTS DEPARTMENT	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/prs/departments/trpd	\N	2015-03-20	2018-10-22	91925
+91948	Technology Risk Supervision Division	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/prs/departments/trpd/departments/trsd	\N	2015-03-21	2018-10-22	91947
+91952	Payments & Infrastructure Division	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/prs/departments/trpd/departments/pid	\N	2015-03-21	2018-10-22	91947
+91958	Financial Risk Supervision Division	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/prs/departments/trpd/departments/frsd	\N	2015-03-21	2017-05-23	91947
+91964	Specialist Leader (Financial Risk)	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/prs/departments/srd/departments/slfr	\N	2015-06-08	2016-10-22	91947
+91966	MACROPRUDENTIAL SURVEILLANCE DEPARTMENT	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/prs/departments/msd	\N	2015-03-20	2018-10-22	91925
+91967	FINANCIAL SURVEILLANCE DIVISION	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/prs/departments/msd/departments/fsd	\N	2015-03-21	2018-10-22	91966
+91970	FINANCIAL & SPECIAL STUDIES DIVISION	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/prs/departments/msd/departments/fssd	\N	2015-04-08	2018-10-22	91966
+91973	SPECIALIST LEADER (MACROFINANCIAL MODELLING)	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/prs/departments/msd/departments/sl	\N	2015-04-08	2018-10-22	91966
+91982	Financial Studies & Statistics Division	https://www.gov.sg0000019108	\N	2015-03-21	2015-04-08	91966
+91986	Chief Cyber Security Officer	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/prs/departments/ccso	\N	2017-12-07	2018-10-22	\N
+91987	DATA GOVERNANCE & ANALYTICS	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/prs/departments/aga	\N	2015-04-08	2017-03-22	91925
+91991	DATA ANALYTICS	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/da	\N	2017-03-22	2018-10-22	\N
+91992	Data Governance & Architecture Office	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/da/departments/dgao	\N	2017-03-22	2018-10-22	\N
+91993	Specialist Analytics & Visualisation Office	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/da/departments/savo	\N	2017-03-22	2018-10-22	\N
+91994	Supervisory Technology Office	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/fs/departments/da/departments/sto	\N	2017-03-22	2018-10-22	\N
+91995	CORPORATE DEVELOPMENT	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/cd	\N	2015-03-20	2018-10-22	91515
+91996	FINANCE , RISK & CURRENCY GROUP	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/cd/departments/cfr	\N	2015-03-20	2018-10-22	91995
+91997	CURRENCY DEPARTMENT	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/cd/departments/cfr/departments/cd	\N	2015-03-20	2018-10-22	91996
+91998	Coins & Business Excellence Division	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/cd/departments/cfr/departments/cd/departments/cbed	\N	2015-03-21	2018-10-22	91997
+92001	Notes & Services Division	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/cd/departments/cfr/departments/cd/departments/nsd	\N	2015-03-21	2018-10-22	91997
+92006	FINANCE DEPARTMENT	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/cd/departments/cfr/departments/fd	\N	2015-03-20	2018-10-22	91996
+92007	Financial & Investment Reporting Division	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/cd/departments/cfr/departments/fd/departments/fird	\N	2015-03-21	2018-10-22	92006
+92011	Operations & Budget Division	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/cd/departments/cfr/departments/fd/departments/obd	\N	2015-03-21	2018-10-22	92006
+92016	Financial and Management Accounting Division	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/cd/departments/cfr/departments/fd/departments/fmad	\N	2015-03-21	2016-11-22	92006
+92021	RISK MANAGEMENT DEPARTMENT	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/cd/departments/cfr/departments/rimd	\N	2015-03-20	2018-10-22	91996
+92022	Enterprise Risk & Business Continuity Management	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/cd/departments/cfr/departments/rimd/departments/erbcm	\N	2015-03-21	2018-10-22	92021
+92026	Investment Risk Management	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/cd/departments/cfr/departments/rimd/departments/irm	\N	2015-03-21	2018-10-22	92021
+92035	CORPORATE, HR & IT SERVICES GROUP	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/cd/departments/chi	\N	2015-03-20	2018-10-22	91995
+92036	CORPORATE SERVICES DEPARTMENT	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/cd/departments/chi/departments/csd	\N	2015-03-20	2018-10-22	92035
+92037	Property and Building Services Division	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/cd/departments/chi/departments/csd/departments/pbs	\N	2015-03-21	2018-10-22	92036
+92040	Logistics, Administration & Event Management Division	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/cd/departments/chi/departments/csd/departments/lae	\N	2015-03-21	2018-10-22	92036
+92043	Security Division	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/cd/departments/chi/departments/csd/departments/sd	\N	2015-03-21	2018-10-22	92036
+92048	INFORMATION TECHNOLOGY DEPARTMENT	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/cd/departments/chi/departments/itd	\N	2015-03-20	2018-10-22	92035
+92049	IT Applications Division I	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/cd/departments/chi/departments/itd/departments/app1	\N	2015-03-21	2018-10-22	92048
+92052	IT Application Division II	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/cd/departments/chi/departments/itd/departments/app2	\N	2015-03-21	2018-10-22	92048
+92055	IT Infrastructure Division	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/cd/departments/chi/departments/itd/departments/itid	\N	2015-03-21	2018-10-22	92048
+92058	IT Security, Governance & Planning Division	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/cd/departments/chi/departments/itd/departments/sgp	\N	2015-03-21	2018-10-22	92048
+92061	IT Services Division	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/cd/departments/chi/departments/itd/departments/itsd	\N	2015-03-21	2018-10-22	92048
+92064	Payment Systems Division	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/cd/departments/chi/departments/itd/departments/psd	\N	2015-03-21	2018-10-22	92048
+92069	HUMAN RESOURCE DEPARTMENT	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/cd/departments/chi/departments/hrd	\N	2015-03-20	2018-10-22	92035
+92070	Human Resource Development Division	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/cd/departments/chi/departments/hrd/departments/hrdd	\N	2015-03-21	2018-10-22	92069
+92076	Human Resource Management Division	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/cd/departments/chi/departments/hrd/departments/hrmd	\N	2015-03-21	2018-10-22	92069
+92083	Human Resource Partners Division	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/cd/departments/chi/departments/hrd/departments/hrpd	\N	2015-03-21	2018-10-22	92069
+92090	MAS ACADEMY	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/cd/departments/chi/departments/aca	\N	2015-03-20	2018-10-22	92035
+92093	MAS Academy	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/mas/departments/cd/departments/chi/departments/aca/departments/aca	\N	2017-11-28	2018-10-22	\N
+92211	STRATEGY GROUP	https://www.gov.sg/sgdi/ministries/pmo/departments/sg	100 High Street,
+ 
+ 
+ #03-01 The Treasury,
+ 
+ 
+ Singapore 179434'	2015-07-22	2018-10-22	88703
+92212	STRATEGIC PLANNING & FUTURES	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/spampf	\N	2015-07-22	2018-10-22	92211
+92241	LAND& LIVEABILITY	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/l--l	\N	2015-07-22	2018-10-22	92211
+92257	SOCIAL	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/s	\N	2015-07-22	2018-10-22	92211
+92287	ECONOMIC	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/e	\N	2015-08-07	2018-10-22	92211
+92298	SECURITY & RESILIENCE	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/s--r	\N	2015-08-07	2018-10-22	92211
+92307	NATIONAL CLIMATE CHANGE SECRETARIAT	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/nccs	55 Newton Road
+ 
+ 
+ Revenue House, #13-04/05
+ 
+ 
+ Singapore 307987	2016-08-07	2018-10-22	92211
+92308	Policy & Planning Division	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/nccs/departments/ppd	\N	2016-08-07	2018-10-22	\N
+92309	Mitigation & Resilience Policy & Planning	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/nccs/departments/ppd/departments/mrpp	\N	2016-08-07	2018-10-22	92308
+92320	International Policy	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/nccs/departments/ppd/departments/ip	\N	2016-08-07	2018-10-22	92308
+92328	Strategic Issues Division	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/nccs/departments/sid	\N	2016-08-07	2018-10-22	92307
+92329	Economic Research	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/nccs/departments/sid/departments/er	\N	2016-08-07	2018-10-22	92328
+92337	Technology Innovation & Deployment	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/nccs/departments/sid/departments/tid	\N	2016-08-07	2018-10-22	92328
+92343	Policy Innovation & Futures	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/nccs/departments/sid/departments/pif	\N	2016-08-07	2018-10-22	92328
+92357	Corporate Communications Division	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/nccs/departments/ccd	\N	2017-02-07	2017-09-22	92307
+92364	Corporate Affairs Division	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/nccs/departments/cad	\N	2016-08-07	2017-01-22	92307
+92365	Partnerships & Outreach	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/nccs/departments/cad/departments/po	\N	2016-08-07	2017-01-22	92364
+92369	Corporate Services	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/nccs/departments/cad/departments/cs	\N	2016-08-07	2017-01-22	92364
+92375	NATIONAL POPULATION AND TALENT DIVISION	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/nptd	55 Newton Road
+ 
+ 
+ #11-01 Revenue House
+ 
+ 
+ Singapore 307987	2016-08-07	2018-10-22	\N
+92376	POLICY AND PLANNING DIRECTORATE	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/nptd/departments/ppd	\N	2016-08-07	2018-10-22	92375
+92377	POPULATION POLICY	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/nptd/departments/ppd/departments/pp	\N	2016-08-07	2018-10-22	92376
+92384	STRATEGY, PLANNING & RESEARCH	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/nptd/departments/ppd/departments/spr	\N	2016-08-07	2018-10-22	92376
+92398	MARRIAGE AND PARENTHOOD POLICY DIRECTORATE	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/nptd/departments/mppd	\N	2016-08-07	2018-10-22	92375
+92416	TALENT ENGAGEMENT DIRECTORATE	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/nptd/departments/ted	\N	2016-08-07	2018-09-22	92375
+92424	Policy & Programmes	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/nptd/departments/ted/departments/pp	\N	2016-08-07	2017-08-22	92416
+92429	Singapore Global Network	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/nptd/departments/ted/departments/sgn	\N	2016-08-07	2017-08-22	92416
+92432	INTEGRATION DIRECTORATE	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/nptd/departments/id	\N	2016-08-07	2018-07-22	92375
+92433	Policy and Research	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/nptd/departments/id/departments/pr	\N	2016-08-07	2018-07-22	92432
+92444	Partnerships & Programmes	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/nptd/departments/id/departments/pp	\N	2018-04-07	2018-07-22	92432
+92458	National Integration Council Secretariat	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/nptd/departments/id/departments/nics	\N	2016-08-07	2018-03-22	92432
+92467	Programmes	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/nptd/departments/id/departments/programmes	\N	2016-08-07	2018-03-22	92432
+92476	NATURALISATION DIRECTORATE	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/nptd/departments/nd	\N	2016-08-07	2018-06-22	92375
+92477	POLICY	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/nptd/departments/nd/departments/pol	\N	2016-08-07	2018-06-22	92476
+92489	RESEARCH & SYSTEMS	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/nptd/departments/nd/departments/ramps	\N	2016-08-07	2018-06-22	92476
+92496	CORPORATE COMMUNICATIONS DIRECTORATE	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/nptd/departments/corp-comms	\N	2016-08-07	2017-09-22	92375
+92497	Corporate Communications	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/nptd/departments/corp-comms/departments/cc	\N	2016-08-07	2017-09-23	92496
+92504	Digital Communications	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/nptd/departments/corp-comms/departments/dc	\N	2016-08-07	2017-09-23	92496
+92514	CORPORATE SERVICES DIRECTORATE	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/nptd/departments/cs	\N	2016-08-07	2017-01-22	92375
+92515	FINANCE & ADMIN	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/nptd/departments/cs/departments/fin--ad	\N	2016-08-07	2017-01-22	92514
+92527	HUMAN RESOURCE	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/nptd/departments/cs/departments/hr	\N	2016-08-07	2017-01-22	92514
+92535	INFORMATION TECHNOLOGY DEPARTMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/nptd/departments/cs/departments/itd	\N	2016-08-07	2017-01-22	92514
+92545	OVERSEAS SINGAPOREAN UNIT	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/nptd/departments/osu	\N	2016-08-07	2016-12-22	92375
+92546	Overseas Operations	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/nptd/departments/osu/departments/oo	\N	2016-08-07	2016-12-22	92545
+92557	Engagement Strategy & Programmes	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/nptd/departments/osu/departments/esp	\N	2016-08-07	2016-12-22	92545
+92572	CORPORATE COMMUNICATIONS	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/cc	\N	2017-02-07	2018-10-22	92211
+92604	HUMAN CAPITAL	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/hc	\N	2017-02-07	2018-10-22	92211
+92619	CORPORATE SERVICES	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/cs	\N	2018-04-22	2018-10-22	92211
+92620	CORPORATE SERVICES-CORPORATE ADMIN	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/cs/departments/ca	\N	2018-04-22	2018-10-22	92619
+92630	CORPORATE SERVICES -FINANCE & PROCUREMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/cs/departments/fp	\N	2018-05-07	2018-10-22	92619
+92639	FINANCE & PROCUREMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/cs/departments/fp	\N	2018-04-22	2018-12-22	92619
+92650	INFORMATION TECHNOLOGY	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/it	\N	2018-04-22	2018-10-22	92211
+92660	ORGANISATIONAL DEVELOPMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/od	\N	2018-04-22	2018-10-22	92211
+92668	TECHNOLOGY	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/t	\N	2015-07-22	2018-10-22	92211
+92681	CORPORATE DEVELOPMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/cd	\N	2017-02-07	2018-04-07	92211
+92682	FINANCE & PROCUREMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/cd/departments/fp	\N	2017-02-07	2018-04-07	92681
+92697	INFORMATION TECHNOLOGY	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/cd/departments/it	\N	2017-02-07	2018-04-07	92681
+92707	ORGANISATIONAL DEVELOPMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/cd/departments/od	\N	2017-02-07	2018-04-07	92681
+92712	CORPORATE ADMIN	https://www.gov.sg/sgdi/ministries/pmo/departments/sg/departments/cd/departments/ca	\N	2017-02-07	2018-04-07	92681
+92728	GOVERNMENT TECHNOLOGY AGENCY	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/govtech	\N	2017-05-07	2018-10-22	\N
+92729	SENIOR LEADERSHIP TEAM	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/govtech/departments/slt	\N	2017-05-07	2018-10-22	92728
+92778	DEPUTY CHIEF EXECUTIVE OFFICE	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/govtech/departments/dceo	\N	2017-05-07	2018-10-22	92728
+92779	SERVICES GROUP	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/govtech/departments/dceo/departments/svc	\N	2017-05-07	2018-10-22	92778
+92780	CULTURE, COMMUNICATIONS & YOUTH	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/govtech/departments/dceo/departments/svc/departments/ccyc	\N	2017-05-07	2018-10-22	92779
+92791	MINISTRY OF HOME AFFAIRS CLUSTER	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/govtech/departments/dceo/departments/svc/departments/mhac	\N	2017-05-07	2018-10-22	92779
+92808	SOCIAL & FAMILY DEVELOPMENT	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/govtech/departments/dceo/departments/svc/departments/sfdc	\N	2017-05-07	2018-10-22	92779
+92816	MINISTRY OF COMMUNICATIONS AND INFORMATION CLUSTER	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/govtech/departments/dceo/departments/svc/departments/mcic	\N	2017-05-07	2018-10-22	92779
+92823	ENVIRONMENT & WATER RESOURCES	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/govtech/departments/dceo/departments/svc/departments/ewrc	\N	2017-05-07	2018-10-22	92779
+92827	PRIME MINISTER'S OFFICE	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/govtech/departments/dceo/departments/svc/departments/pmoc	\N	2017-05-07	2018-10-22	92779
+92839	EDUCATION	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/govtech/departments/dceo/departments/svc/departments/edu	\N	2017-05-07	2018-10-22	92779
+92845	MANPOWER	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/govtech/departments/dceo/departments/svc/departments/mpc	\N	2017-05-07	2018-10-22	92779
+92852	JUSTICE, LAW & FOREIGN AFFAIRS	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/govtech/departments/dceo/departments/svc/departments/jampl	\N	2017-05-07	2018-10-22	92779
+92862	HEALTHCARE	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/govtech/departments/dceo/departments/svc/departments/hc	\N	2017-05-07	2018-10-22	92779
+92866	NATIONAL DEVELOPMENT & TRANSPORT CLUSTER	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/govtech/departments/dceo/departments/svc/departments/ndtc	\N	2017-05-07	2018-10-22	92779
+92880	CLUSTERS & TECHNOLOGY MANAGEMENT OFFICE & MOCC4	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/govtech/departments/dceo/departments/svc/departments/ctmo	\N	2017-05-07	2018-10-22	92779
+92883	PREMIUM CUSTOMER CARE & SUPPORT	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/govtech/departments/dceo/departments/svc/departments/pccs	\N	2017-05-07	2018-10-22	92779
+92885	CENTRAL TS	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/govtech/departments/dceo/departments/svc/departments/cts	\N	2017-05-07	2018-10-22	92779
+92904	STANDARD PRODUCTS	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/govtech/departments/dceo/departments/svc/departments/sp	\N	2017-07-22	2018-10-22	92779
+92907	PLANNING AND QUALITY ASSURANCE	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/govtech/departments/dceo/departments/svc/departments/pqa	\N	2017-11-28	2018-10-22	92779
+92910	MINISTRY OF TRADE & INDUSTRY	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/govtech/departments/dceo/departments/svc/departments/tic	\N	2018-05-23	2018-10-22	92779
+92916	GOVERNANCE & CYBERSECURITY	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/govtech/departments/dceo/departments/gvgc	\N	2017-05-07	2018-10-22	92778
+92945	GOVERNMENT INFRASTRUCTURE GROUP	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/govtech/departments/dceo/departments/gigmhc	\N	2017-05-07	2018-10-22	92778
+92972	PRODUCT MANAGEMENT & DEVELOPMENT	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/govtech/departments/dceo/departments/pmd	\N	2017-05-07	2018-10-22	92778
+93024	GOVERNMENT CYBER SECURITY GROUP	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/govtech/departments/dceo/departments/gcs	\N	2017-05-07	2018-04-22	92778
+93031	SMART NATION SYSTEMS AND SOLUTIONS	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/govtech/departments/dceo/departments/snss	\N	2017-05-07	2018-04-22	92778
+93041	SMART NATION SENSOR PLATFORM PROGRAM OFFICE	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/govtech/departments/dceo/departments/snsppo	\N	2017-05-07	2018-04-22	\N
+93042	CORPORATE	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/govtech/departments/c	\N	2017-05-07	2018-10-22	92728
+93043	COMMUNICATIONS & MARKETING GROUP	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/govtech/departments/c/departments/cmg	\N	2017-05-07	2018-10-22	93042
+93047	FINANCE, INVESTMENT &amp PROCUREMENT GROUP	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/govtech/departments/c/departments/fipg	\N	2017-05-07	2018-10-22	93042
+93056	PEOPLE & ORGANISATION GROUP	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/govtech/departments/c/departments/pog	\N	2017-05-07	2018-10-22	93042
+93065	STRATEGIC PLANNING & INTERNATIONAL DIVISION	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/govtech/departments/c/departments/spi	\N	2017-05-07	2018-10-22	\N
+93066	LEGAL	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/govtech/departments/c/departments/legl	\N	2017-05-07	2018-10-22	93042
+93078	APPLIED INNOVATIONS & PARTNERSHIP	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/govtech/departments/c/departments/aip	\N	2017-11-27	2018-10-22	93042
+93082	GROUP INFORMATION TECHNOLOGY DIVISION	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/govtech/departments/c/departments/gitd	\N	2018-05-23	2018-10-22	93042
+93084	ICS APPLICATIONS	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/govtech/departments/c/departments/ics-apps	\N	2017-05-07	2018-05-07	93042
+93086	INTERNAL AUDIT	https://www.gov.sg/sgdi/ministries/pmo/statutory-boards/govtech/departments/iaud	\N	2017-05-07	2018-10-22	92728
+93089	SMART NATION AND DIGITAL GOVERNMENT OFFICE	https://www.gov.sg/sgdi/ministries/pmo/departments/sndgo	100 High Street #03-01 The Treasury Singapore 179434	2017-06-22	2018-10-22	88703
+93090	Planning and Prioritisation	https://www.gov.sg/sgdi/ministries/pmo/departments/sndgo/departments/pp	\N	2017-07-07	2018-10-22	93089
+93103	Policy and Governance	https://www.gov.sg/sgdi/ministries/pmo/departments/sndgo/departments/pg	\N	2017-07-07	2018-10-22	93089
+93118	Capability Building	https://www.gov.sg/sgdi/ministries/pmo/departments/sndgo/departments/cb	\N	2017-07-07	2018-10-22	93089
+93141	Adoption and Engagement	https://www.gov.sg/sgdi/ministries/pmo/departments/sndgo/departments/ae	\N	2017-07-07	2018-10-22	93089
+93166	Government Data Office	https://www.gov.sg/sgdi/ministries/pmo/departments/sndgo/departments/gdo	\N	2018-09-07	2018-10-22	93089
+93173	Singapore Bicentennial Office	https://www.gov.sg/sgdi/ministries/pmo/committees/sbo	c/o Old Hill Street Police Station
+ 
+ 
+ 140 Hill Street #05-00
+ 
+ 
+ Singapore 179369	2018-02-07	2018-10-22	88703
+93192	SMART NATION PROGRAMME OFFICE	https://www.gov.sg/sgdi/ministries/pmo/departments/snpo	10 Pasir Panjang Road,
+ 
+ 
+ #10-01 Mapletree Business City, Singapore 117438	2015-03-20	2017-05-22	88703
+93204	NATIONAL CLIMATE CHANGE SECRETARIAT	https://www.gov.sg/sgdi/ministries/pmo/departments/nccs	55 Newton Road
+ 
+ 
+ Revenue House, #13-04/05
+ 
+ 
+ Singapore 307987	2015-03-20	2016-07-22	88703
+93205	Policy & Planning Division	https://www.gov.sg/sgdi/ministries/pmo/departments/nccs/departments/ppd	\N	2015-03-20	2016-07-22	93204
+93206	Mitigation & Resilience Policy & Planning	https://www.gov.sg/sgdi/ministries/pmo/departments/nccs/departments/ppd/departments/mrpp	\N	2015-03-20	2016-07-22	93205
+93211	International Policy	https://www.gov.sg/sgdi/ministries/pmo/departments/nccs/departments/ppd/departments/ip	\N	2015-03-20	2016-07-22	93205
+93218	Strategic Issues Division	https://www.gov.sg/sgdi/ministries/pmo/departments/nccs/departments/sid	\N	2015-03-20	2016-07-22	93204
+93219	Economic Research	https://www.gov.sg/sgdi/ministries/pmo/departments/nccs/departments/sid/departments/er	\N	2015-03-20	2016-07-22	93218
+93224	Technology Innovation & Deployment	https://www.gov.sg/sgdi/ministries/pmo/departments/nccs/departments/sid/departments/tid	\N	2015-03-20	2016-07-22	93218
+93232	Policy Innovation & Futures	https://www.gov.sg/sgdi/ministries/pmo/departments/nccs/departments/sid/departments/pif	\N	2015-04-08	2016-07-22	93218
+93234	Corporate Affairs Division	https://www.gov.sg/sgdi/ministries/pmo/departments/nccs/departments/cad	\N	2015-03-20	2016-07-22	93204
+93245	Partnerships & Outreach	https://www.gov.sg/sgdi/ministries/pmo/departments/nccs/departments/cad/departments/po	\N	2015-04-08	2016-07-22	93234
+93250	Corporate Services	https://www.gov.sg/sgdi/ministries/pmo/departments/nccs/departments/cad/departments/cs	\N	2015-04-08	2016-07-22	93234
+93267	Corporate Services Division	https://www.gov.sg0000020006	\N	2015-03-20	2015-04-08	93204
+93272	NATIONAL POPULATION AND TALENT DIVISION	https://www.gov.sg/sgdi/ministries/pmo/departments/nptd	55 Newton Road
+ 
+ 
+ #11-01 Revenue House
+ 
+ 
+ Singapore 307987	2015-03-20	2016-07-22	88703
+93273	POLICY AND PLANNING DIRECTORATE	https://www.gov.sg/sgdi/ministries/pmo/departments/nptd/departments/ppd	\N	2015-03-20	2016-07-22	93272
+93274	POPULATION POLICY	https://www.gov.sg/sgdi/ministries/pmo/departments/nptd/departments/ppd/departments/pp	\N	2015-03-20	2016-07-22	93273
+93282	STRATEGY, PLANNING & RESEARCH	https://www.gov.sg/sgdi/ministries/pmo/departments/nptd/departments/ppd/departments/spr	\N	2015-03-20	2016-07-22	93273
+93293	MARRIAGE AND PARENTHOOD POLICY DIRECTORATE	https://www.gov.sg/sgdi/ministries/pmo/departments/nptd/departments/mppd	\N	2015-03-20	2016-07-22	93272
+93304	NATURALISATION DIRECTORATE	https://www.gov.sg/sgdi/ministries/pmo/departments/nptd/departments/nd	\N	2015-03-20	2016-07-22	93272
+93305	POLICY	https://www.gov.sg/sgdi/ministries/pmo/departments/nptd/departments/nd/departments/pol	\N	2015-03-20	2016-07-22	93304
+93313	RESEARCH & SYSTEMS	https://www.gov.sg/sgdi/ministries/pmo/departments/nptd/departments/nd/departments/ramps	\N	2015-03-20	2016-07-22	93304
+93320	INTEGRATION DIRECTORATE	https://www.gov.sg/sgdi/ministries/pmo/departments/nptd/departments/id	\N	2015-03-20	2016-07-22	93272
+93321	National Integration Council Secretariat	https://www.gov.sg/sgdi/ministries/pmo/departments/nptd/departments/id/departments/nics	\N	2015-03-20	2016-07-22	93320
+93331	Policy and Research	https://www.gov.sg/sgdi/ministries/pmo/departments/nptd/departments/id/departments/pr	\N	2015-04-08	2016-07-22	93320
+93342	Programmes	https://www.gov.sg/sgdi/ministries/pmo/departments/nptd/departments/id/departments/programmes	\N	2015-04-08	2016-07-22	93320
+93349	Integration	https://www.gov.sg0000019585	\N	2015-03-20	2015-04-08	93320
+93354	Integration Programmes	https://www.gov.sg0000026585	\N	2015-03-20	2015-04-08	93320
+93359	TALENT ENGAGEMENT DIRECTORATE	https://www.gov.sg/sgdi/ministries/pmo/departments/nptd/departments/ted	\N	2015-03-20	2016-07-22	93272
+93360	Policy & Programmes	https://www.gov.sg/sgdi/ministries/pmo/departments/nptd/departments/ted/departments/pp	\N	2015-03-20	2016-07-22	93359
+93367	Singapore Global Network	https://www.gov.sg/sgdi/ministries/pmo/departments/nptd/departments/ted/departments/sgn	\N	2015-03-20	2016-07-22	93359
+93376	OVERSEAS SINGAPOREAN UNIT	https://www.gov.sg/sgdi/ministries/pmo/departments/nptd/departments/osu	\N	2015-03-20	2016-07-22	93272
+93377	Overseas Operations	https://www.gov.sg/sgdi/ministries/pmo/departments/nptd/departments/osu/departments/oo	\N	2015-03-20	2016-07-22	93376
+93386	Engagement Strategy & Programmes	https://www.gov.sg/sgdi/ministries/pmo/departments/nptd/departments/osu/departments/esampampp	\N	2015-03-20	2016-07-22	93376
+93409	CORPORATE COMMUNICATIONS DIRECTORATE	https://www.gov.sg/sgdi/ministries/pmo/departments/nptd/departments/corp-comms	\N	2015-03-20	2016-07-22	93272
+93410	Corporate Communications	https://www.gov.sg/sgdi/ministries/pmo/departments/nptd/departments/corp-comms/departments/cc	\N	2015-03-20	2016-07-22	93409
+93415	Digital Communications	https://www.gov.sg/sgdi/ministries/pmo/departments/nptd/departments/corp-comms/departments/dc	\N	2015-03-20	2016-07-22	93409
+93428	CORPORATE SERVICES DIRECTORATE	https://www.gov.sg/sgdi/ministries/pmo/departments/nptd/departments/cs	\N	2015-03-20	2016-07-22	93272
+93429	FINANCE & ADMIN	https://www.gov.sg/sgdi/ministries/pmo/departments/nptd/departments/cs/departments/fin--ad	\N	2015-03-20	2016-07-22	93428
+93450	HUMAN RESOURCE	https://www.gov.sg/sgdi/ministries/pmo/departments/nptd/departments/cs/departments/hr	\N	2015-03-20	2016-07-22	93428
+93458	INFORMATION TECHNOLOGY DEPARTMENT	https://www.gov.sg/sgdi/ministries/pmo/departments/nptd/departments/cs/departments/itd	\N	2015-03-20	2016-07-22	93428
